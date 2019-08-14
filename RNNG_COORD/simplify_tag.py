@@ -5,7 +5,7 @@ Created on Wed Aug 14 14:42:14 2019
 
 @author: aixiuan
 """
-
+##use python simplify_tag.py <inputfilename> <outputfilename> for example: python simplify_tag.py PTB.ext simplify_PTB.txt
 
 from nltk.tree import *
 from nltk import Tree, Nonterminal
