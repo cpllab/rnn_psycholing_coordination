@@ -10,16 +10,16 @@ Created on Wed Aug 14 14:42:14 2019
 from nltk.tree import *
 from nltk import Tree, Nonterminal
 import sys
-
+import re
 
 
 def simplify_function_tag(tag):
-    if '-' in tag:
-        tag=tag.split('-')[0]
-    if '=' in tag:
-        tag=tag.split('=')[0]
-    if '|' in tag:
-        tag=tag.split('|')[0]
+    if 'COORD' not in tag:
+        tag=re.split('-|=|\|', tag)[0]
+    elif 'COORD' in tag and 'CCP' not in tag:
+        tag=re.split('-|=|\|',tag)[0]+'-COORD'
+    elif 'COORD' in tag and 'CCP' in tag:
+        tag=re.split('-|=|\|',tag)[0]
     return tag
     
 
