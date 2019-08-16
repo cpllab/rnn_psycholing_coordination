@@ -12,7 +12,6 @@ import csv
 
 import pandas as pd
 
-input_df = pd.read_excel('test_simple_coord.xlsx')
 
 conditions = {
     'Nm_and_Nf_Vm': ['Det', 'N1m', 'et', 'Det', 'N2f', 'sont', 'Masc'],
@@ -41,7 +40,7 @@ autocaps = True
 def rows(df):
     sent=[]
     for condition in conditions.keys():
-        sent.append(df[conditions[condition][0]].str.strip()+' '+df[conditions[condition][1]].str.strip()+' '+df[conditions[condition][2]].str.strip()+' '+df[conditions[condition][3]].str.strip()+ ' '+df[conditions[condition][4]].str.strip()+' '+df[conditions[condition][5]].str.strip())
+        sent.append(df[conditions[condition][0]].str.strip()+' '+df[conditions[condition][1]].str.strip()+' '+df[conditions[condition][2]].str.strip()+' '+df[conditions[condition][3]].str.strip()+ ' '+df[conditions[condition][4]].str.strip()+' '+df[conditions[condition][5]].str.strip()+' '+df[conditions[condition][6]].str.strip())
     #.str.cat(df[conditions[condition][2]],sep=" ").str.cat(df[conditions[condition][3]],sep=" ").str.cat(df[conditions[condition][4]],sep=" ").str.cat(df[conditions[condition][5]],sep=" ").str.cat("<eos>", sep=None))
     return sent
 
@@ -55,9 +54,8 @@ def main(filename, output_file):
     input_df = pd.read_excel(filename)
     output_df = expand_items(input_df)
     try:
-        os.mkdir("tests")
+        output_df.to_csv(output_file, index= False, header= False, quoting=csv.QUOTE_NONE, quotechar='"',  sep='\n')
     except FileExistsError:
         pass
-    output_df.to_csv(output_file, index= False, header= False, quoting=csv.QUOTE_NONE, quotechar='"',  sep='\n')
 if __name__ == "__main__":
     main(*sys.argv[1:])
