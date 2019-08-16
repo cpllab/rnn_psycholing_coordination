@@ -1,22 +1,6 @@
-# rnn_psycholing_coordination
+# Simple Coordination Experiment
 
-Each Folder contains three experiments in the paper.
-In each experiment, there are three files: input.py, expand_items.py, experimental file, as well as a result folder.
-
-*input.py* takes two arguments: experimental filename and output filename, for example 
-
-```
-input.py test_simple_coord.xlsx items.txt
-```
-Experimental file must be in format **xlsx** which contains all the experimental regions. The output is combined sentences which the model will test.
-
-*expand_items.py* take two arguments: experimental filename and output filename, for example 
-```
-expand_items.py test_simple_coord.xlsx items.txt
-```
-The output file contains a word in each row, as well as conditions, regions, item number in order to combine with the output results of model.
-
-In result folder, the files are as following:
-- item.txt is the output file of expand.py
-- results of neutral network models. 
-- R script for data analysis
+|Experiment| Conditions | Sentences| 
+| :---:         | :---:         |     :---:      |     
+| and-coordination |and_sg_sg_Vsg <br> and_sg_sg_Vsg_Vpl <br>  and_sg_pl_Vsg_Vsg <br>  and_sg_pl_Npl_Vpl <br> and_pl_sg_Vsg <br> and_pl_sg_Vpl <br> and_pl_pl_Vsg<br> and_pl_pl_Vpl | The door and the window is<br> That the door and the window are <br> The door and the windows is <br> The door and the windows are <br> The doors and the window is <br> The doors and the window are  <br>  The doors and the windows is <br>  The doors and the windows are   |  
+| or-coordination  |or_sg_sg_Vsg <br> or_sg_sg_Vsg_Vpl <br>  or_sg_pl_Vsg_Vsg <br>  or_sg_pl_Npl_Vpl <br> or_pl_sg_Vsg <br> or_pl_sg_Vpl <br> or_pl_pl_Vsg<br> or_pl_pl_Vpl  | The door or the window is<br> That the door or the window are <br> The door or the windows is <br> The door or the windows are <br> The doors or the window is <br> The doors or the window are  <br>  The doors or the windows is <br>  The doors or the windows are   |  
