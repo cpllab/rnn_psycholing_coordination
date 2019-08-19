@@ -8,7 +8,7 @@ Les départements et les régions étaient rejetés
 Les budgets et les réductions étaient accordés
 Les appareils et les technologies étaient adaptés
 Les usages et les conséquences étaient attendus
-Les événements et les activités étaient produits
+Les événements et les activités étaient différents
 Les immeubles et les maisons étaient nouveaux
 Les tissus et les matières sont connus
 Les lieux et les dates sont fixés
@@ -32,7 +32,7 @@ Les départements et les régions étaient rejetés
 Les budgets et les réductions étaient accordées
 Les appareils et les technologies étaient adaptées
 Les usages et les conséquences étaient attendues
-Les événements et les activités étaient produites
+Les événements et les activités étaient différentes
 Les immeubles et les maisons étaient nouvelles
 Les tissus et les matières sont connues
 Les lieux et les dates sont fixées
@@ -56,7 +56,7 @@ Les provinces et les maires étaient rejetés
 Les demandes et les moyens étaient accordés
 Les applications et les écrans étaient adaptés
 Les règles et les résultats étaient attendus
-Les présentations et les spectacles étaient produits
+Les cérémonies et les spectacles étaient différents
 Les résidences et les logements étaient nouveaux
 Les couleurs et les parfums sont connus
 Les adresses et les noms sont fixés
@@ -80,7 +80,7 @@ Les provinces et les maires étaient rejetés
 Les demandes et les moyens étaient accordées
 Les applications et les écrans étaient adaptées
 Les règles et les résultats étaient attendues
-Les présentations et les spectacles étaient produites
+Les cérémonies et les spectacles étaient différentes
 Les résidences et les logements étaient nouvelles
 Les couleurs et les parfums sont connues
 Les adresses et les noms sont fixées
@@ -104,7 +104,7 @@ Les départements et les maires étaient rejetés
 Les budgets et les moyens étaient accordés
 Les appareils et les écrans étaient adaptés
 Les usages et les résultats étaient attendus
-Les événements et les spectacles étaient produits
+Les événements et les spectacles étaient différents
 Les immeubles et les logements étaient nouveaux
 Les tissus et les parfums sont connus
 Les lieux et les noms sont fixés
@@ -128,7 +128,7 @@ Les départements et les maires étaient rejetés
 Les budgets et les moyens étaient accordées
 Les appareils et les écrans étaient adaptées
 Les usages et les résultats étaient attendues
-Les événements et les spectacles étaient produites
+Les événements et les spectacles étaient différentes
 Les immeubles et les logements étaient nouvelles
 Les tissus et les parfums sont connues
 Les lieux et les noms sont fixées
@@ -152,7 +152,7 @@ Les provinces et les régions étaient rejetés
 Les demandes et les réductions étaient accordés
 Les applications et les technologies étaient adaptés
 Les règles et les conséquences étaient attendus
-Les présentations et les activités étaient produits
+Les cérémonies et les activités étaient différents
 Les résidences et les maisons étaient nouveaux
 Les couleurs et les matières sont connus
 Les adresses et les dates sont fixés
@@ -176,7 +176,7 @@ Les provinces et les régions étaient rejetés
 Les demandes et les réductions étaient accordées
 Les applications et les technologies étaient adaptées
 Les règles et les conséquences étaient attendues
-Les présentations et les activités étaient produites
+Les cérémonies et les activités étaient différentes
 Les résidences et les maisons étaient nouvelles
 Les couleurs et les matières sont connues
 Les adresses et les dates sont fixées
@@ -200,7 +200,7 @@ Les départements ou les régions étaient rejetés
 Les budgets ou les réductions étaient accordés
 Les appareils ou les technologies étaient adaptés
 Les usages ou les conséquences étaient attendus
-Les événements ou les activités étaient produits
+Les événements ou les activités étaient différents
 Les immeubles ou les maisons étaient nouveaux
 Les tissus ou les matières sont connus
 Les lieux ou les dates sont fixés
@@ -224,7 +224,7 @@ Les départements ou les régions étaient rejetés
 Les budgets ou les réductions étaient accordées
 Les appareils ou les technologies étaient adaptées
 Les usages ou les conséquences étaient attendues
-Les événements ou les activités étaient produites
+Les événements ou les activités étaient différentes
 Les immeubles ou les maisons étaient nouvelles
 Les tissus ou les matières sont connues
 Les lieux ou les dates sont fixées
@@ -248,7 +248,7 @@ Les provinces ou les maires étaient rejetés
 Les demandes ou les moyens étaient accordés
 Les applications ou les écrans étaient adaptés
 Les règles ou les résultats étaient attendus
-Les présentations ou les spectacles étaient produits
+Les cérémonies ou les spectacles étaient différents
 Les résidences ou les logements étaient nouveaux
 Les couleurs ou les parfums sont connus
 Les adresses ou les noms sont fixés
@@ -272,7 +272,7 @@ Les provinces ou les maires étaient rejetés
 Les demandes ou les moyens étaient accordées
 Les applications ou les écrans étaient adaptées
 Les règles ou les résultats étaient attendues
-Les présentations ou les spectacles étaient produites
+Les cérémonies ou les spectacles étaient différentes
 Les résidences ou les logements étaient nouvelles
 Les couleurs ou les parfums sont connues
 Les adresses ou les noms sont fixées
@@ -296,7 +296,7 @@ Les départements ou les maires étaient rejetés
 Les budgets ou les moyens étaient accordés
 Les appareils ou les écrans étaient adaptés
 Les usages ou les résultats étaient attendus
-Les événements ou les spectacles étaient produits
+Les événements ou les spectacles étaient différents
 Les immeubles ou les logements étaient nouveaux
 Les tissus ou les parfums sont connus
 Les lieux ou les noms sont fixés
@@ -320,7 +320,7 @@ Les départements ou les maires étaient rejetés
 Les budgets ou les moyens étaient accordées
 Les appareils ou les écrans étaient adaptées
 Les usages ou les résultats étaient attendues
-Les événements ou les spectacles étaient produites
+Les événements ou les spectacles étaient différentes
 Les immeubles ou les logements étaient nouvelles
 Les tissus ou les parfums sont connues
 Les lieux ou les noms sont fixées
@@ -344,7 +344,7 @@ Les provinces ou les régions étaient rejetés
 Les demandes ou les réductions étaient accordés
 Les applications ou les technologies étaient adaptés
 Les règles ou les conséquences étaient attendus
-Les présentations ou les activités étaient produits
+Les cérémonies ou les activités étaient différents
 Les résidences ou les maisons étaient nouveaux
 Les couleurs ou les matières sont connus
 Les adresses ou les dates sont fixés
@@ -368,7 +368,7 @@ Les provinces ou les régions étaient rejetés
 Les demandes ou les réductions étaient accordées
 Les applications ou les technologies étaient adaptées
 Les règles ou les conséquences étaient attendues
-Les présentations ou les activités étaient produites
+Les cérémonies ou les activités étaient différentes
 Les résidences ou les maisons étaient nouvelles
 Les couleurs ou les matières sont connues
 Les adresses ou les dates sont fixées
