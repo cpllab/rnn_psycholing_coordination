@@ -33,7 +33,7 @@ conditions = {
     'that_Nm_and_Nm_Vf': ['Prefix1', 'Det', 'N1m', 'et', 'Det', 'N2m', 'sont', 'Fem'],
     'that_Nf_and_Nf_Vm': ['Prefix1', 'Det', 'N1f', 'et', 'Det', 'N2f', 'sont', 'Masc'],
     'that_Nf_and_Nf_Vf': ['Prefix1', 'Det', 'N1f', 'et', 'Det', 'N2f', 'sont', 'Fem'],
-    }
+}
 end_condition_included = False
 autocaps = True
 
@@ -56,9 +56,9 @@ def main(filename, output_file):
     input_df = pd.read_excel(filename)
     output_df = expand_items(input_df)
     try:
-        os.mkdir("tests")
+        output_df.to_csv(output_file, index= False, header= False, quoting=csv.QUOTE_NONE, quotechar='"',  sep='\n')
     except FileExistsError:
         pass
-    output_df.to_csv(output_file, index= False, header= False, quoting=csv.QUOTE_NONE, quotechar='"',  sep='\n')
+
 if __name__ == "__main__":
     main(*sys.argv[1:])
