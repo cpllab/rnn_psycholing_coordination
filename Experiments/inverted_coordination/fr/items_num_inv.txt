@@ -1,0 +1,1881 @@
+	sent_index	word_index	word	region	condition
+0	0	0	Je	prefix	Vsg-Nsg-and
+1	0	1	me	prefix	Vsg-Nsg-and
+2	0	2	demande	prefix	Vsg-Nsg-and
+3	0	3	où	prefix	Vsg-Nsg-and
+4	0	4	va	Vsg	Vsg-Nsg-and
+5	0	5	le	det1sg	Vsg-Nsg-and
+6	0	6	maire	np1sg	Vsg-Nsg-and
+7	0	7	et	and	Vsg-Nsg-and
+8	0	9	<eos>	Vsg-Nsg-and	
+9	1	0	Elle	prefix	Vsg-Nsg-and
+10	1	1	ne	prefix	Vsg-Nsg-and
+11	1	2	sait	prefix	Vsg-Nsg-and
+12	1	3	plus	prefix	Vsg-Nsg-and
+13	1	4	à	prefix	Vsg-Nsg-and
+14	1	5	quelle	prefix	Vsg-Nsg-and
+15	1	6	heure	prefix	Vsg-Nsg-and
+16	1	7	va	Vsg	Vsg-Nsg-and
+17	1	8	le	det1sg	Vsg-Nsg-and
+18	1	9	dirigeant	np1sg	Vsg-Nsg-and
+19	1	10	et	and	Vsg-Nsg-and
+20	1	12	<eos>	Vsg-Nsg-and	
+21	2	0	Il	prefix	Vsg-Nsg-and
+22	2	1	aimerait	prefix	Vsg-Nsg-and
+23	2	2	savoir	prefix	Vsg-Nsg-and
+24	2	3	ce	prefix	Vsg-Nsg-and
+25	2	4	que	prefix	Vsg-Nsg-and
+26	2	5	va	Vsg	Vsg-Nsg-and
+27	2	6	le	det1sg	Vsg-Nsg-and
+28	2	7	président	np1sg	Vsg-Nsg-and
+29	2	8	et	and	Vsg-Nsg-and
+30	2	10	<eos>	Vsg-Nsg-and	
+31	3	0	Nous	prefix	Vsg-Nsg-and
+32	3	1	voulons	prefix	Vsg-Nsg-and
+33	3	2	savoir	prefix	Vsg-Nsg-and
+34	3	3	ce	prefix	Vsg-Nsg-and
+35	3	4	que	prefix	Vsg-Nsg-and
+36	3	5	va	Vsg	Vsg-Nsg-and
+37	3	6	l'	det1sg	Vsg-Nsg-and
+38	3	7	animateur	np1sg	Vsg-Nsg-and
+39	3	8	et	and	Vsg-Nsg-and
+40	3	10	<eos>	Vsg-Nsg-and	
+41	4	0	Je	prefix	Vsg-Nsg-and
+42	4	1	me	prefix	Vsg-Nsg-and
+43	4	2	demande	prefix	Vsg-Nsg-and
+44	4	3	quand	prefix	Vsg-Nsg-and
+45	4	4	va	Vsg	Vsg-Nsg-and
+46	4	5	le	det1sg	Vsg-Nsg-and
+47	4	6	gouverneur	np1sg	Vsg-Nsg-and
+48	4	7	et	and	Vsg-Nsg-and
+49	4	9	<eos>	Vsg-Nsg-and	
+50	5	0	Tu	prefix	Vsg-Nsg-and
+51	5	1	ne	prefix	Vsg-Nsg-and
+52	5	2	sais	prefix	Vsg-Nsg-and
+53	5	3	pas	prefix	Vsg-Nsg-and
+54	5	4	ce	prefix	Vsg-Nsg-and
+55	5	5	que	prefix	Vsg-Nsg-and
+56	5	6	va	Vsg	Vsg-Nsg-and
+57	5	7	le	det1sg	Vsg-Nsg-and
+58	5	8	bébé	np1sg	Vsg-Nsg-and
+59	5	9	et	and	Vsg-Nsg-and
+60	5	11	<eos>	Vsg-Nsg-and	
+61	6	0	Il	prefix	Vsg-Nsg-and
+62	6	1	ne	prefix	Vsg-Nsg-and
+63	6	2	sait	prefix	Vsg-Nsg-and
+64	6	3	pas	prefix	Vsg-Nsg-and
+65	6	4	à	prefix	Vsg-Nsg-and
+66	6	5	quel	prefix	Vsg-Nsg-and
+67	6	6	moment	prefix	Vsg-Nsg-and
+68	6	7	va	Vsg	Vsg-Nsg-and
+69	6	8	mon	det1sg	Vsg-Nsg-and
+70	6	9	frère	np1sg	Vsg-Nsg-and
+71	6	10	et	and	Vsg-Nsg-and
+72	6	12	<eos>	Vsg-Nsg-and	
+73	7	0	Elle	prefix	Vsg-Nsg-and
+74	7	1	ignore	prefix	Vsg-Nsg-and
+75	7	2	quel	prefix	Vsg-Nsg-and
+76	7	3	jour	prefix	Vsg-Nsg-and
+77	7	4	va	Vsg	Vsg-Nsg-and
+78	7	5	le	det1sg	Vsg-Nsg-and
+79	7	6	médecin	np1sg	Vsg-Nsg-and
+80	7	7	et	and	Vsg-Nsg-and
+81	7	9	<eos>	Vsg-Nsg-and	
+82	8	0	Nous	prefix	Vsg-Nsg-and
+83	8	1	avons	prefix	Vsg-Nsg-and
+84	8	2	noté	prefix	Vsg-Nsg-and
+85	8	3	quand	prefix	Vsg-Nsg-and
+86	8	4	va	Vsg	Vsg-Nsg-and
+87	8	5	l'	det1sg	Vsg-Nsg-and
+88	8	6	agent	np1sg	Vsg-Nsg-and
+89	8	7	et	and	Vsg-Nsg-and
+90	8	9	<eos>	Vsg-Nsg-and	
+91	9	0	Ils	prefix	Vsg-Nsg-and
+92	9	1	se	prefix	Vsg-Nsg-and
+93	9	2	demandent	prefix	Vsg-Nsg-and
+94	9	3	comment	prefix	Vsg-Nsg-and
+95	9	4	va	Vsg	Vsg-Nsg-and
+96	9	5	le	det1sg	Vsg-Nsg-and
+97	9	6	patron	np1sg	Vsg-Nsg-and
+98	9	7	et	and	Vsg-Nsg-and
+99	9	9	<eos>	Vsg-Nsg-and	
+100	10	0	Il	prefix	Vsg-Nsg-and
+101	10	1	attend	prefix	Vsg-Nsg-and
+102	10	2	de	prefix	Vsg-Nsg-and
+103	10	3	voir	prefix	Vsg-Nsg-and
+104	10	4	combien	prefix	Vsg-Nsg-and
+105	10	5	va	Vsg	Vsg-Nsg-and
+106	10	6	le	det1sg	Vsg-Nsg-and
+107	10	7	directeur	np1sg	Vsg-Nsg-and
+108	10	8	et	and	Vsg-Nsg-and
+109	10	10	<eos>	Vsg-Nsg-and	
+110	11	0	Elle	prefix	Vsg-Nsg-and
+111	11	1	verra	prefix	Vsg-Nsg-and
+112	11	2	comment	prefix	Vsg-Nsg-and
+113	11	3	va	Vsg	Vsg-Nsg-and
+114	11	4	le	det1sg	Vsg-Nsg-and
+115	11	5	technicien	np1sg	Vsg-Nsg-and
+116	11	6	et	and	Vsg-Nsg-and
+117	11	8	<eos>	Vsg-Nsg-and	
+118	12	0	Je	prefix	Vsg-Nsg-and
+119	12	1	veux	prefix	Vsg-Nsg-and
+120	12	2	savoir	prefix	Vsg-Nsg-and
+121	12	3	ce	prefix	Vsg-Nsg-and
+122	12	4	que	prefix	Vsg-Nsg-and
+123	12	5	va	Vsg	Vsg-Nsg-and
+124	12	6	le	det1sg	Vsg-Nsg-and
+125	12	7	parc	np1sg	Vsg-Nsg-and
+126	12	8	et	and	Vsg-Nsg-and
+127	12	10	<eos>	Vsg-Nsg-and	
+128	13	0	Je	prefix	Vsg-Nsg-and
+129	13	1	me	prefix	Vsg-Nsg-and
+130	13	2	demande	prefix	Vsg-Nsg-and
+131	13	3	pendant	prefix	Vsg-Nsg-and
+132	13	4	quelles	prefix	Vsg-Nsg-and
+133	13	5	semaines	prefix	Vsg-Nsg-and
+134	13	6	va	Vsg	Vsg-Nsg-and
+135	13	7	le	det1sg	Vsg-Nsg-and
+136	13	8	meeting	np1sg	Vsg-Nsg-and
+137	13	9	et	and	Vsg-Nsg-and
+138	13	11	<eos>	Vsg-Nsg-and	
+139	14	0	Il	prefix	Vsg-Nsg-and
+140	14	1	ne	prefix	Vsg-Nsg-and
+141	14	2	sait	prefix	Vsg-Nsg-and
+142	14	3	pas	prefix	Vsg-Nsg-and
+143	14	4	quand	prefix	Vsg-Nsg-and
+144	14	5	va	Vsg	Vsg-Nsg-and
+145	14	6	l'	det1sg	Vsg-Nsg-and
+146	14	7	avion	np1sg	Vsg-Nsg-and
+147	14	8	et	and	Vsg-Nsg-and
+148	14	10	<eos>	Vsg-Nsg-and	
+149	15	0	Elle	prefix	Vsg-Nsg-and
+150	15	1	ignore	prefix	Vsg-Nsg-and
+151	15	2	combien	prefix	Vsg-Nsg-and
+152	15	3	va	Vsg	Vsg-Nsg-and
+153	15	4	le	det1sg	Vsg-Nsg-and
+154	15	5	loyer	np1sg	Vsg-Nsg-and
+155	15	6	et	and	Vsg-Nsg-and
+156	15	8	<eos>	Vsg-Nsg-and	
+157	16	0	Nous	prefix	Vsg-Nsg-and
+158	16	1	voulons	prefix	Vsg-Nsg-and
+159	16	2	savoir	prefix	Vsg-Nsg-and
+160	16	3	quand	prefix	Vsg-Nsg-and
+161	16	4	va	Vsg	Vsg-Nsg-and
+162	16	5	la	det1sg	Vsg-Nsg-and
+163	16	6	ville	np1sg	Vsg-Nsg-and
+164	16	7	et	and	Vsg-Nsg-and
+165	16	9	<eos>	Vsg-Nsg-and	
+166	17	0	Nous	prefix	Vsg-Nsg-and
+167	17	1	ne	prefix	Vsg-Nsg-and
+168	17	2	savons	prefix	Vsg-Nsg-and
+169	17	3	pas	prefix	Vsg-Nsg-and
+170	17	4	quand	prefix	Vsg-Nsg-and
+171	17	5	va	Vsg	Vsg-Nsg-and
+172	17	6	le	det1sg	Vsg-Nsg-and
+173	17	7	parti	np1sg	Vsg-Nsg-and
+174	17	8	et	and	Vsg-Nsg-and
+175	17	10	<eos>	Vsg-Nsg-and	
+176	18	0	Il	prefix	Vsg-Nsg-and
+177	18	1	veut	prefix	Vsg-Nsg-and
+178	18	2	savoir	prefix	Vsg-Nsg-and
+179	18	3	que	prefix	Vsg-Nsg-and
+180	18	4	va	Vsg	Vsg-Nsg-and
+181	18	5	le	det1sg	Vsg-Nsg-and
+182	18	6	bus	np1sg	Vsg-Nsg-and
+183	18	7	et	and	Vsg-Nsg-and
+184	18	9	<eos>	Vsg-Nsg-and	
+185	19	0	Il	prefix	Vsg-Nsg-and
+186	19	1	aimerait	prefix	Vsg-Nsg-and
+187	19	2	savoir	prefix	Vsg-Nsg-and
+188	19	3	ce	prefix	Vsg-Nsg-and
+189	19	4	que	prefix	Vsg-Nsg-and
+190	19	5	va	Vsg	Vsg-Nsg-and
+191	19	6	le	det1sg	Vsg-Nsg-and
+192	19	7	restaurant	np1sg	Vsg-Nsg-and
+193	19	8	et	and	Vsg-Nsg-and
+194	19	10	<eos>	Vsg-Nsg-and	
+195	20	0	Je	prefix	Vsg-Nsg-and
+196	20	1	ne	prefix	Vsg-Nsg-and
+197	20	2	sais	prefix	Vsg-Nsg-and
+198	20	3	pas	prefix	Vsg-Nsg-and
+199	20	4	comment	prefix	Vsg-Nsg-and
+200	20	5	va	Vsg	Vsg-Nsg-and
+201	20	6	la	det1sg	Vsg-Nsg-and
+202	20	7	réponse	np1sg	Vsg-Nsg-and
+203	20	8	et	and	Vsg-Nsg-and
+204	20	10	<eos>	Vsg-Nsg-and	
+205	21	0	Je	prefix	Vsg-Nsg-and
+206	21	1	me	prefix	Vsg-Nsg-and
+207	21	2	demande	prefix	Vsg-Nsg-and
+208	21	3	quand	prefix	Vsg-Nsg-and
+209	21	4	va	Vsg	Vsg-Nsg-and
+210	21	5	le	det1sg	Vsg-Nsg-and
+211	21	6	spectacle	np1sg	Vsg-Nsg-and
+212	21	7	et	and	Vsg-Nsg-and
+213	21	9	<eos>	Vsg-Nsg-and	
+214	22	0	Nous	prefix	Vsg-Nsg-and
+215	22	1	attendons	prefix	Vsg-Nsg-and
+216	22	2	de	prefix	Vsg-Nsg-and
+217	22	3	voir	prefix	Vsg-Nsg-and
+218	22	4	ce	prefix	Vsg-Nsg-and
+219	22	5	que	prefix	Vsg-Nsg-and
+220	22	6	va	Vsg	Vsg-Nsg-and
+221	22	7	le	det1sg	Vsg-Nsg-and
+222	22	8	livre	np1sg	Vsg-Nsg-and
+223	22	9	et	and	Vsg-Nsg-and
+224	22	11	<eos>	Vsg-Nsg-and	
+225	23	0	Il	prefix	Vsg-Nsg-and
+226	23	1	ignore	prefix	Vsg-Nsg-and
+227	23	2	dans	prefix	Vsg-Nsg-and
+228	23	3	quelles	prefix	Vsg-Nsg-and
+229	23	4	rues	prefix	Vsg-Nsg-and
+230	23	5	va	Vsg	Vsg-Nsg-and
+231	23	6	la	det1sg	Vsg-Nsg-and
+232	23	7	grève	np1sg	Vsg-Nsg-and
+233	23	8	et	and	Vsg-Nsg-and
+234	23	10	<eos>	Vsg-Nsg-and	
+235	0	0	Je	prefix	Vpl-Nsg-and
+236	0	1	me	prefix	Vpl-Nsg-and
+237	0	2	demande	prefix	Vpl-Nsg-and
+238	0	3	où	prefix	Vpl-Nsg-and
+239	0	4	vont	Vpl	Vpl-Nsg-and
+240	0	5	le	det1sg	Vpl-Nsg-and
+241	0	6	maire	np1sg	Vpl-Nsg-and
+242	0	7	et	and	Vpl-Nsg-and
+243	0	9	<eos>	Vpl-Nsg-and	
+244	1	0	Elle	prefix	Vpl-Nsg-and
+245	1	1	ne	prefix	Vpl-Nsg-and
+246	1	2	sait	prefix	Vpl-Nsg-and
+247	1	3	plus	prefix	Vpl-Nsg-and
+248	1	4	à	prefix	Vpl-Nsg-and
+249	1	5	quelle	prefix	Vpl-Nsg-and
+250	1	6	heure	prefix	Vpl-Nsg-and
+251	1	7	vont	Vpl	Vpl-Nsg-and
+252	1	8	le	det1sg	Vpl-Nsg-and
+253	1	9	dirigeant	np1sg	Vpl-Nsg-and
+254	1	10	et	and	Vpl-Nsg-and
+255	1	12	<eos>	Vpl-Nsg-and	
+256	2	0	Il	prefix	Vpl-Nsg-and
+257	2	1	aimerait	prefix	Vpl-Nsg-and
+258	2	2	savoir	prefix	Vpl-Nsg-and
+259	2	3	ce	prefix	Vpl-Nsg-and
+260	2	4	que	prefix	Vpl-Nsg-and
+261	2	5	vont	Vpl	Vpl-Nsg-and
+262	2	6	le	det1sg	Vpl-Nsg-and
+263	2	7	président	np1sg	Vpl-Nsg-and
+264	2	8	et	and	Vpl-Nsg-and
+265	2	10	<eos>	Vpl-Nsg-and	
+266	3	0	Nous	prefix	Vpl-Nsg-and
+267	3	1	voulons	prefix	Vpl-Nsg-and
+268	3	2	savoir	prefix	Vpl-Nsg-and
+269	3	3	ce	prefix	Vpl-Nsg-and
+270	3	4	que	prefix	Vpl-Nsg-and
+271	3	5	vont	Vpl	Vpl-Nsg-and
+272	3	6	l'	det1sg	Vpl-Nsg-and
+273	3	7	animateur	np1sg	Vpl-Nsg-and
+274	3	8	et	and	Vpl-Nsg-and
+275	3	10	<eos>	Vpl-Nsg-and	
+276	4	0	Je	prefix	Vpl-Nsg-and
+277	4	1	me	prefix	Vpl-Nsg-and
+278	4	2	demande	prefix	Vpl-Nsg-and
+279	4	3	quand	prefix	Vpl-Nsg-and
+280	4	4	vont	Vpl	Vpl-Nsg-and
+281	4	5	le	det1sg	Vpl-Nsg-and
+282	4	6	gouverneur	np1sg	Vpl-Nsg-and
+283	4	7	et	and	Vpl-Nsg-and
+284	4	9	<eos>	Vpl-Nsg-and	
+285	5	0	Tu	prefix	Vpl-Nsg-and
+286	5	1	ne	prefix	Vpl-Nsg-and
+287	5	2	sais	prefix	Vpl-Nsg-and
+288	5	3	pas	prefix	Vpl-Nsg-and
+289	5	4	ce	prefix	Vpl-Nsg-and
+290	5	5	que	prefix	Vpl-Nsg-and
+291	5	6	vont	Vpl	Vpl-Nsg-and
+292	5	7	le	det1sg	Vpl-Nsg-and
+293	5	8	bébé	np1sg	Vpl-Nsg-and
+294	5	9	et	and	Vpl-Nsg-and
+295	5	11	<eos>	Vpl-Nsg-and	
+296	6	0	Il	prefix	Vpl-Nsg-and
+297	6	1	ne	prefix	Vpl-Nsg-and
+298	6	2	sait	prefix	Vpl-Nsg-and
+299	6	3	pas	prefix	Vpl-Nsg-and
+300	6	4	à	prefix	Vpl-Nsg-and
+301	6	5	quel	prefix	Vpl-Nsg-and
+302	6	6	moment	prefix	Vpl-Nsg-and
+303	6	7	vont	Vpl	Vpl-Nsg-and
+304	6	8	mon	det1sg	Vpl-Nsg-and
+305	6	9	frère	np1sg	Vpl-Nsg-and
+306	6	10	et	and	Vpl-Nsg-and
+307	6	12	<eos>	Vpl-Nsg-and	
+308	7	0	Elle	prefix	Vpl-Nsg-and
+309	7	1	ignore	prefix	Vpl-Nsg-and
+310	7	2	quel	prefix	Vpl-Nsg-and
+311	7	3	jour	prefix	Vpl-Nsg-and
+312	7	4	vont	Vpl	Vpl-Nsg-and
+313	7	5	le	det1sg	Vpl-Nsg-and
+314	7	6	médecin	np1sg	Vpl-Nsg-and
+315	7	7	et	and	Vpl-Nsg-and
+316	7	9	<eos>	Vpl-Nsg-and	
+317	8	0	Nous	prefix	Vpl-Nsg-and
+318	8	1	avons	prefix	Vpl-Nsg-and
+319	8	2	noté	prefix	Vpl-Nsg-and
+320	8	3	quand	prefix	Vpl-Nsg-and
+321	8	4	vont	Vpl	Vpl-Nsg-and
+322	8	5	l'	det1sg	Vpl-Nsg-and
+323	8	6	agent	np1sg	Vpl-Nsg-and
+324	8	7	et	and	Vpl-Nsg-and
+325	8	9	<eos>	Vpl-Nsg-and	
+326	9	0	Ils	prefix	Vpl-Nsg-and
+327	9	1	se	prefix	Vpl-Nsg-and
+328	9	2	demandent	prefix	Vpl-Nsg-and
+329	9	3	comment	prefix	Vpl-Nsg-and
+330	9	4	vont	Vpl	Vpl-Nsg-and
+331	9	5	le	det1sg	Vpl-Nsg-and
+332	9	6	patron	np1sg	Vpl-Nsg-and
+333	9	7	et	and	Vpl-Nsg-and
+334	9	9	<eos>	Vpl-Nsg-and	
+335	10	0	Il	prefix	Vpl-Nsg-and
+336	10	1	attend	prefix	Vpl-Nsg-and
+337	10	2	de	prefix	Vpl-Nsg-and
+338	10	3	voir	prefix	Vpl-Nsg-and
+339	10	4	combien	prefix	Vpl-Nsg-and
+340	10	5	vont	Vpl	Vpl-Nsg-and
+341	10	6	le	det1sg	Vpl-Nsg-and
+342	10	7	directeur	np1sg	Vpl-Nsg-and
+343	10	8	et	and	Vpl-Nsg-and
+344	10	10	<eos>	Vpl-Nsg-and	
+345	11	0	Elle	prefix	Vpl-Nsg-and
+346	11	1	verra	prefix	Vpl-Nsg-and
+347	11	2	comment	prefix	Vpl-Nsg-and
+348	11	3	vont	Vpl	Vpl-Nsg-and
+349	11	4	le	det1sg	Vpl-Nsg-and
+350	11	5	technicien	np1sg	Vpl-Nsg-and
+351	11	6	et	and	Vpl-Nsg-and
+352	11	8	<eos>	Vpl-Nsg-and	
+353	12	0	Je	prefix	Vpl-Nsg-and
+354	12	1	veux	prefix	Vpl-Nsg-and
+355	12	2	savoir	prefix	Vpl-Nsg-and
+356	12	3	ce	prefix	Vpl-Nsg-and
+357	12	4	que	prefix	Vpl-Nsg-and
+358	12	5	vont	Vpl	Vpl-Nsg-and
+359	12	6	le	det1sg	Vpl-Nsg-and
+360	12	7	parc	np1sg	Vpl-Nsg-and
+361	12	8	et	and	Vpl-Nsg-and
+362	12	10	<eos>	Vpl-Nsg-and	
+363	13	0	Je	prefix	Vpl-Nsg-and
+364	13	1	me	prefix	Vpl-Nsg-and
+365	13	2	demande	prefix	Vpl-Nsg-and
+366	13	3	pendant	prefix	Vpl-Nsg-and
+367	13	4	quelles	prefix	Vpl-Nsg-and
+368	13	5	semaines	prefix	Vpl-Nsg-and
+369	13	6	vont	Vpl	Vpl-Nsg-and
+370	13	7	le	det1sg	Vpl-Nsg-and
+371	13	8	meeting	np1sg	Vpl-Nsg-and
+372	13	9	et	and	Vpl-Nsg-and
+373	13	11	<eos>	Vpl-Nsg-and	
+374	14	0	Il	prefix	Vpl-Nsg-and
+375	14	1	ne	prefix	Vpl-Nsg-and
+376	14	2	sait	prefix	Vpl-Nsg-and
+377	14	3	pas	prefix	Vpl-Nsg-and
+378	14	4	quand	prefix	Vpl-Nsg-and
+379	14	5	vont	Vpl	Vpl-Nsg-and
+380	14	6	l'	det1sg	Vpl-Nsg-and
+381	14	7	avion	np1sg	Vpl-Nsg-and
+382	14	8	et	and	Vpl-Nsg-and
+383	14	10	<eos>	Vpl-Nsg-and	
+384	15	0	Elle	prefix	Vpl-Nsg-and
+385	15	1	ignore	prefix	Vpl-Nsg-and
+386	15	2	combien	prefix	Vpl-Nsg-and
+387	15	3	vont	Vpl	Vpl-Nsg-and
+388	15	4	le	det1sg	Vpl-Nsg-and
+389	15	5	loyer	np1sg	Vpl-Nsg-and
+390	15	6	et	and	Vpl-Nsg-and
+391	15	8	<eos>	Vpl-Nsg-and	
+392	16	0	Nous	prefix	Vpl-Nsg-and
+393	16	1	voulons	prefix	Vpl-Nsg-and
+394	16	2	savoir	prefix	Vpl-Nsg-and
+395	16	3	quand	prefix	Vpl-Nsg-and
+396	16	4	vont	Vpl	Vpl-Nsg-and
+397	16	5	la	det1sg	Vpl-Nsg-and
+398	16	6	ville	np1sg	Vpl-Nsg-and
+399	16	7	et	and	Vpl-Nsg-and
+400	16	9	<eos>	Vpl-Nsg-and	
+401	17	0	Nous	prefix	Vpl-Nsg-and
+402	17	1	ne	prefix	Vpl-Nsg-and
+403	17	2	savons	prefix	Vpl-Nsg-and
+404	17	3	pas	prefix	Vpl-Nsg-and
+405	17	4	quand	prefix	Vpl-Nsg-and
+406	17	5	vont	Vpl	Vpl-Nsg-and
+407	17	6	le	det1sg	Vpl-Nsg-and
+408	17	7	parti	np1sg	Vpl-Nsg-and
+409	17	8	et	and	Vpl-Nsg-and
+410	17	10	<eos>	Vpl-Nsg-and	
+411	18	0	Il	prefix	Vpl-Nsg-and
+412	18	1	veut	prefix	Vpl-Nsg-and
+413	18	2	savoir	prefix	Vpl-Nsg-and
+414	18	3	que	prefix	Vpl-Nsg-and
+415	18	4	vont	Vpl	Vpl-Nsg-and
+416	18	5	le	det1sg	Vpl-Nsg-and
+417	18	6	bus	np1sg	Vpl-Nsg-and
+418	18	7	et	and	Vpl-Nsg-and
+419	18	9	<eos>	Vpl-Nsg-and	
+420	19	0	Il	prefix	Vpl-Nsg-and
+421	19	1	aimerait	prefix	Vpl-Nsg-and
+422	19	2	savoir	prefix	Vpl-Nsg-and
+423	19	3	ce	prefix	Vpl-Nsg-and
+424	19	4	que	prefix	Vpl-Nsg-and
+425	19	5	vont	Vpl	Vpl-Nsg-and
+426	19	6	le	det1sg	Vpl-Nsg-and
+427	19	7	restaurant	np1sg	Vpl-Nsg-and
+428	19	8	et	and	Vpl-Nsg-and
+429	19	10	<eos>	Vpl-Nsg-and	
+430	20	0	Je	prefix	Vpl-Nsg-and
+431	20	1	ne	prefix	Vpl-Nsg-and
+432	20	2	sais	prefix	Vpl-Nsg-and
+433	20	3	pas	prefix	Vpl-Nsg-and
+434	20	4	comment	prefix	Vpl-Nsg-and
+435	20	5	vont	Vpl	Vpl-Nsg-and
+436	20	6	la	det1sg	Vpl-Nsg-and
+437	20	7	réponse	np1sg	Vpl-Nsg-and
+438	20	8	et	and	Vpl-Nsg-and
+439	20	10	<eos>	Vpl-Nsg-and	
+440	21	0	Je	prefix	Vpl-Nsg-and
+441	21	1	me	prefix	Vpl-Nsg-and
+442	21	2	demande	prefix	Vpl-Nsg-and
+443	21	3	quand	prefix	Vpl-Nsg-and
+444	21	4	vont	Vpl	Vpl-Nsg-and
+445	21	5	le	det1sg	Vpl-Nsg-and
+446	21	6	spectacle	np1sg	Vpl-Nsg-and
+447	21	7	et	and	Vpl-Nsg-and
+448	21	9	<eos>	Vpl-Nsg-and	
+449	22	0	Nous	prefix	Vpl-Nsg-and
+450	22	1	attendons	prefix	Vpl-Nsg-and
+451	22	2	de	prefix	Vpl-Nsg-and
+452	22	3	voir	prefix	Vpl-Nsg-and
+453	22	4	ce	prefix	Vpl-Nsg-and
+454	22	5	que	prefix	Vpl-Nsg-and
+455	22	6	vont	Vpl	Vpl-Nsg-and
+456	22	7	le	det1sg	Vpl-Nsg-and
+457	22	8	livre	np1sg	Vpl-Nsg-and
+458	22	9	et	and	Vpl-Nsg-and
+459	22	11	<eos>	Vpl-Nsg-and	
+460	23	0	Il	prefix	Vpl-Nsg-and
+461	23	1	ignore	prefix	Vpl-Nsg-and
+462	23	2	dans	prefix	Vpl-Nsg-and
+463	23	3	quelles	prefix	Vpl-Nsg-and
+464	23	4	rues	prefix	Vpl-Nsg-and
+465	23	5	vont	Vpl	Vpl-Nsg-and
+466	23	6	la	det1sg	Vpl-Nsg-and
+467	23	7	grève	np1sg	Vpl-Nsg-and
+468	23	8	et	and	Vpl-Nsg-and
+469	23	10	<eos>	Vpl-Nsg-and	
+470	0	0	Je	prefix	Vsg-Npl-and
+471	0	1	me	prefix	Vsg-Npl-and
+472	0	2	demande	prefix	Vsg-Npl-and
+473	0	3	où	prefix	Vsg-Npl-and
+474	0	4	va	Vsg	Vsg-Npl-and
+475	0	5	les	det1pl	Vsg-Npl-and
+476	0	6	maires	np1pl	Vsg-Npl-and
+477	0	7	et	and	Vsg-Npl-and
+478	0	9	<eos>	Vsg-Npl-and	
+479	1	0	Elle	prefix	Vsg-Npl-and
+480	1	1	ne	prefix	Vsg-Npl-and
+481	1	2	sait	prefix	Vsg-Npl-and
+482	1	3	plus	prefix	Vsg-Npl-and
+483	1	4	à	prefix	Vsg-Npl-and
+484	1	5	quelle	prefix	Vsg-Npl-and
+485	1	6	heure	prefix	Vsg-Npl-and
+486	1	7	va	Vsg	Vsg-Npl-and
+487	1	8	les	det1pl	Vsg-Npl-and
+488	1	9	dirigeants	np1pl	Vsg-Npl-and
+489	1	10	et	and	Vsg-Npl-and
+490	1	12	<eos>	Vsg-Npl-and	
+491	2	0	Il	prefix	Vsg-Npl-and
+492	2	1	aimerait	prefix	Vsg-Npl-and
+493	2	2	savoir	prefix	Vsg-Npl-and
+494	2	3	ce	prefix	Vsg-Npl-and
+495	2	4	que	prefix	Vsg-Npl-and
+496	2	5	va	Vsg	Vsg-Npl-and
+497	2	6	les	det1pl	Vsg-Npl-and
+498	2	7	présidents	np1pl	Vsg-Npl-and
+499	2	8	et	and	Vsg-Npl-and
+500	2	10	<eos>	Vsg-Npl-and	
+501	3	0	Nous	prefix	Vsg-Npl-and
+502	3	1	voulons	prefix	Vsg-Npl-and
+503	3	2	savoir	prefix	Vsg-Npl-and
+504	3	3	ce	prefix	Vsg-Npl-and
+505	3	4	que	prefix	Vsg-Npl-and
+506	3	5	va	Vsg	Vsg-Npl-and
+507	3	6	les	det1pl	Vsg-Npl-and
+508	3	7	animateurs	np1pl	Vsg-Npl-and
+509	3	8	et	and	Vsg-Npl-and
+510	3	10	<eos>	Vsg-Npl-and	
+511	4	0	Je	prefix	Vsg-Npl-and
+512	4	1	me	prefix	Vsg-Npl-and
+513	4	2	demande	prefix	Vsg-Npl-and
+514	4	3	quand	prefix	Vsg-Npl-and
+515	4	4	va	Vsg	Vsg-Npl-and
+516	4	5	les	det1pl	Vsg-Npl-and
+517	4	6	gouverneurs	np1pl	Vsg-Npl-and
+518	4	7	et	and	Vsg-Npl-and
+519	4	9	<eos>	Vsg-Npl-and	
+520	5	0	Tu	prefix	Vsg-Npl-and
+521	5	1	ne	prefix	Vsg-Npl-and
+522	5	2	sais	prefix	Vsg-Npl-and
+523	5	3	pas	prefix	Vsg-Npl-and
+524	5	4	ce	prefix	Vsg-Npl-and
+525	5	5	que	prefix	Vsg-Npl-and
+526	5	6	va	Vsg	Vsg-Npl-and
+527	5	7	les	det1pl	Vsg-Npl-and
+528	5	8	bébés	np1pl	Vsg-Npl-and
+529	5	9	et	and	Vsg-Npl-and
+530	5	11	<eos>	Vsg-Npl-and	
+531	6	0	Il	prefix	Vsg-Npl-and
+532	6	1	ne	prefix	Vsg-Npl-and
+533	6	2	sait	prefix	Vsg-Npl-and
+534	6	3	pas	prefix	Vsg-Npl-and
+535	6	4	à	prefix	Vsg-Npl-and
+536	6	5	quel	prefix	Vsg-Npl-and
+537	6	6	moment	prefix	Vsg-Npl-and
+538	6	7	va	Vsg	Vsg-Npl-and
+539	6	8	mes	det1pl	Vsg-Npl-and
+540	6	9	frère	np1pl	Vsg-Npl-and
+541	6	10	et	and	Vsg-Npl-and
+542	6	12	<eos>	Vsg-Npl-and	
+543	7	0	Elle	prefix	Vsg-Npl-and
+544	7	1	ignore	prefix	Vsg-Npl-and
+545	7	2	quel	prefix	Vsg-Npl-and
+546	7	3	jour	prefix	Vsg-Npl-and
+547	7	4	va	Vsg	Vsg-Npl-and
+548	7	5	les	det1pl	Vsg-Npl-and
+549	7	6	médecins	np1pl	Vsg-Npl-and
+550	7	7	et	and	Vsg-Npl-and
+551	7	9	<eos>	Vsg-Npl-and	
+552	8	0	Nous	prefix	Vsg-Npl-and
+553	8	1	avons	prefix	Vsg-Npl-and
+554	8	2	noté	prefix	Vsg-Npl-and
+555	8	3	quand	prefix	Vsg-Npl-and
+556	8	4	va	Vsg	Vsg-Npl-and
+557	8	5	les	det1pl	Vsg-Npl-and
+558	8	6	agents	np1pl	Vsg-Npl-and
+559	8	7	et	and	Vsg-Npl-and
+560	8	9	<eos>	Vsg-Npl-and	
+561	9	0	Ils	prefix	Vsg-Npl-and
+562	9	1	se	prefix	Vsg-Npl-and
+563	9	2	demandent	prefix	Vsg-Npl-and
+564	9	3	comment	prefix	Vsg-Npl-and
+565	9	4	va	Vsg	Vsg-Npl-and
+566	9	5	les	det1pl	Vsg-Npl-and
+567	9	6	patrons	np1pl	Vsg-Npl-and
+568	9	7	et	and	Vsg-Npl-and
+569	9	9	<eos>	Vsg-Npl-and	
+570	10	0	Il	prefix	Vsg-Npl-and
+571	10	1	attend	prefix	Vsg-Npl-and
+572	10	2	de	prefix	Vsg-Npl-and
+573	10	3	voir	prefix	Vsg-Npl-and
+574	10	4	combien	prefix	Vsg-Npl-and
+575	10	5	va	Vsg	Vsg-Npl-and
+576	10	6	les	det1pl	Vsg-Npl-and
+577	10	7	directeurs	np1pl	Vsg-Npl-and
+578	10	8	et	and	Vsg-Npl-and
+579	10	10	<eos>	Vsg-Npl-and	
+580	11	0	Elle	prefix	Vsg-Npl-and
+581	11	1	verra	prefix	Vsg-Npl-and
+582	11	2	comment	prefix	Vsg-Npl-and
+583	11	3	va	Vsg	Vsg-Npl-and
+584	11	4	les	det1pl	Vsg-Npl-and
+585	11	5	techniciens	np1pl	Vsg-Npl-and
+586	11	6	et	and	Vsg-Npl-and
+587	11	8	<eos>	Vsg-Npl-and	
+588	12	0	Je	prefix	Vsg-Npl-and
+589	12	1	veux	prefix	Vsg-Npl-and
+590	12	2	savoir	prefix	Vsg-Npl-and
+591	12	3	ce	prefix	Vsg-Npl-and
+592	12	4	que	prefix	Vsg-Npl-and
+593	12	5	va	Vsg	Vsg-Npl-and
+594	12	6	les	det1pl	Vsg-Npl-and
+595	12	7	parcs	np1pl	Vsg-Npl-and
+596	12	8	et	and	Vsg-Npl-and
+597	12	10	<eos>	Vsg-Npl-and	
+598	13	0	Je	prefix	Vsg-Npl-and
+599	13	1	me	prefix	Vsg-Npl-and
+600	13	2	demande	prefix	Vsg-Npl-and
+601	13	3	pendant	prefix	Vsg-Npl-and
+602	13	4	quelles	prefix	Vsg-Npl-and
+603	13	5	semaines	prefix	Vsg-Npl-and
+604	13	6	va	Vsg	Vsg-Npl-and
+605	13	7	les	det1pl	Vsg-Npl-and
+606	13	8	meetings	np1pl	Vsg-Npl-and
+607	13	9	et	and	Vsg-Npl-and
+608	13	11	<eos>	Vsg-Npl-and	
+609	14	0	Il	prefix	Vsg-Npl-and
+610	14	1	ne	prefix	Vsg-Npl-and
+611	14	2	sait	prefix	Vsg-Npl-and
+612	14	3	pas	prefix	Vsg-Npl-and
+613	14	4	quand	prefix	Vsg-Npl-and
+614	14	5	va	Vsg	Vsg-Npl-and
+615	14	6	les	det1pl	Vsg-Npl-and
+616	14	7	avions	np1pl	Vsg-Npl-and
+617	14	8	et	and	Vsg-Npl-and
+618	14	10	<eos>	Vsg-Npl-and	
+619	15	0	Elle	prefix	Vsg-Npl-and
+620	15	1	ignore	prefix	Vsg-Npl-and
+621	15	2	combien	prefix	Vsg-Npl-and
+622	15	3	va	Vsg	Vsg-Npl-and
+623	15	4	les	det1pl	Vsg-Npl-and
+624	15	5	loyers	np1pl	Vsg-Npl-and
+625	15	6	et	and	Vsg-Npl-and
+626	15	8	<eos>	Vsg-Npl-and	
+627	16	0	Nous	prefix	Vsg-Npl-and
+628	16	1	voulons	prefix	Vsg-Npl-and
+629	16	2	savoir	prefix	Vsg-Npl-and
+630	16	3	quand	prefix	Vsg-Npl-and
+631	16	4	va	Vsg	Vsg-Npl-and
+632	16	5	les	det1pl	Vsg-Npl-and
+633	16	6	villes	np1pl	Vsg-Npl-and
+634	16	7	et	and	Vsg-Npl-and
+635	16	9	<eos>	Vsg-Npl-and	
+636	17	0	Nous	prefix	Vsg-Npl-and
+637	17	1	ne	prefix	Vsg-Npl-and
+638	17	2	savons	prefix	Vsg-Npl-and
+639	17	3	pas	prefix	Vsg-Npl-and
+640	17	4	quand	prefix	Vsg-Npl-and
+641	17	5	va	Vsg	Vsg-Npl-and
+642	17	6	les	det1pl	Vsg-Npl-and
+643	17	7	partis	np1pl	Vsg-Npl-and
+644	17	8	et	and	Vsg-Npl-and
+645	17	10	<eos>	Vsg-Npl-and	
+646	18	0	Il	prefix	Vsg-Npl-and
+647	18	1	veut	prefix	Vsg-Npl-and
+648	18	2	savoir	prefix	Vsg-Npl-and
+649	18	3	que	prefix	Vsg-Npl-and
+650	18	4	va	Vsg	Vsg-Npl-and
+651	18	5	les	det1pl	Vsg-Npl-and
+652	18	6	bus	np1pl	Vsg-Npl-and
+653	18	7	et	and	Vsg-Npl-and
+654	18	9	<eos>	Vsg-Npl-and	
+655	19	0	Il	prefix	Vsg-Npl-and
+656	19	1	aimerait	prefix	Vsg-Npl-and
+657	19	2	savoir	prefix	Vsg-Npl-and
+658	19	3	ce	prefix	Vsg-Npl-and
+659	19	4	que	prefix	Vsg-Npl-and
+660	19	5	va	Vsg	Vsg-Npl-and
+661	19	6	les	det1pl	Vsg-Npl-and
+662	19	7	restaurants	np1pl	Vsg-Npl-and
+663	19	8	et	and	Vsg-Npl-and
+664	19	10	<eos>	Vsg-Npl-and	
+665	20	0	Je	prefix	Vsg-Npl-and
+666	20	1	ne	prefix	Vsg-Npl-and
+667	20	2	sais	prefix	Vsg-Npl-and
+668	20	3	pas	prefix	Vsg-Npl-and
+669	20	4	comment	prefix	Vsg-Npl-and
+670	20	5	va	Vsg	Vsg-Npl-and
+671	20	6	les	det1pl	Vsg-Npl-and
+672	20	7	réponses	np1pl	Vsg-Npl-and
+673	20	8	et	and	Vsg-Npl-and
+674	20	10	<eos>	Vsg-Npl-and	
+675	21	0	Je	prefix	Vsg-Npl-and
+676	21	1	me	prefix	Vsg-Npl-and
+677	21	2	demande	prefix	Vsg-Npl-and
+678	21	3	quand	prefix	Vsg-Npl-and
+679	21	4	va	Vsg	Vsg-Npl-and
+680	21	5	les	det1pl	Vsg-Npl-and
+681	21	6	spectacles	np1pl	Vsg-Npl-and
+682	21	7	et	and	Vsg-Npl-and
+683	21	9	<eos>	Vsg-Npl-and	
+684	22	0	Nous	prefix	Vsg-Npl-and
+685	22	1	attendons	prefix	Vsg-Npl-and
+686	22	2	de	prefix	Vsg-Npl-and
+687	22	3	voir	prefix	Vsg-Npl-and
+688	22	4	ce	prefix	Vsg-Npl-and
+689	22	5	que	prefix	Vsg-Npl-and
+690	22	6	va	Vsg	Vsg-Npl-and
+691	22	7	les	det1pl	Vsg-Npl-and
+692	22	8	livres	np1pl	Vsg-Npl-and
+693	22	9	et	and	Vsg-Npl-and
+694	22	11	<eos>	Vsg-Npl-and	
+695	23	0	Il	prefix	Vsg-Npl-and
+696	23	1	ignore	prefix	Vsg-Npl-and
+697	23	2	dans	prefix	Vsg-Npl-and
+698	23	3	quelles	prefix	Vsg-Npl-and
+699	23	4	rues	prefix	Vsg-Npl-and
+700	23	5	va	Vsg	Vsg-Npl-and
+701	23	6	les	det1pl	Vsg-Npl-and
+702	23	7	grèves	np1pl	Vsg-Npl-and
+703	23	8	et	and	Vsg-Npl-and
+704	23	10	<eos>	Vsg-Npl-and	
+705	0	0	Je	prefix	Vpl-Npl-and
+706	0	1	me	prefix	Vpl-Npl-and
+707	0	2	demande	prefix	Vpl-Npl-and
+708	0	3	où	prefix	Vpl-Npl-and
+709	0	4	vont	Vpl	Vpl-Npl-and
+710	0	5	les	det1pl	Vpl-Npl-and
+711	0	6	maires	np1pl	Vpl-Npl-and
+712	0	7	et	and	Vpl-Npl-and
+713	0	9	<eos>	Vpl-Npl-and	
+714	1	0	Elle	prefix	Vpl-Npl-and
+715	1	1	ne	prefix	Vpl-Npl-and
+716	1	2	sait	prefix	Vpl-Npl-and
+717	1	3	plus	prefix	Vpl-Npl-and
+718	1	4	à	prefix	Vpl-Npl-and
+719	1	5	quelle	prefix	Vpl-Npl-and
+720	1	6	heure	prefix	Vpl-Npl-and
+721	1	7	vont	Vpl	Vpl-Npl-and
+722	1	8	les	det1pl	Vpl-Npl-and
+723	1	9	dirigeants	np1pl	Vpl-Npl-and
+724	1	10	et	and	Vpl-Npl-and
+725	1	12	<eos>	Vpl-Npl-and	
+726	2	0	Il	prefix	Vpl-Npl-and
+727	2	1	aimerait	prefix	Vpl-Npl-and
+728	2	2	savoir	prefix	Vpl-Npl-and
+729	2	3	ce	prefix	Vpl-Npl-and
+730	2	4	que	prefix	Vpl-Npl-and
+731	2	5	vont	Vpl	Vpl-Npl-and
+732	2	6	les	det1pl	Vpl-Npl-and
+733	2	7	présidents	np1pl	Vpl-Npl-and
+734	2	8	et	and	Vpl-Npl-and
+735	2	10	<eos>	Vpl-Npl-and	
+736	3	0	Nous	prefix	Vpl-Npl-and
+737	3	1	voulons	prefix	Vpl-Npl-and
+738	3	2	savoir	prefix	Vpl-Npl-and
+739	3	3	ce	prefix	Vpl-Npl-and
+740	3	4	que	prefix	Vpl-Npl-and
+741	3	5	vont	Vpl	Vpl-Npl-and
+742	3	6	les	det1pl	Vpl-Npl-and
+743	3	7	animateurs	np1pl	Vpl-Npl-and
+744	3	8	et	and	Vpl-Npl-and
+745	3	10	<eos>	Vpl-Npl-and	
+746	4	0	Je	prefix	Vpl-Npl-and
+747	4	1	me	prefix	Vpl-Npl-and
+748	4	2	demande	prefix	Vpl-Npl-and
+749	4	3	quand	prefix	Vpl-Npl-and
+750	4	4	vont	Vpl	Vpl-Npl-and
+751	4	5	les	det1pl	Vpl-Npl-and
+752	4	6	gouverneurs	np1pl	Vpl-Npl-and
+753	4	7	et	and	Vpl-Npl-and
+754	4	9	<eos>	Vpl-Npl-and	
+755	5	0	Tu	prefix	Vpl-Npl-and
+756	5	1	ne	prefix	Vpl-Npl-and
+757	5	2	sais	prefix	Vpl-Npl-and
+758	5	3	pas	prefix	Vpl-Npl-and
+759	5	4	ce	prefix	Vpl-Npl-and
+760	5	5	que	prefix	Vpl-Npl-and
+761	5	6	vont	Vpl	Vpl-Npl-and
+762	5	7	les	det1pl	Vpl-Npl-and
+763	5	8	bébés	np1pl	Vpl-Npl-and
+764	5	9	et	and	Vpl-Npl-and
+765	5	11	<eos>	Vpl-Npl-and	
+766	6	0	Il	prefix	Vpl-Npl-and
+767	6	1	ne	prefix	Vpl-Npl-and
+768	6	2	sait	prefix	Vpl-Npl-and
+769	6	3	pas	prefix	Vpl-Npl-and
+770	6	4	à	prefix	Vpl-Npl-and
+771	6	5	quel	prefix	Vpl-Npl-and
+772	6	6	moment	prefix	Vpl-Npl-and
+773	6	7	vont	Vpl	Vpl-Npl-and
+774	6	8	mes	det1pl	Vpl-Npl-and
+775	6	9	frère	np1pl	Vpl-Npl-and
+776	6	10	et	and	Vpl-Npl-and
+777	6	12	<eos>	Vpl-Npl-and	
+778	7	0	Elle	prefix	Vpl-Npl-and
+779	7	1	ignore	prefix	Vpl-Npl-and
+780	7	2	quel	prefix	Vpl-Npl-and
+781	7	3	jour	prefix	Vpl-Npl-and
+782	7	4	vont	Vpl	Vpl-Npl-and
+783	7	5	les	det1pl	Vpl-Npl-and
+784	7	6	médecins	np1pl	Vpl-Npl-and
+785	7	7	et	and	Vpl-Npl-and
+786	7	9	<eos>	Vpl-Npl-and	
+787	8	0	Nous	prefix	Vpl-Npl-and
+788	8	1	avons	prefix	Vpl-Npl-and
+789	8	2	noté	prefix	Vpl-Npl-and
+790	8	3	quand	prefix	Vpl-Npl-and
+791	8	4	vont	Vpl	Vpl-Npl-and
+792	8	5	les	det1pl	Vpl-Npl-and
+793	8	6	agents	np1pl	Vpl-Npl-and
+794	8	7	et	and	Vpl-Npl-and
+795	8	9	<eos>	Vpl-Npl-and	
+796	9	0	Ils	prefix	Vpl-Npl-and
+797	9	1	se	prefix	Vpl-Npl-and
+798	9	2	demandent	prefix	Vpl-Npl-and
+799	9	3	comment	prefix	Vpl-Npl-and
+800	9	4	vont	Vpl	Vpl-Npl-and
+801	9	5	les	det1pl	Vpl-Npl-and
+802	9	6	patrons	np1pl	Vpl-Npl-and
+803	9	7	et	and	Vpl-Npl-and
+804	9	9	<eos>	Vpl-Npl-and	
+805	10	0	Il	prefix	Vpl-Npl-and
+806	10	1	attend	prefix	Vpl-Npl-and
+807	10	2	de	prefix	Vpl-Npl-and
+808	10	3	voir	prefix	Vpl-Npl-and
+809	10	4	combien	prefix	Vpl-Npl-and
+810	10	5	vont	Vpl	Vpl-Npl-and
+811	10	6	les	det1pl	Vpl-Npl-and
+812	10	7	directeurs	np1pl	Vpl-Npl-and
+813	10	8	et	and	Vpl-Npl-and
+814	10	10	<eos>	Vpl-Npl-and	
+815	11	0	Elle	prefix	Vpl-Npl-and
+816	11	1	verra	prefix	Vpl-Npl-and
+817	11	2	comment	prefix	Vpl-Npl-and
+818	11	3	vont	Vpl	Vpl-Npl-and
+819	11	4	les	det1pl	Vpl-Npl-and
+820	11	5	techniciens	np1pl	Vpl-Npl-and
+821	11	6	et	and	Vpl-Npl-and
+822	11	8	<eos>	Vpl-Npl-and	
+823	12	0	Je	prefix	Vpl-Npl-and
+824	12	1	veux	prefix	Vpl-Npl-and
+825	12	2	savoir	prefix	Vpl-Npl-and
+826	12	3	ce	prefix	Vpl-Npl-and
+827	12	4	que	prefix	Vpl-Npl-and
+828	12	5	vont	Vpl	Vpl-Npl-and
+829	12	6	les	det1pl	Vpl-Npl-and
+830	12	7	parcs	np1pl	Vpl-Npl-and
+831	12	8	et	and	Vpl-Npl-and
+832	12	10	<eos>	Vpl-Npl-and	
+833	13	0	Je	prefix	Vpl-Npl-and
+834	13	1	me	prefix	Vpl-Npl-and
+835	13	2	demande	prefix	Vpl-Npl-and
+836	13	3	pendant	prefix	Vpl-Npl-and
+837	13	4	quelles	prefix	Vpl-Npl-and
+838	13	5	semaines	prefix	Vpl-Npl-and
+839	13	6	vont	Vpl	Vpl-Npl-and
+840	13	7	les	det1pl	Vpl-Npl-and
+841	13	8	meetings	np1pl	Vpl-Npl-and
+842	13	9	et	and	Vpl-Npl-and
+843	13	11	<eos>	Vpl-Npl-and	
+844	14	0	Il	prefix	Vpl-Npl-and
+845	14	1	ne	prefix	Vpl-Npl-and
+846	14	2	sait	prefix	Vpl-Npl-and
+847	14	3	pas	prefix	Vpl-Npl-and
+848	14	4	quand	prefix	Vpl-Npl-and
+849	14	5	vont	Vpl	Vpl-Npl-and
+850	14	6	les	det1pl	Vpl-Npl-and
+851	14	7	avions	np1pl	Vpl-Npl-and
+852	14	8	et	and	Vpl-Npl-and
+853	14	10	<eos>	Vpl-Npl-and	
+854	15	0	Elle	prefix	Vpl-Npl-and
+855	15	1	ignore	prefix	Vpl-Npl-and
+856	15	2	combien	prefix	Vpl-Npl-and
+857	15	3	vont	Vpl	Vpl-Npl-and
+858	15	4	les	det1pl	Vpl-Npl-and
+859	15	5	loyers	np1pl	Vpl-Npl-and
+860	15	6	et	and	Vpl-Npl-and
+861	15	8	<eos>	Vpl-Npl-and	
+862	16	0	Nous	prefix	Vpl-Npl-and
+863	16	1	voulons	prefix	Vpl-Npl-and
+864	16	2	savoir	prefix	Vpl-Npl-and
+865	16	3	quand	prefix	Vpl-Npl-and
+866	16	4	vont	Vpl	Vpl-Npl-and
+867	16	5	les	det1pl	Vpl-Npl-and
+868	16	6	villes	np1pl	Vpl-Npl-and
+869	16	7	et	and	Vpl-Npl-and
+870	16	9	<eos>	Vpl-Npl-and	
+871	17	0	Nous	prefix	Vpl-Npl-and
+872	17	1	ne	prefix	Vpl-Npl-and
+873	17	2	savons	prefix	Vpl-Npl-and
+874	17	3	pas	prefix	Vpl-Npl-and
+875	17	4	quand	prefix	Vpl-Npl-and
+876	17	5	vont	Vpl	Vpl-Npl-and
+877	17	6	les	det1pl	Vpl-Npl-and
+878	17	7	partis	np1pl	Vpl-Npl-and
+879	17	8	et	and	Vpl-Npl-and
+880	17	10	<eos>	Vpl-Npl-and	
+881	18	0	Il	prefix	Vpl-Npl-and
+882	18	1	veut	prefix	Vpl-Npl-and
+883	18	2	savoir	prefix	Vpl-Npl-and
+884	18	3	que	prefix	Vpl-Npl-and
+885	18	4	vont	Vpl	Vpl-Npl-and
+886	18	5	les	det1pl	Vpl-Npl-and
+887	18	6	bus	np1pl	Vpl-Npl-and
+888	18	7	et	and	Vpl-Npl-and
+889	18	9	<eos>	Vpl-Npl-and	
+890	19	0	Il	prefix	Vpl-Npl-and
+891	19	1	aimerait	prefix	Vpl-Npl-and
+892	19	2	savoir	prefix	Vpl-Npl-and
+893	19	3	ce	prefix	Vpl-Npl-and
+894	19	4	que	prefix	Vpl-Npl-and
+895	19	5	vont	Vpl	Vpl-Npl-and
+896	19	6	les	det1pl	Vpl-Npl-and
+897	19	7	restaurants	np1pl	Vpl-Npl-and
+898	19	8	et	and	Vpl-Npl-and
+899	19	10	<eos>	Vpl-Npl-and	
+900	20	0	Je	prefix	Vpl-Npl-and
+901	20	1	ne	prefix	Vpl-Npl-and
+902	20	2	sais	prefix	Vpl-Npl-and
+903	20	3	pas	prefix	Vpl-Npl-and
+904	20	4	comment	prefix	Vpl-Npl-and
+905	20	5	vont	Vpl	Vpl-Npl-and
+906	20	6	les	det1pl	Vpl-Npl-and
+907	20	7	réponses	np1pl	Vpl-Npl-and
+908	20	8	et	and	Vpl-Npl-and
+909	20	10	<eos>	Vpl-Npl-and	
+910	21	0	Je	prefix	Vpl-Npl-and
+911	21	1	me	prefix	Vpl-Npl-and
+912	21	2	demande	prefix	Vpl-Npl-and
+913	21	3	quand	prefix	Vpl-Npl-and
+914	21	4	vont	Vpl	Vpl-Npl-and
+915	21	5	les	det1pl	Vpl-Npl-and
+916	21	6	spectacles	np1pl	Vpl-Npl-and
+917	21	7	et	and	Vpl-Npl-and
+918	21	9	<eos>	Vpl-Npl-and	
+919	22	0	Nous	prefix	Vpl-Npl-and
+920	22	1	attendons	prefix	Vpl-Npl-and
+921	22	2	de	prefix	Vpl-Npl-and
+922	22	3	voir	prefix	Vpl-Npl-and
+923	22	4	ce	prefix	Vpl-Npl-and
+924	22	5	que	prefix	Vpl-Npl-and
+925	22	6	vont	Vpl	Vpl-Npl-and
+926	22	7	les	det1pl	Vpl-Npl-and
+927	22	8	livres	np1pl	Vpl-Npl-and
+928	22	9	et	and	Vpl-Npl-and
+929	22	11	<eos>	Vpl-Npl-and	
+930	23	0	Il	prefix	Vpl-Npl-and
+931	23	1	ignore	prefix	Vpl-Npl-and
+932	23	2	dans	prefix	Vpl-Npl-and
+933	23	3	quelles	prefix	Vpl-Npl-and
+934	23	4	rues	prefix	Vpl-Npl-and
+935	23	5	vont	Vpl	Vpl-Npl-and
+936	23	6	les	det1pl	Vpl-Npl-and
+937	23	7	grèves	np1pl	Vpl-Npl-and
+938	23	8	et	and	Vpl-Npl-and
+939	23	10	<eos>	Vpl-Npl-and	
+940	0	0	Je	prefix	Vsg-Nsg-or
+941	0	1	me	prefix	Vsg-Nsg-or
+942	0	2	demande	prefix	Vsg-Nsg-or
+943	0	3	où	prefix	Vsg-Nsg-or
+944	0	4	va	Vsg	Vsg-Nsg-or
+945	0	5	le	det1sg	Vsg-Nsg-or
+946	0	6	maire	np1sg	Vsg-Nsg-or
+947	0	7	ou	or	Vsg-Nsg-or
+948	0	9	<eos>	Vsg-Nsg-or	
+949	1	0	Elle	prefix	Vsg-Nsg-or
+950	1	1	ne	prefix	Vsg-Nsg-or
+951	1	2	sait	prefix	Vsg-Nsg-or
+952	1	3	plus	prefix	Vsg-Nsg-or
+953	1	4	à	prefix	Vsg-Nsg-or
+954	1	5	quelle	prefix	Vsg-Nsg-or
+955	1	6	heure	prefix	Vsg-Nsg-or
+956	1	7	va	Vsg	Vsg-Nsg-or
+957	1	8	le	det1sg	Vsg-Nsg-or
+958	1	9	dirigeant	np1sg	Vsg-Nsg-or
+959	1	10	ou	or	Vsg-Nsg-or
+960	1	12	<eos>	Vsg-Nsg-or	
+961	2	0	Il	prefix	Vsg-Nsg-or
+962	2	1	aimerait	prefix	Vsg-Nsg-or
+963	2	2	savoir	prefix	Vsg-Nsg-or
+964	2	3	ce	prefix	Vsg-Nsg-or
+965	2	4	que	prefix	Vsg-Nsg-or
+966	2	5	va	Vsg	Vsg-Nsg-or
+967	2	6	le	det1sg	Vsg-Nsg-or
+968	2	7	président	np1sg	Vsg-Nsg-or
+969	2	8	ou	or	Vsg-Nsg-or
+970	2	10	<eos>	Vsg-Nsg-or	
+971	3	0	Nous	prefix	Vsg-Nsg-or
+972	3	1	voulons	prefix	Vsg-Nsg-or
+973	3	2	savoir	prefix	Vsg-Nsg-or
+974	3	3	ce	prefix	Vsg-Nsg-or
+975	3	4	que	prefix	Vsg-Nsg-or
+976	3	5	va	Vsg	Vsg-Nsg-or
+977	3	6	l'	det1sg	Vsg-Nsg-or
+978	3	7	animateur	np1sg	Vsg-Nsg-or
+979	3	8	ou	or	Vsg-Nsg-or
+980	3	10	<eos>	Vsg-Nsg-or	
+981	4	0	Je	prefix	Vsg-Nsg-or
+982	4	1	me	prefix	Vsg-Nsg-or
+983	4	2	demande	prefix	Vsg-Nsg-or
+984	4	3	quand	prefix	Vsg-Nsg-or
+985	4	4	va	Vsg	Vsg-Nsg-or
+986	4	5	le	det1sg	Vsg-Nsg-or
+987	4	6	gouverneur	np1sg	Vsg-Nsg-or
+988	4	7	ou	or	Vsg-Nsg-or
+989	4	9	<eos>	Vsg-Nsg-or	
+990	5	0	Tu	prefix	Vsg-Nsg-or
+991	5	1	ne	prefix	Vsg-Nsg-or
+992	5	2	sais	prefix	Vsg-Nsg-or
+993	5	3	pas	prefix	Vsg-Nsg-or
+994	5	4	ce	prefix	Vsg-Nsg-or
+995	5	5	que	prefix	Vsg-Nsg-or
+996	5	6	va	Vsg	Vsg-Nsg-or
+997	5	7	le	det1sg	Vsg-Nsg-or
+998	5	8	bébé	np1sg	Vsg-Nsg-or
+999	5	9	ou	or	Vsg-Nsg-or
+1000	5	11	<eos>	Vsg-Nsg-or	
+1001	6	0	Il	prefix	Vsg-Nsg-or
+1002	6	1	ne	prefix	Vsg-Nsg-or
+1003	6	2	sait	prefix	Vsg-Nsg-or
+1004	6	3	pas	prefix	Vsg-Nsg-or
+1005	6	4	à	prefix	Vsg-Nsg-or
+1006	6	5	quel	prefix	Vsg-Nsg-or
+1007	6	6	moment	prefix	Vsg-Nsg-or
+1008	6	7	va	Vsg	Vsg-Nsg-or
+1009	6	8	mon	det1sg	Vsg-Nsg-or
+1010	6	9	frère	np1sg	Vsg-Nsg-or
+1011	6	10	ou	or	Vsg-Nsg-or
+1012	6	12	<eos>	Vsg-Nsg-or	
+1013	7	0	Elle	prefix	Vsg-Nsg-or
+1014	7	1	ignore	prefix	Vsg-Nsg-or
+1015	7	2	quel	prefix	Vsg-Nsg-or
+1016	7	3	jour	prefix	Vsg-Nsg-or
+1017	7	4	va	Vsg	Vsg-Nsg-or
+1018	7	5	le	det1sg	Vsg-Nsg-or
+1019	7	6	médecin	np1sg	Vsg-Nsg-or
+1020	7	7	ou	or	Vsg-Nsg-or
+1021	7	9	<eos>	Vsg-Nsg-or	
+1022	8	0	Nous	prefix	Vsg-Nsg-or
+1023	8	1	avons	prefix	Vsg-Nsg-or
+1024	8	2	noté	prefix	Vsg-Nsg-or
+1025	8	3	quand	prefix	Vsg-Nsg-or
+1026	8	4	va	Vsg	Vsg-Nsg-or
+1027	8	5	l'	det1sg	Vsg-Nsg-or
+1028	8	6	agent	np1sg	Vsg-Nsg-or
+1029	8	7	ou	or	Vsg-Nsg-or
+1030	8	9	<eos>	Vsg-Nsg-or	
+1031	9	0	Ils	prefix	Vsg-Nsg-or
+1032	9	1	se	prefix	Vsg-Nsg-or
+1033	9	2	demandent	prefix	Vsg-Nsg-or
+1034	9	3	comment	prefix	Vsg-Nsg-or
+1035	9	4	va	Vsg	Vsg-Nsg-or
+1036	9	5	le	det1sg	Vsg-Nsg-or
+1037	9	6	patron	np1sg	Vsg-Nsg-or
+1038	9	7	ou	or	Vsg-Nsg-or
+1039	9	9	<eos>	Vsg-Nsg-or	
+1040	10	0	Il	prefix	Vsg-Nsg-or
+1041	10	1	attend	prefix	Vsg-Nsg-or
+1042	10	2	de	prefix	Vsg-Nsg-or
+1043	10	3	voir	prefix	Vsg-Nsg-or
+1044	10	4	combien	prefix	Vsg-Nsg-or
+1045	10	5	va	Vsg	Vsg-Nsg-or
+1046	10	6	le	det1sg	Vsg-Nsg-or
+1047	10	7	directeur	np1sg	Vsg-Nsg-or
+1048	10	8	ou	or	Vsg-Nsg-or
+1049	10	10	<eos>	Vsg-Nsg-or	
+1050	11	0	Elle	prefix	Vsg-Nsg-or
+1051	11	1	verra	prefix	Vsg-Nsg-or
+1052	11	2	comment	prefix	Vsg-Nsg-or
+1053	11	3	va	Vsg	Vsg-Nsg-or
+1054	11	4	le	det1sg	Vsg-Nsg-or
+1055	11	5	technicien	np1sg	Vsg-Nsg-or
+1056	11	6	ou	or	Vsg-Nsg-or
+1057	11	8	<eos>	Vsg-Nsg-or	
+1058	12	0	Je	prefix	Vsg-Nsg-or
+1059	12	1	veux	prefix	Vsg-Nsg-or
+1060	12	2	savoir	prefix	Vsg-Nsg-or
+1061	12	3	ce	prefix	Vsg-Nsg-or
+1062	12	4	que	prefix	Vsg-Nsg-or
+1063	12	5	va	Vsg	Vsg-Nsg-or
+1064	12	6	le	det1sg	Vsg-Nsg-or
+1065	12	7	parc	np1sg	Vsg-Nsg-or
+1066	12	8	ou	or	Vsg-Nsg-or
+1067	12	10	<eos>	Vsg-Nsg-or	
+1068	13	0	Je	prefix	Vsg-Nsg-or
+1069	13	1	me	prefix	Vsg-Nsg-or
+1070	13	2	demande	prefix	Vsg-Nsg-or
+1071	13	3	pendant	prefix	Vsg-Nsg-or
+1072	13	4	quelles	prefix	Vsg-Nsg-or
+1073	13	5	semaines	prefix	Vsg-Nsg-or
+1074	13	6	va	Vsg	Vsg-Nsg-or
+1075	13	7	le	det1sg	Vsg-Nsg-or
+1076	13	8	meeting	np1sg	Vsg-Nsg-or
+1077	13	9	ou	or	Vsg-Nsg-or
+1078	13	11	<eos>	Vsg-Nsg-or	
+1079	14	0	Il	prefix	Vsg-Nsg-or
+1080	14	1	ne	prefix	Vsg-Nsg-or
+1081	14	2	sait	prefix	Vsg-Nsg-or
+1082	14	3	pas	prefix	Vsg-Nsg-or
+1083	14	4	quand	prefix	Vsg-Nsg-or
+1084	14	5	va	Vsg	Vsg-Nsg-or
+1085	14	6	l'	det1sg	Vsg-Nsg-or
+1086	14	7	avion	np1sg	Vsg-Nsg-or
+1087	14	8	ou	or	Vsg-Nsg-or
+1088	14	10	<eos>	Vsg-Nsg-or	
+1089	15	0	Elle	prefix	Vsg-Nsg-or
+1090	15	1	ignore	prefix	Vsg-Nsg-or
+1091	15	2	combien	prefix	Vsg-Nsg-or
+1092	15	3	va	Vsg	Vsg-Nsg-or
+1093	15	4	le	det1sg	Vsg-Nsg-or
+1094	15	5	loyer	np1sg	Vsg-Nsg-or
+1095	15	6	ou	or	Vsg-Nsg-or
+1096	15	8	<eos>	Vsg-Nsg-or	
+1097	16	0	Nous	prefix	Vsg-Nsg-or
+1098	16	1	voulons	prefix	Vsg-Nsg-or
+1099	16	2	savoir	prefix	Vsg-Nsg-or
+1100	16	3	quand	prefix	Vsg-Nsg-or
+1101	16	4	va	Vsg	Vsg-Nsg-or
+1102	16	5	la	det1sg	Vsg-Nsg-or
+1103	16	6	ville	np1sg	Vsg-Nsg-or
+1104	16	7	ou	or	Vsg-Nsg-or
+1105	16	9	<eos>	Vsg-Nsg-or	
+1106	17	0	Nous	prefix	Vsg-Nsg-or
+1107	17	1	ne	prefix	Vsg-Nsg-or
+1108	17	2	savons	prefix	Vsg-Nsg-or
+1109	17	3	pas	prefix	Vsg-Nsg-or
+1110	17	4	quand	prefix	Vsg-Nsg-or
+1111	17	5	va	Vsg	Vsg-Nsg-or
+1112	17	6	le	det1sg	Vsg-Nsg-or
+1113	17	7	parti	np1sg	Vsg-Nsg-or
+1114	17	8	ou	or	Vsg-Nsg-or
+1115	17	10	<eos>	Vsg-Nsg-or	
+1116	18	0	Il	prefix	Vsg-Nsg-or
+1117	18	1	veut	prefix	Vsg-Nsg-or
+1118	18	2	savoir	prefix	Vsg-Nsg-or
+1119	18	3	que	prefix	Vsg-Nsg-or
+1120	18	4	va	Vsg	Vsg-Nsg-or
+1121	18	5	le	det1sg	Vsg-Nsg-or
+1122	18	6	bus	np1sg	Vsg-Nsg-or
+1123	18	7	ou	or	Vsg-Nsg-or
+1124	18	9	<eos>	Vsg-Nsg-or	
+1125	19	0	Il	prefix	Vsg-Nsg-or
+1126	19	1	aimerait	prefix	Vsg-Nsg-or
+1127	19	2	savoir	prefix	Vsg-Nsg-or
+1128	19	3	ce	prefix	Vsg-Nsg-or
+1129	19	4	que	prefix	Vsg-Nsg-or
+1130	19	5	va	Vsg	Vsg-Nsg-or
+1131	19	6	le	det1sg	Vsg-Nsg-or
+1132	19	7	restaurant	np1sg	Vsg-Nsg-or
+1133	19	8	ou	or	Vsg-Nsg-or
+1134	19	10	<eos>	Vsg-Nsg-or	
+1135	20	0	Je	prefix	Vsg-Nsg-or
+1136	20	1	ne	prefix	Vsg-Nsg-or
+1137	20	2	sais	prefix	Vsg-Nsg-or
+1138	20	3	pas	prefix	Vsg-Nsg-or
+1139	20	4	comment	prefix	Vsg-Nsg-or
+1140	20	5	va	Vsg	Vsg-Nsg-or
+1141	20	6	la	det1sg	Vsg-Nsg-or
+1142	20	7	réponse	np1sg	Vsg-Nsg-or
+1143	20	8	ou	or	Vsg-Nsg-or
+1144	20	10	<eos>	Vsg-Nsg-or	
+1145	21	0	Je	prefix	Vsg-Nsg-or
+1146	21	1	me	prefix	Vsg-Nsg-or
+1147	21	2	demande	prefix	Vsg-Nsg-or
+1148	21	3	quand	prefix	Vsg-Nsg-or
+1149	21	4	va	Vsg	Vsg-Nsg-or
+1150	21	5	le	det1sg	Vsg-Nsg-or
+1151	21	6	spectacle	np1sg	Vsg-Nsg-or
+1152	21	7	ou	or	Vsg-Nsg-or
+1153	21	9	<eos>	Vsg-Nsg-or	
+1154	22	0	Nous	prefix	Vsg-Nsg-or
+1155	22	1	attendons	prefix	Vsg-Nsg-or
+1156	22	2	de	prefix	Vsg-Nsg-or
+1157	22	3	voir	prefix	Vsg-Nsg-or
+1158	22	4	ce	prefix	Vsg-Nsg-or
+1159	22	5	que	prefix	Vsg-Nsg-or
+1160	22	6	va	Vsg	Vsg-Nsg-or
+1161	22	7	le	det1sg	Vsg-Nsg-or
+1162	22	8	livre	np1sg	Vsg-Nsg-or
+1163	22	9	ou	or	Vsg-Nsg-or
+1164	22	11	<eos>	Vsg-Nsg-or	
+1165	23	0	Il	prefix	Vsg-Nsg-or
+1166	23	1	ignore	prefix	Vsg-Nsg-or
+1167	23	2	dans	prefix	Vsg-Nsg-or
+1168	23	3	quelles	prefix	Vsg-Nsg-or
+1169	23	4	rues	prefix	Vsg-Nsg-or
+1170	23	5	va	Vsg	Vsg-Nsg-or
+1171	23	6	la	det1sg	Vsg-Nsg-or
+1172	23	7	grève	np1sg	Vsg-Nsg-or
+1173	23	8	ou	or	Vsg-Nsg-or
+1174	23	10	<eos>	Vsg-Nsg-or	
+1175	0	0	Je	prefix	Vpl-Nsg-or
+1176	0	1	me	prefix	Vpl-Nsg-or
+1177	0	2	demande	prefix	Vpl-Nsg-or
+1178	0	3	où	prefix	Vpl-Nsg-or
+1179	0	4	vont	Vpl	Vpl-Nsg-or
+1180	0	5	le	det1sg	Vpl-Nsg-or
+1181	0	6	maire	np1sg	Vpl-Nsg-or
+1182	0	7	ou	or	Vpl-Nsg-or
+1183	0	9	<eos>	Vpl-Nsg-or	
+1184	1	0	Elle	prefix	Vpl-Nsg-or
+1185	1	1	ne	prefix	Vpl-Nsg-or
+1186	1	2	sait	prefix	Vpl-Nsg-or
+1187	1	3	plus	prefix	Vpl-Nsg-or
+1188	1	4	à	prefix	Vpl-Nsg-or
+1189	1	5	quelle	prefix	Vpl-Nsg-or
+1190	1	6	heure	prefix	Vpl-Nsg-or
+1191	1	7	vont	Vpl	Vpl-Nsg-or
+1192	1	8	le	det1sg	Vpl-Nsg-or
+1193	1	9	dirigeant	np1sg	Vpl-Nsg-or
+1194	1	10	ou	or	Vpl-Nsg-or
+1195	1	12	<eos>	Vpl-Nsg-or	
+1196	2	0	Il	prefix	Vpl-Nsg-or
+1197	2	1	aimerait	prefix	Vpl-Nsg-or
+1198	2	2	savoir	prefix	Vpl-Nsg-or
+1199	2	3	ce	prefix	Vpl-Nsg-or
+1200	2	4	que	prefix	Vpl-Nsg-or
+1201	2	5	vont	Vpl	Vpl-Nsg-or
+1202	2	6	le	det1sg	Vpl-Nsg-or
+1203	2	7	président	np1sg	Vpl-Nsg-or
+1204	2	8	ou	or	Vpl-Nsg-or
+1205	2	10	<eos>	Vpl-Nsg-or	
+1206	3	0	Nous	prefix	Vpl-Nsg-or
+1207	3	1	voulons	prefix	Vpl-Nsg-or
+1208	3	2	savoir	prefix	Vpl-Nsg-or
+1209	3	3	ce	prefix	Vpl-Nsg-or
+1210	3	4	que	prefix	Vpl-Nsg-or
+1211	3	5	vont	Vpl	Vpl-Nsg-or
+1212	3	6	l'	det1sg	Vpl-Nsg-or
+1213	3	7	animateur	np1sg	Vpl-Nsg-or
+1214	3	8	ou	or	Vpl-Nsg-or
+1215	3	10	<eos>	Vpl-Nsg-or	
+1216	4	0	Je	prefix	Vpl-Nsg-or
+1217	4	1	me	prefix	Vpl-Nsg-or
+1218	4	2	demande	prefix	Vpl-Nsg-or
+1219	4	3	quand	prefix	Vpl-Nsg-or
+1220	4	4	vont	Vpl	Vpl-Nsg-or
+1221	4	5	le	det1sg	Vpl-Nsg-or
+1222	4	6	gouverneur	np1sg	Vpl-Nsg-or
+1223	4	7	ou	or	Vpl-Nsg-or
+1224	4	9	<eos>	Vpl-Nsg-or	
+1225	5	0	Tu	prefix	Vpl-Nsg-or
+1226	5	1	ne	prefix	Vpl-Nsg-or
+1227	5	2	sais	prefix	Vpl-Nsg-or
+1228	5	3	pas	prefix	Vpl-Nsg-or
+1229	5	4	ce	prefix	Vpl-Nsg-or
+1230	5	5	que	prefix	Vpl-Nsg-or
+1231	5	6	vont	Vpl	Vpl-Nsg-or
+1232	5	7	le	det1sg	Vpl-Nsg-or
+1233	5	8	bébé	np1sg	Vpl-Nsg-or
+1234	5	9	ou	or	Vpl-Nsg-or
+1235	5	11	<eos>	Vpl-Nsg-or	
+1236	6	0	Il	prefix	Vpl-Nsg-or
+1237	6	1	ne	prefix	Vpl-Nsg-or
+1238	6	2	sait	prefix	Vpl-Nsg-or
+1239	6	3	pas	prefix	Vpl-Nsg-or
+1240	6	4	à	prefix	Vpl-Nsg-or
+1241	6	5	quel	prefix	Vpl-Nsg-or
+1242	6	6	moment	prefix	Vpl-Nsg-or
+1243	6	7	vont	Vpl	Vpl-Nsg-or
+1244	6	8	mon	det1sg	Vpl-Nsg-or
+1245	6	9	frère	np1sg	Vpl-Nsg-or
+1246	6	10	ou	or	Vpl-Nsg-or
+1247	6	12	<eos>	Vpl-Nsg-or	
+1248	7	0	Elle	prefix	Vpl-Nsg-or
+1249	7	1	ignore	prefix	Vpl-Nsg-or
+1250	7	2	quel	prefix	Vpl-Nsg-or
+1251	7	3	jour	prefix	Vpl-Nsg-or
+1252	7	4	vont	Vpl	Vpl-Nsg-or
+1253	7	5	le	det1sg	Vpl-Nsg-or
+1254	7	6	médecin	np1sg	Vpl-Nsg-or
+1255	7	7	ou	or	Vpl-Nsg-or
+1256	7	9	<eos>	Vpl-Nsg-or	
+1257	8	0	Nous	prefix	Vpl-Nsg-or
+1258	8	1	avons	prefix	Vpl-Nsg-or
+1259	8	2	noté	prefix	Vpl-Nsg-or
+1260	8	3	quand	prefix	Vpl-Nsg-or
+1261	8	4	vont	Vpl	Vpl-Nsg-or
+1262	8	5	l'	det1sg	Vpl-Nsg-or
+1263	8	6	agent	np1sg	Vpl-Nsg-or
+1264	8	7	ou	or	Vpl-Nsg-or
+1265	8	9	<eos>	Vpl-Nsg-or	
+1266	9	0	Ils	prefix	Vpl-Nsg-or
+1267	9	1	se	prefix	Vpl-Nsg-or
+1268	9	2	demandent	prefix	Vpl-Nsg-or
+1269	9	3	comment	prefix	Vpl-Nsg-or
+1270	9	4	vont	Vpl	Vpl-Nsg-or
+1271	9	5	le	det1sg	Vpl-Nsg-or
+1272	9	6	patron	np1sg	Vpl-Nsg-or
+1273	9	7	ou	or	Vpl-Nsg-or
+1274	9	9	<eos>	Vpl-Nsg-or	
+1275	10	0	Il	prefix	Vpl-Nsg-or
+1276	10	1	attend	prefix	Vpl-Nsg-or
+1277	10	2	de	prefix	Vpl-Nsg-or
+1278	10	3	voir	prefix	Vpl-Nsg-or
+1279	10	4	combien	prefix	Vpl-Nsg-or
+1280	10	5	vont	Vpl	Vpl-Nsg-or
+1281	10	6	le	det1sg	Vpl-Nsg-or
+1282	10	7	directeur	np1sg	Vpl-Nsg-or
+1283	10	8	ou	or	Vpl-Nsg-or
+1284	10	10	<eos>	Vpl-Nsg-or	
+1285	11	0	Elle	prefix	Vpl-Nsg-or
+1286	11	1	verra	prefix	Vpl-Nsg-or
+1287	11	2	comment	prefix	Vpl-Nsg-or
+1288	11	3	vont	Vpl	Vpl-Nsg-or
+1289	11	4	le	det1sg	Vpl-Nsg-or
+1290	11	5	technicien	np1sg	Vpl-Nsg-or
+1291	11	6	ou	or	Vpl-Nsg-or
+1292	11	8	<eos>	Vpl-Nsg-or	
+1293	12	0	Je	prefix	Vpl-Nsg-or
+1294	12	1	veux	prefix	Vpl-Nsg-or
+1295	12	2	savoir	prefix	Vpl-Nsg-or
+1296	12	3	ce	prefix	Vpl-Nsg-or
+1297	12	4	que	prefix	Vpl-Nsg-or
+1298	12	5	vont	Vpl	Vpl-Nsg-or
+1299	12	6	le	det1sg	Vpl-Nsg-or
+1300	12	7	parc	np1sg	Vpl-Nsg-or
+1301	12	8	ou	or	Vpl-Nsg-or
+1302	12	10	<eos>	Vpl-Nsg-or	
+1303	13	0	Je	prefix	Vpl-Nsg-or
+1304	13	1	me	prefix	Vpl-Nsg-or
+1305	13	2	demande	prefix	Vpl-Nsg-or
+1306	13	3	pendant	prefix	Vpl-Nsg-or
+1307	13	4	quelles	prefix	Vpl-Nsg-or
+1308	13	5	semaines	prefix	Vpl-Nsg-or
+1309	13	6	vont	Vpl	Vpl-Nsg-or
+1310	13	7	le	det1sg	Vpl-Nsg-or
+1311	13	8	meeting	np1sg	Vpl-Nsg-or
+1312	13	9	ou	or	Vpl-Nsg-or
+1313	13	11	<eos>	Vpl-Nsg-or	
+1314	14	0	Il	prefix	Vpl-Nsg-or
+1315	14	1	ne	prefix	Vpl-Nsg-or
+1316	14	2	sait	prefix	Vpl-Nsg-or
+1317	14	3	pas	prefix	Vpl-Nsg-or
+1318	14	4	quand	prefix	Vpl-Nsg-or
+1319	14	5	vont	Vpl	Vpl-Nsg-or
+1320	14	6	l'	det1sg	Vpl-Nsg-or
+1321	14	7	avion	np1sg	Vpl-Nsg-or
+1322	14	8	ou	or	Vpl-Nsg-or
+1323	14	10	<eos>	Vpl-Nsg-or	
+1324	15	0	Elle	prefix	Vpl-Nsg-or
+1325	15	1	ignore	prefix	Vpl-Nsg-or
+1326	15	2	combien	prefix	Vpl-Nsg-or
+1327	15	3	vont	Vpl	Vpl-Nsg-or
+1328	15	4	le	det1sg	Vpl-Nsg-or
+1329	15	5	loyer	np1sg	Vpl-Nsg-or
+1330	15	6	ou	or	Vpl-Nsg-or
+1331	15	8	<eos>	Vpl-Nsg-or	
+1332	16	0	Nous	prefix	Vpl-Nsg-or
+1333	16	1	voulons	prefix	Vpl-Nsg-or
+1334	16	2	savoir	prefix	Vpl-Nsg-or
+1335	16	3	quand	prefix	Vpl-Nsg-or
+1336	16	4	vont	Vpl	Vpl-Nsg-or
+1337	16	5	la	det1sg	Vpl-Nsg-or
+1338	16	6	ville	np1sg	Vpl-Nsg-or
+1339	16	7	ou	or	Vpl-Nsg-or
+1340	16	9	<eos>	Vpl-Nsg-or	
+1341	17	0	Nous	prefix	Vpl-Nsg-or
+1342	17	1	ne	prefix	Vpl-Nsg-or
+1343	17	2	savons	prefix	Vpl-Nsg-or
+1344	17	3	pas	prefix	Vpl-Nsg-or
+1345	17	4	quand	prefix	Vpl-Nsg-or
+1346	17	5	vont	Vpl	Vpl-Nsg-or
+1347	17	6	le	det1sg	Vpl-Nsg-or
+1348	17	7	parti	np1sg	Vpl-Nsg-or
+1349	17	8	ou	or	Vpl-Nsg-or
+1350	17	10	<eos>	Vpl-Nsg-or	
+1351	18	0	Il	prefix	Vpl-Nsg-or
+1352	18	1	veut	prefix	Vpl-Nsg-or
+1353	18	2	savoir	prefix	Vpl-Nsg-or
+1354	18	3	que	prefix	Vpl-Nsg-or
+1355	18	4	vont	Vpl	Vpl-Nsg-or
+1356	18	5	le	det1sg	Vpl-Nsg-or
+1357	18	6	bus	np1sg	Vpl-Nsg-or
+1358	18	7	ou	or	Vpl-Nsg-or
+1359	18	9	<eos>	Vpl-Nsg-or	
+1360	19	0	Il	prefix	Vpl-Nsg-or
+1361	19	1	aimerait	prefix	Vpl-Nsg-or
+1362	19	2	savoir	prefix	Vpl-Nsg-or
+1363	19	3	ce	prefix	Vpl-Nsg-or
+1364	19	4	que	prefix	Vpl-Nsg-or
+1365	19	5	vont	Vpl	Vpl-Nsg-or
+1366	19	6	le	det1sg	Vpl-Nsg-or
+1367	19	7	restaurant	np1sg	Vpl-Nsg-or
+1368	19	8	ou	or	Vpl-Nsg-or
+1369	19	10	<eos>	Vpl-Nsg-or	
+1370	20	0	Je	prefix	Vpl-Nsg-or
+1371	20	1	ne	prefix	Vpl-Nsg-or
+1372	20	2	sais	prefix	Vpl-Nsg-or
+1373	20	3	pas	prefix	Vpl-Nsg-or
+1374	20	4	comment	prefix	Vpl-Nsg-or
+1375	20	5	vont	Vpl	Vpl-Nsg-or
+1376	20	6	la	det1sg	Vpl-Nsg-or
+1377	20	7	réponse	np1sg	Vpl-Nsg-or
+1378	20	8	ou	or	Vpl-Nsg-or
+1379	20	10	<eos>	Vpl-Nsg-or	
+1380	21	0	Je	prefix	Vpl-Nsg-or
+1381	21	1	me	prefix	Vpl-Nsg-or
+1382	21	2	demande	prefix	Vpl-Nsg-or
+1383	21	3	quand	prefix	Vpl-Nsg-or
+1384	21	4	vont	Vpl	Vpl-Nsg-or
+1385	21	5	le	det1sg	Vpl-Nsg-or
+1386	21	6	spectacle	np1sg	Vpl-Nsg-or
+1387	21	7	ou	or	Vpl-Nsg-or
+1388	21	9	<eos>	Vpl-Nsg-or	
+1389	22	0	Nous	prefix	Vpl-Nsg-or
+1390	22	1	attendons	prefix	Vpl-Nsg-or
+1391	22	2	de	prefix	Vpl-Nsg-or
+1392	22	3	voir	prefix	Vpl-Nsg-or
+1393	22	4	ce	prefix	Vpl-Nsg-or
+1394	22	5	que	prefix	Vpl-Nsg-or
+1395	22	6	vont	Vpl	Vpl-Nsg-or
+1396	22	7	le	det1sg	Vpl-Nsg-or
+1397	22	8	livre	np1sg	Vpl-Nsg-or
+1398	22	9	ou	or	Vpl-Nsg-or
+1399	22	11	<eos>	Vpl-Nsg-or	
+1400	23	0	Il	prefix	Vpl-Nsg-or
+1401	23	1	ignore	prefix	Vpl-Nsg-or
+1402	23	2	dans	prefix	Vpl-Nsg-or
+1403	23	3	quelles	prefix	Vpl-Nsg-or
+1404	23	4	rues	prefix	Vpl-Nsg-or
+1405	23	5	vont	Vpl	Vpl-Nsg-or
+1406	23	6	la	det1sg	Vpl-Nsg-or
+1407	23	7	grève	np1sg	Vpl-Nsg-or
+1408	23	8	ou	or	Vpl-Nsg-or
+1409	23	10	<eos>	Vpl-Nsg-or	
+1410	0	0	Je	prefix	Vsg-Npl-or
+1411	0	1	me	prefix	Vsg-Npl-or
+1412	0	2	demande	prefix	Vsg-Npl-or
+1413	0	3	où	prefix	Vsg-Npl-or
+1414	0	4	va	Vsg	Vsg-Npl-or
+1415	0	5	les	det1pl	Vsg-Npl-or
+1416	0	6	maires	np1pl	Vsg-Npl-or
+1417	0	7	ou	or	Vsg-Npl-or
+1418	0	9	<eos>	Vsg-Npl-or	
+1419	1	0	Elle	prefix	Vsg-Npl-or
+1420	1	1	ne	prefix	Vsg-Npl-or
+1421	1	2	sait	prefix	Vsg-Npl-or
+1422	1	3	plus	prefix	Vsg-Npl-or
+1423	1	4	à	prefix	Vsg-Npl-or
+1424	1	5	quelle	prefix	Vsg-Npl-or
+1425	1	6	heure	prefix	Vsg-Npl-or
+1426	1	7	va	Vsg	Vsg-Npl-or
+1427	1	8	les	det1pl	Vsg-Npl-or
+1428	1	9	dirigeants	np1pl	Vsg-Npl-or
+1429	1	10	ou	or	Vsg-Npl-or
+1430	1	12	<eos>	Vsg-Npl-or	
+1431	2	0	Il	prefix	Vsg-Npl-or
+1432	2	1	aimerait	prefix	Vsg-Npl-or
+1433	2	2	savoir	prefix	Vsg-Npl-or
+1434	2	3	ce	prefix	Vsg-Npl-or
+1435	2	4	que	prefix	Vsg-Npl-or
+1436	2	5	va	Vsg	Vsg-Npl-or
+1437	2	6	les	det1pl	Vsg-Npl-or
+1438	2	7	présidents	np1pl	Vsg-Npl-or
+1439	2	8	ou	or	Vsg-Npl-or
+1440	2	10	<eos>	Vsg-Npl-or	
+1441	3	0	Nous	prefix	Vsg-Npl-or
+1442	3	1	voulons	prefix	Vsg-Npl-or
+1443	3	2	savoir	prefix	Vsg-Npl-or
+1444	3	3	ce	prefix	Vsg-Npl-or
+1445	3	4	que	prefix	Vsg-Npl-or
+1446	3	5	va	Vsg	Vsg-Npl-or
+1447	3	6	les	det1pl	Vsg-Npl-or
+1448	3	7	animateurs	np1pl	Vsg-Npl-or
+1449	3	8	ou	or	Vsg-Npl-or
+1450	3	10	<eos>	Vsg-Npl-or	
+1451	4	0	Je	prefix	Vsg-Npl-or
+1452	4	1	me	prefix	Vsg-Npl-or
+1453	4	2	demande	prefix	Vsg-Npl-or
+1454	4	3	quand	prefix	Vsg-Npl-or
+1455	4	4	va	Vsg	Vsg-Npl-or
+1456	4	5	les	det1pl	Vsg-Npl-or
+1457	4	6	gouverneurs	np1pl	Vsg-Npl-or
+1458	4	7	ou	or	Vsg-Npl-or
+1459	4	9	<eos>	Vsg-Npl-or	
+1460	5	0	Tu	prefix	Vsg-Npl-or
+1461	5	1	ne	prefix	Vsg-Npl-or
+1462	5	2	sais	prefix	Vsg-Npl-or
+1463	5	3	pas	prefix	Vsg-Npl-or
+1464	5	4	ce	prefix	Vsg-Npl-or
+1465	5	5	que	prefix	Vsg-Npl-or
+1466	5	6	va	Vsg	Vsg-Npl-or
+1467	5	7	les	det1pl	Vsg-Npl-or
+1468	5	8	bébés	np1pl	Vsg-Npl-or
+1469	5	9	ou	or	Vsg-Npl-or
+1470	5	11	<eos>	Vsg-Npl-or	
+1471	6	0	Il	prefix	Vsg-Npl-or
+1472	6	1	ne	prefix	Vsg-Npl-or
+1473	6	2	sait	prefix	Vsg-Npl-or
+1474	6	3	pas	prefix	Vsg-Npl-or
+1475	6	4	à	prefix	Vsg-Npl-or
+1476	6	5	quel	prefix	Vsg-Npl-or
+1477	6	6	moment	prefix	Vsg-Npl-or
+1478	6	7	va	Vsg	Vsg-Npl-or
+1479	6	8	mes	det1pl	Vsg-Npl-or
+1480	6	9	frère	np1pl	Vsg-Npl-or
+1481	6	10	ou	or	Vsg-Npl-or
+1482	6	12	<eos>	Vsg-Npl-or	
+1483	7	0	Elle	prefix	Vsg-Npl-or
+1484	7	1	ignore	prefix	Vsg-Npl-or
+1485	7	2	quel	prefix	Vsg-Npl-or
+1486	7	3	jour	prefix	Vsg-Npl-or
+1487	7	4	va	Vsg	Vsg-Npl-or
+1488	7	5	les	det1pl	Vsg-Npl-or
+1489	7	6	médecins	np1pl	Vsg-Npl-or
+1490	7	7	ou	or	Vsg-Npl-or
+1491	7	9	<eos>	Vsg-Npl-or	
+1492	8	0	Nous	prefix	Vsg-Npl-or
+1493	8	1	avons	prefix	Vsg-Npl-or
+1494	8	2	noté	prefix	Vsg-Npl-or
+1495	8	3	quand	prefix	Vsg-Npl-or
+1496	8	4	va	Vsg	Vsg-Npl-or
+1497	8	5	les	det1pl	Vsg-Npl-or
+1498	8	6	agents	np1pl	Vsg-Npl-or
+1499	8	7	ou	or	Vsg-Npl-or
+1500	8	9	<eos>	Vsg-Npl-or	
+1501	9	0	Ils	prefix	Vsg-Npl-or
+1502	9	1	se	prefix	Vsg-Npl-or
+1503	9	2	demandent	prefix	Vsg-Npl-or
+1504	9	3	comment	prefix	Vsg-Npl-or
+1505	9	4	va	Vsg	Vsg-Npl-or
+1506	9	5	les	det1pl	Vsg-Npl-or
+1507	9	6	patrons	np1pl	Vsg-Npl-or
+1508	9	7	ou	or	Vsg-Npl-or
+1509	9	9	<eos>	Vsg-Npl-or	
+1510	10	0	Il	prefix	Vsg-Npl-or
+1511	10	1	attend	prefix	Vsg-Npl-or
+1512	10	2	de	prefix	Vsg-Npl-or
+1513	10	3	voir	prefix	Vsg-Npl-or
+1514	10	4	combien	prefix	Vsg-Npl-or
+1515	10	5	va	Vsg	Vsg-Npl-or
+1516	10	6	les	det1pl	Vsg-Npl-or
+1517	10	7	directeurs	np1pl	Vsg-Npl-or
+1518	10	8	ou	or	Vsg-Npl-or
+1519	10	10	<eos>	Vsg-Npl-or	
+1520	11	0	Elle	prefix	Vsg-Npl-or
+1521	11	1	verra	prefix	Vsg-Npl-or
+1522	11	2	comment	prefix	Vsg-Npl-or
+1523	11	3	va	Vsg	Vsg-Npl-or
+1524	11	4	les	det1pl	Vsg-Npl-or
+1525	11	5	techniciens	np1pl	Vsg-Npl-or
+1526	11	6	ou	or	Vsg-Npl-or
+1527	11	8	<eos>	Vsg-Npl-or	
+1528	12	0	Je	prefix	Vsg-Npl-or
+1529	12	1	veux	prefix	Vsg-Npl-or
+1530	12	2	savoir	prefix	Vsg-Npl-or
+1531	12	3	ce	prefix	Vsg-Npl-or
+1532	12	4	que	prefix	Vsg-Npl-or
+1533	12	5	va	Vsg	Vsg-Npl-or
+1534	12	6	les	det1pl	Vsg-Npl-or
+1535	12	7	parcs	np1pl	Vsg-Npl-or
+1536	12	8	ou	or	Vsg-Npl-or
+1537	12	10	<eos>	Vsg-Npl-or	
+1538	13	0	Je	prefix	Vsg-Npl-or
+1539	13	1	me	prefix	Vsg-Npl-or
+1540	13	2	demande	prefix	Vsg-Npl-or
+1541	13	3	pendant	prefix	Vsg-Npl-or
+1542	13	4	quelles	prefix	Vsg-Npl-or
+1543	13	5	semaines	prefix	Vsg-Npl-or
+1544	13	6	va	Vsg	Vsg-Npl-or
+1545	13	7	les	det1pl	Vsg-Npl-or
+1546	13	8	meetings	np1pl	Vsg-Npl-or
+1547	13	9	ou	or	Vsg-Npl-or
+1548	13	11	<eos>	Vsg-Npl-or	
+1549	14	0	Il	prefix	Vsg-Npl-or
+1550	14	1	ne	prefix	Vsg-Npl-or
+1551	14	2	sait	prefix	Vsg-Npl-or
+1552	14	3	pas	prefix	Vsg-Npl-or
+1553	14	4	quand	prefix	Vsg-Npl-or
+1554	14	5	va	Vsg	Vsg-Npl-or
+1555	14	6	les	det1pl	Vsg-Npl-or
+1556	14	7	avions	np1pl	Vsg-Npl-or
+1557	14	8	ou	or	Vsg-Npl-or
+1558	14	10	<eos>	Vsg-Npl-or	
+1559	15	0	Elle	prefix	Vsg-Npl-or
+1560	15	1	ignore	prefix	Vsg-Npl-or
+1561	15	2	combien	prefix	Vsg-Npl-or
+1562	15	3	va	Vsg	Vsg-Npl-or
+1563	15	4	les	det1pl	Vsg-Npl-or
+1564	15	5	loyers	np1pl	Vsg-Npl-or
+1565	15	6	ou	or	Vsg-Npl-or
+1566	15	8	<eos>	Vsg-Npl-or	
+1567	16	0	Nous	prefix	Vsg-Npl-or
+1568	16	1	voulons	prefix	Vsg-Npl-or
+1569	16	2	savoir	prefix	Vsg-Npl-or
+1570	16	3	quand	prefix	Vsg-Npl-or
+1571	16	4	va	Vsg	Vsg-Npl-or
+1572	16	5	les	det1pl	Vsg-Npl-or
+1573	16	6	villes	np1pl	Vsg-Npl-or
+1574	16	7	ou	or	Vsg-Npl-or
+1575	16	9	<eos>	Vsg-Npl-or	
+1576	17	0	Nous	prefix	Vsg-Npl-or
+1577	17	1	ne	prefix	Vsg-Npl-or
+1578	17	2	savons	prefix	Vsg-Npl-or
+1579	17	3	pas	prefix	Vsg-Npl-or
+1580	17	4	quand	prefix	Vsg-Npl-or
+1581	17	5	va	Vsg	Vsg-Npl-or
+1582	17	6	les	det1pl	Vsg-Npl-or
+1583	17	7	partis	np1pl	Vsg-Npl-or
+1584	17	8	ou	or	Vsg-Npl-or
+1585	17	10	<eos>	Vsg-Npl-or	
+1586	18	0	Il	prefix	Vsg-Npl-or
+1587	18	1	veut	prefix	Vsg-Npl-or
+1588	18	2	savoir	prefix	Vsg-Npl-or
+1589	18	3	que	prefix	Vsg-Npl-or
+1590	18	4	va	Vsg	Vsg-Npl-or
+1591	18	5	les	det1pl	Vsg-Npl-or
+1592	18	6	bus	np1pl	Vsg-Npl-or
+1593	18	7	ou	or	Vsg-Npl-or
+1594	18	9	<eos>	Vsg-Npl-or	
+1595	19	0	Il	prefix	Vsg-Npl-or
+1596	19	1	aimerait	prefix	Vsg-Npl-or
+1597	19	2	savoir	prefix	Vsg-Npl-or
+1598	19	3	ce	prefix	Vsg-Npl-or
+1599	19	4	que	prefix	Vsg-Npl-or
+1600	19	5	va	Vsg	Vsg-Npl-or
+1601	19	6	les	det1pl	Vsg-Npl-or
+1602	19	7	restaurants	np1pl	Vsg-Npl-or
+1603	19	8	ou	or	Vsg-Npl-or
+1604	19	10	<eos>	Vsg-Npl-or	
+1605	20	0	Je	prefix	Vsg-Npl-or
+1606	20	1	ne	prefix	Vsg-Npl-or
+1607	20	2	sais	prefix	Vsg-Npl-or
+1608	20	3	pas	prefix	Vsg-Npl-or
+1609	20	4	comment	prefix	Vsg-Npl-or
+1610	20	5	va	Vsg	Vsg-Npl-or
+1611	20	6	les	det1pl	Vsg-Npl-or
+1612	20	7	réponses	np1pl	Vsg-Npl-or
+1613	20	8	ou	or	Vsg-Npl-or
+1614	20	10	<eos>	Vsg-Npl-or	
+1615	21	0	Je	prefix	Vsg-Npl-or
+1616	21	1	me	prefix	Vsg-Npl-or
+1617	21	2	demande	prefix	Vsg-Npl-or
+1618	21	3	quand	prefix	Vsg-Npl-or
+1619	21	4	va	Vsg	Vsg-Npl-or
+1620	21	5	les	det1pl	Vsg-Npl-or
+1621	21	6	spectacles	np1pl	Vsg-Npl-or
+1622	21	7	ou	or	Vsg-Npl-or
+1623	21	9	<eos>	Vsg-Npl-or	
+1624	22	0	Nous	prefix	Vsg-Npl-or
+1625	22	1	attendons	prefix	Vsg-Npl-or
+1626	22	2	de	prefix	Vsg-Npl-or
+1627	22	3	voir	prefix	Vsg-Npl-or
+1628	22	4	ce	prefix	Vsg-Npl-or
+1629	22	5	que	prefix	Vsg-Npl-or
+1630	22	6	va	Vsg	Vsg-Npl-or
+1631	22	7	les	det1pl	Vsg-Npl-or
+1632	22	8	livres	np1pl	Vsg-Npl-or
+1633	22	9	ou	or	Vsg-Npl-or
+1634	22	11	<eos>	Vsg-Npl-or	
+1635	23	0	Il	prefix	Vsg-Npl-or
+1636	23	1	ignore	prefix	Vsg-Npl-or
+1637	23	2	dans	prefix	Vsg-Npl-or
+1638	23	3	quelles	prefix	Vsg-Npl-or
+1639	23	4	rues	prefix	Vsg-Npl-or
+1640	23	5	va	Vsg	Vsg-Npl-or
+1641	23	6	les	det1pl	Vsg-Npl-or
+1642	23	7	grèves	np1pl	Vsg-Npl-or
+1643	23	8	ou	or	Vsg-Npl-or
+1644	23	10	<eos>	Vsg-Npl-or	
+1645	0	0	Je	prefix	Vpl-Npl-or
+1646	0	1	me	prefix	Vpl-Npl-or
+1647	0	2	demande	prefix	Vpl-Npl-or
+1648	0	3	où	prefix	Vpl-Npl-or
+1649	0	4	vont	Vpl	Vpl-Npl-or
+1650	0	5	les	det1pl	Vpl-Npl-or
+1651	0	6	maires	np1pl	Vpl-Npl-or
+1652	0	7	ou	or	Vpl-Npl-or
+1653	0	9	<eos>	Vpl-Npl-or	
+1654	1	0	Elle	prefix	Vpl-Npl-or
+1655	1	1	ne	prefix	Vpl-Npl-or
+1656	1	2	sait	prefix	Vpl-Npl-or
+1657	1	3	plus	prefix	Vpl-Npl-or
+1658	1	4	à	prefix	Vpl-Npl-or
+1659	1	5	quelle	prefix	Vpl-Npl-or
+1660	1	6	heure	prefix	Vpl-Npl-or
+1661	1	7	vont	Vpl	Vpl-Npl-or
+1662	1	8	les	det1pl	Vpl-Npl-or
+1663	1	9	dirigeants	np1pl	Vpl-Npl-or
+1664	1	10	ou	or	Vpl-Npl-or
+1665	1	12	<eos>	Vpl-Npl-or	
+1666	2	0	Il	prefix	Vpl-Npl-or
+1667	2	1	aimerait	prefix	Vpl-Npl-or
+1668	2	2	savoir	prefix	Vpl-Npl-or
+1669	2	3	ce	prefix	Vpl-Npl-or
+1670	2	4	que	prefix	Vpl-Npl-or
+1671	2	5	vont	Vpl	Vpl-Npl-or
+1672	2	6	les	det1pl	Vpl-Npl-or
+1673	2	7	présidents	np1pl	Vpl-Npl-or
+1674	2	8	ou	or	Vpl-Npl-or
+1675	2	10	<eos>	Vpl-Npl-or	
+1676	3	0	Nous	prefix	Vpl-Npl-or
+1677	3	1	voulons	prefix	Vpl-Npl-or
+1678	3	2	savoir	prefix	Vpl-Npl-or
+1679	3	3	ce	prefix	Vpl-Npl-or
+1680	3	4	que	prefix	Vpl-Npl-or
+1681	3	5	vont	Vpl	Vpl-Npl-or
+1682	3	6	les	det1pl	Vpl-Npl-or
+1683	3	7	animateurs	np1pl	Vpl-Npl-or
+1684	3	8	ou	or	Vpl-Npl-or
+1685	3	10	<eos>	Vpl-Npl-or	
+1686	4	0	Je	prefix	Vpl-Npl-or
+1687	4	1	me	prefix	Vpl-Npl-or
+1688	4	2	demande	prefix	Vpl-Npl-or
+1689	4	3	quand	prefix	Vpl-Npl-or
+1690	4	4	vont	Vpl	Vpl-Npl-or
+1691	4	5	les	det1pl	Vpl-Npl-or
+1692	4	6	gouverneurs	np1pl	Vpl-Npl-or
+1693	4	7	ou	or	Vpl-Npl-or
+1694	4	9	<eos>	Vpl-Npl-or	
+1695	5	0	Tu	prefix	Vpl-Npl-or
+1696	5	1	ne	prefix	Vpl-Npl-or
+1697	5	2	sais	prefix	Vpl-Npl-or
+1698	5	3	pas	prefix	Vpl-Npl-or
+1699	5	4	ce	prefix	Vpl-Npl-or
+1700	5	5	que	prefix	Vpl-Npl-or
+1701	5	6	vont	Vpl	Vpl-Npl-or
+1702	5	7	les	det1pl	Vpl-Npl-or
+1703	5	8	bébés	np1pl	Vpl-Npl-or
+1704	5	9	ou	or	Vpl-Npl-or
+1705	5	11	<eos>	Vpl-Npl-or	
+1706	6	0	Il	prefix	Vpl-Npl-or
+1707	6	1	ne	prefix	Vpl-Npl-or
+1708	6	2	sait	prefix	Vpl-Npl-or
+1709	6	3	pas	prefix	Vpl-Npl-or
+1710	6	4	à	prefix	Vpl-Npl-or
+1711	6	5	quel	prefix	Vpl-Npl-or
+1712	6	6	moment	prefix	Vpl-Npl-or
+1713	6	7	vont	Vpl	Vpl-Npl-or
+1714	6	8	mes	det1pl	Vpl-Npl-or
+1715	6	9	frère	np1pl	Vpl-Npl-or
+1716	6	10	ou	or	Vpl-Npl-or
+1717	6	12	<eos>	Vpl-Npl-or	
+1718	7	0	Elle	prefix	Vpl-Npl-or
+1719	7	1	ignore	prefix	Vpl-Npl-or
+1720	7	2	quel	prefix	Vpl-Npl-or
+1721	7	3	jour	prefix	Vpl-Npl-or
+1722	7	4	vont	Vpl	Vpl-Npl-or
+1723	7	5	les	det1pl	Vpl-Npl-or
+1724	7	6	médecins	np1pl	Vpl-Npl-or
+1725	7	7	ou	or	Vpl-Npl-or
+1726	7	9	<eos>	Vpl-Npl-or	
+1727	8	0	Nous	prefix	Vpl-Npl-or
+1728	8	1	avons	prefix	Vpl-Npl-or
+1729	8	2	noté	prefix	Vpl-Npl-or
+1730	8	3	quand	prefix	Vpl-Npl-or
+1731	8	4	vont	Vpl	Vpl-Npl-or
+1732	8	5	les	det1pl	Vpl-Npl-or
+1733	8	6	agents	np1pl	Vpl-Npl-or
+1734	8	7	ou	or	Vpl-Npl-or
+1735	8	9	<eos>	Vpl-Npl-or	
+1736	9	0	Ils	prefix	Vpl-Npl-or
+1737	9	1	se	prefix	Vpl-Npl-or
+1738	9	2	demandent	prefix	Vpl-Npl-or
+1739	9	3	comment	prefix	Vpl-Npl-or
+1740	9	4	vont	Vpl	Vpl-Npl-or
+1741	9	5	les	det1pl	Vpl-Npl-or
+1742	9	6	patrons	np1pl	Vpl-Npl-or
+1743	9	7	ou	or	Vpl-Npl-or
+1744	9	9	<eos>	Vpl-Npl-or	
+1745	10	0	Il	prefix	Vpl-Npl-or
+1746	10	1	attend	prefix	Vpl-Npl-or
+1747	10	2	de	prefix	Vpl-Npl-or
+1748	10	3	voir	prefix	Vpl-Npl-or
+1749	10	4	combien	prefix	Vpl-Npl-or
+1750	10	5	vont	Vpl	Vpl-Npl-or
+1751	10	6	les	det1pl	Vpl-Npl-or
+1752	10	7	directeurs	np1pl	Vpl-Npl-or
+1753	10	8	ou	or	Vpl-Npl-or
+1754	10	10	<eos>	Vpl-Npl-or	
+1755	11	0	Elle	prefix	Vpl-Npl-or
+1756	11	1	verra	prefix	Vpl-Npl-or
+1757	11	2	comment	prefix	Vpl-Npl-or
+1758	11	3	vont	Vpl	Vpl-Npl-or
+1759	11	4	les	det1pl	Vpl-Npl-or
+1760	11	5	techniciens	np1pl	Vpl-Npl-or
+1761	11	6	ou	or	Vpl-Npl-or
+1762	11	8	<eos>	Vpl-Npl-or	
+1763	12	0	Je	prefix	Vpl-Npl-or
+1764	12	1	veux	prefix	Vpl-Npl-or
+1765	12	2	savoir	prefix	Vpl-Npl-or
+1766	12	3	ce	prefix	Vpl-Npl-or
+1767	12	4	que	prefix	Vpl-Npl-or
+1768	12	5	vont	Vpl	Vpl-Npl-or
+1769	12	6	les	det1pl	Vpl-Npl-or
+1770	12	7	parcs	np1pl	Vpl-Npl-or
+1771	12	8	ou	or	Vpl-Npl-or
+1772	12	10	<eos>	Vpl-Npl-or	
+1773	13	0	Je	prefix	Vpl-Npl-or
+1774	13	1	me	prefix	Vpl-Npl-or
+1775	13	2	demande	prefix	Vpl-Npl-or
+1776	13	3	pendant	prefix	Vpl-Npl-or
+1777	13	4	quelles	prefix	Vpl-Npl-or
+1778	13	5	semaines	prefix	Vpl-Npl-or
+1779	13	6	vont	Vpl	Vpl-Npl-or
+1780	13	7	les	det1pl	Vpl-Npl-or
+1781	13	8	meetings	np1pl	Vpl-Npl-or
+1782	13	9	ou	or	Vpl-Npl-or
+1783	13	11	<eos>	Vpl-Npl-or	
+1784	14	0	Il	prefix	Vpl-Npl-or
+1785	14	1	ne	prefix	Vpl-Npl-or
+1786	14	2	sait	prefix	Vpl-Npl-or
+1787	14	3	pas	prefix	Vpl-Npl-or
+1788	14	4	quand	prefix	Vpl-Npl-or
+1789	14	5	vont	Vpl	Vpl-Npl-or
+1790	14	6	les	det1pl	Vpl-Npl-or
+1791	14	7	avions	np1pl	Vpl-Npl-or
+1792	14	8	ou	or	Vpl-Npl-or
+1793	14	10	<eos>	Vpl-Npl-or	
+1794	15	0	Elle	prefix	Vpl-Npl-or
+1795	15	1	ignore	prefix	Vpl-Npl-or
+1796	15	2	combien	prefix	Vpl-Npl-or
+1797	15	3	vont	Vpl	Vpl-Npl-or
+1798	15	4	les	det1pl	Vpl-Npl-or
+1799	15	5	loyers	np1pl	Vpl-Npl-or
+1800	15	6	ou	or	Vpl-Npl-or
+1801	15	8	<eos>	Vpl-Npl-or	
+1802	16	0	Nous	prefix	Vpl-Npl-or
+1803	16	1	voulons	prefix	Vpl-Npl-or
+1804	16	2	savoir	prefix	Vpl-Npl-or
+1805	16	3	quand	prefix	Vpl-Npl-or
+1806	16	4	vont	Vpl	Vpl-Npl-or
+1807	16	5	les	det1pl	Vpl-Npl-or
+1808	16	6	villes	np1pl	Vpl-Npl-or
+1809	16	7	ou	or	Vpl-Npl-or
+1810	16	9	<eos>	Vpl-Npl-or	
+1811	17	0	Nous	prefix	Vpl-Npl-or
+1812	17	1	ne	prefix	Vpl-Npl-or
+1813	17	2	savons	prefix	Vpl-Npl-or
+1814	17	3	pas	prefix	Vpl-Npl-or
+1815	17	4	quand	prefix	Vpl-Npl-or
+1816	17	5	vont	Vpl	Vpl-Npl-or
+1817	17	6	les	det1pl	Vpl-Npl-or
+1818	17	7	partis	np1pl	Vpl-Npl-or
+1819	17	8	ou	or	Vpl-Npl-or
+1820	17	10	<eos>	Vpl-Npl-or	
+1821	18	0	Il	prefix	Vpl-Npl-or
+1822	18	1	veut	prefix	Vpl-Npl-or
+1823	18	2	savoir	prefix	Vpl-Npl-or
+1824	18	3	que	prefix	Vpl-Npl-or
+1825	18	4	vont	Vpl	Vpl-Npl-or
+1826	18	5	les	det1pl	Vpl-Npl-or
+1827	18	6	bus	np1pl	Vpl-Npl-or
+1828	18	7	ou	or	Vpl-Npl-or
+1829	18	9	<eos>	Vpl-Npl-or	
+1830	19	0	Il	prefix	Vpl-Npl-or
+1831	19	1	aimerait	prefix	Vpl-Npl-or
+1832	19	2	savoir	prefix	Vpl-Npl-or
+1833	19	3	ce	prefix	Vpl-Npl-or
+1834	19	4	que	prefix	Vpl-Npl-or
+1835	19	5	vont	Vpl	Vpl-Npl-or
+1836	19	6	les	det1pl	Vpl-Npl-or
+1837	19	7	restaurants	np1pl	Vpl-Npl-or
+1838	19	8	ou	or	Vpl-Npl-or
+1839	19	10	<eos>	Vpl-Npl-or	
+1840	20	0	Je	prefix	Vpl-Npl-or
+1841	20	1	ne	prefix	Vpl-Npl-or
+1842	20	2	sais	prefix	Vpl-Npl-or
+1843	20	3	pas	prefix	Vpl-Npl-or
+1844	20	4	comment	prefix	Vpl-Npl-or
+1845	20	5	vont	Vpl	Vpl-Npl-or
+1846	20	6	les	det1pl	Vpl-Npl-or
+1847	20	7	réponses	np1pl	Vpl-Npl-or
+1848	20	8	ou	or	Vpl-Npl-or
+1849	20	10	<eos>	Vpl-Npl-or	
+1850	21	0	Je	prefix	Vpl-Npl-or
+1851	21	1	me	prefix	Vpl-Npl-or
+1852	21	2	demande	prefix	Vpl-Npl-or
+1853	21	3	quand	prefix	Vpl-Npl-or
+1854	21	4	vont	Vpl	Vpl-Npl-or
+1855	21	5	les	det1pl	Vpl-Npl-or
+1856	21	6	spectacles	np1pl	Vpl-Npl-or
+1857	21	7	ou	or	Vpl-Npl-or
+1858	21	9	<eos>	Vpl-Npl-or	
+1859	22	0	Nous	prefix	Vpl-Npl-or
+1860	22	1	attendons	prefix	Vpl-Npl-or
+1861	22	2	de	prefix	Vpl-Npl-or
+1862	22	3	voir	prefix	Vpl-Npl-or
+1863	22	4	ce	prefix	Vpl-Npl-or
+1864	22	5	que	prefix	Vpl-Npl-or
+1865	22	6	vont	Vpl	Vpl-Npl-or
+1866	22	7	les	det1pl	Vpl-Npl-or
+1867	22	8	livres	np1pl	Vpl-Npl-or
+1868	22	9	ou	or	Vpl-Npl-or
+1869	22	11	<eos>	Vpl-Npl-or	
+1870	23	0	Il	prefix	Vpl-Npl-or
+1871	23	1	ignore	prefix	Vpl-Npl-or
+1872	23	2	dans	prefix	Vpl-Npl-or
+1873	23	3	quelles	prefix	Vpl-Npl-or
+1874	23	4	rues	prefix	Vpl-Npl-or
+1875	23	5	vont	Vpl	Vpl-Npl-or
+1876	23	6	les	det1pl	Vpl-Npl-or
+1877	23	7	grèves	np1pl	Vpl-Npl-or
+1878	23	8	ou	or	Vpl-Npl-or
+1879	23	10	<eos>	Vpl-Npl-or	
