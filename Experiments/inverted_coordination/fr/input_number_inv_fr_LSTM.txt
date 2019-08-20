@@ -1,0 +1,192 @@
+Je me demande où va le maire et <eos>
+Elle ne sait plus à quelle heure va le dirigeant et <eos>
+Il aimerait savoir ce que va le président et <eos>
+Nous voulons savoir ce que va l' animateur et <eos>
+Je me demande quand va le gouverneur et <eos>
+Tu ne sais pas ce que va le bébé et <eos>
+Il ne sait pas à quel moment va mon frère et <eos>
+Elle ignore quel jour va le médecin et <eos>
+Nous avons noté quand va l' agent et <eos>
+Ils se demandent comment va le patron et <eos>
+Il attend de voir combien va le directeur et <eos>
+Elle verra comment va le technicien et <eos>
+Je veux savoir ce que va le parc et <eos>
+Je me demande pendant quelles semaines va le meeting et <eos>
+Il ne sait pas quand va l' avion et <eos>
+Elle ignore combien va le loyer et <eos>
+Nous voulons savoir quand va la ville et <eos>
+Nous ne savons pas quand va le parti et <eos>
+Il veut savoir que va le bus et <eos>
+Il aimerait savoir ce que va le restaurant et <eos>
+Je ne sais pas comment va la réponse et <eos>
+Je me demande quand va le spectacle et <eos>
+Nous attendons de voir ce que va le livre et <eos>
+Il ignore dans quelles rues va la grève et <eos>
+Je me demande où vont le maire et <eos>
+Elle ne sait plus à quelle heure vont le dirigeant et <eos>
+Il aimerait savoir ce que vont le président et <eos>
+Nous voulons savoir ce que vont l' animateur et <eos>
+Je me demande quand vont le gouverneur et <eos>
+Tu ne sais pas ce que vont le bébé et <eos>
+Il ne sait pas à quel moment vont mon frère et <eos>
+Elle ignore quel jour vont le médecin et <eos>
+Nous avons noté quand vont l' agent et <eos>
+Ils se demandent comment vont le patron et <eos>
+Il attend de voir combien vont le directeur et <eos>
+Elle verra comment vont le technicien et <eos>
+Je veux savoir ce que vont le parc et <eos>
+Je me demande pendant quelles semaines vont le meeting et <eos>
+Il ne sait pas quand vont l' avion et <eos>
+Elle ignore combien vont le loyer et <eos>
+Nous voulons savoir quand vont la ville et <eos>
+Nous ne savons pas quand vont le parti et <eos>
+Il veut savoir que vont le bus et <eos>
+Il aimerait savoir ce que vont le restaurant et <eos>
+Je ne sais pas comment vont la réponse et <eos>
+Je me demande quand vont le spectacle et <eos>
+Nous attendons de voir ce que vont le livre et <eos>
+Il ignore dans quelles rues vont la grève et <eos>
+Je me demande où va les maires et <eos>
+Elle ne sait plus à quelle heure va les dirigeants et <eos>
+Il aimerait savoir ce que va les présidents et <eos>
+Nous voulons savoir ce que va les animateurs et <eos>
+Je me demande quand va les gouverneurs et <eos>
+Tu ne sais pas ce que va les bébés et <eos>
+Il ne sait pas à quel moment va mes frère et <eos>
+Elle ignore quel jour va les médecins et <eos>
+Nous avons noté quand va les agents et <eos>
+Ils se demandent comment va les patrons et <eos>
+Il attend de voir combien va les directeurs et <eos>
+Elle verra comment va les techniciens et <eos>
+Je veux savoir ce que va les parcs et <eos>
+Je me demande pendant quelles semaines va les meetings et <eos>
+Il ne sait pas quand va les avions et <eos>
+Elle ignore combien va les loyers et <eos>
+Nous voulons savoir quand va les villes et <eos>
+Nous ne savons pas quand va les partis et <eos>
+Il veut savoir que va les bus et <eos>
+Il aimerait savoir ce que va les restaurants et <eos>
+Je ne sais pas comment va les réponses et <eos>
+Je me demande quand va les spectacles et <eos>
+Nous attendons de voir ce que va les livres et <eos>
+Il ignore dans quelles rues va les grèves et <eos>
+Je me demande où vont les maires et <eos>
+Elle ne sait plus à quelle heure vont les dirigeants et <eos>
+Il aimerait savoir ce que vont les présidents et <eos>
+Nous voulons savoir ce que vont les animateurs et <eos>
+Je me demande quand vont les gouverneurs et <eos>
+Tu ne sais pas ce que vont les bébés et <eos>
+Il ne sait pas à quel moment vont mes frère et <eos>
+Elle ignore quel jour vont les médecins et <eos>
+Nous avons noté quand vont les agents et <eos>
+Ils se demandent comment vont les patrons et <eos>
+Il attend de voir combien vont les directeurs et <eos>
+Elle verra comment vont les techniciens et <eos>
+Je veux savoir ce que vont les parcs et <eos>
+Je me demande pendant quelles semaines vont les meetings et <eos>
+Il ne sait pas quand vont les avions et <eos>
+Elle ignore combien vont les loyers et <eos>
+Nous voulons savoir quand vont les villes et <eos>
+Nous ne savons pas quand vont les partis et <eos>
+Il veut savoir que vont les bus et <eos>
+Il aimerait savoir ce que vont les restaurants et <eos>
+Je ne sais pas comment vont les réponses et <eos>
+Je me demande quand vont les spectacles et <eos>
+Nous attendons de voir ce que vont les livres et <eos>
+Il ignore dans quelles rues vont les grèves et <eos>
+Je me demande où va le maire ou <eos>
+Elle ne sait plus à quelle heure va le dirigeant ou <eos>
+Il aimerait savoir ce que va le président ou <eos>
+Nous voulons savoir ce que va l' animateur ou <eos>
+Je me demande quand va le gouverneur ou <eos>
+Tu ne sais pas ce que va le bébé ou <eos>
+Il ne sait pas à quel moment va mon frère ou <eos>
+Elle ignore quel jour va le médecin ou <eos>
+Nous avons noté quand va l' agent ou <eos>
+Ils se demandent comment va le patron ou <eos>
+Il attend de voir combien va le directeur ou <eos>
+Elle verra comment va le technicien ou <eos>
+Je veux savoir ce que va le parc ou <eos>
+Je me demande pendant quelles semaines va le meeting ou <eos>
+Il ne sait pas quand va l' avion ou <eos>
+Elle ignore combien va le loyer ou <eos>
+Nous voulons savoir quand va la ville ou <eos>
+Nous ne savons pas quand va le parti ou <eos>
+Il veut savoir que va le bus ou <eos>
+Il aimerait savoir ce que va le restaurant ou <eos>
+Je ne sais pas comment va la réponse ou <eos>
+Je me demande quand va le spectacle ou <eos>
+Nous attendons de voir ce que va le livre ou <eos>
+Il ignore dans quelles rues va la grève ou <eos>
+Je me demande où vont le maire ou <eos>
+Elle ne sait plus à quelle heure vont le dirigeant ou <eos>
+Il aimerait savoir ce que vont le président ou <eos>
+Nous voulons savoir ce que vont l' animateur ou <eos>
+Je me demande quand vont le gouverneur ou <eos>
+Tu ne sais pas ce que vont le bébé ou <eos>
+Il ne sait pas à quel moment vont mon frère ou <eos>
+Elle ignore quel jour vont le médecin ou <eos>
+Nous avons noté quand vont l' agent ou <eos>
+Ils se demandent comment vont le patron ou <eos>
+Il attend de voir combien vont le directeur ou <eos>
+Elle verra comment vont le technicien ou <eos>
+Je veux savoir ce que vont le parc ou <eos>
+Je me demande pendant quelles semaines vont le meeting ou <eos>
+Il ne sait pas quand vont l' avion ou <eos>
+Elle ignore combien vont le loyer ou <eos>
+Nous voulons savoir quand vont la ville ou <eos>
+Nous ne savons pas quand vont le parti ou <eos>
+Il veut savoir que vont le bus ou <eos>
+Il aimerait savoir ce que vont le restaurant ou <eos>
+Je ne sais pas comment vont la réponse ou <eos>
+Je me demande quand vont le spectacle ou <eos>
+Nous attendons de voir ce que vont le livre ou <eos>
+Il ignore dans quelles rues vont la grève ou <eos>
+Je me demande où va les maires ou <eos>
+Elle ne sait plus à quelle heure va les dirigeants ou <eos>
+Il aimerait savoir ce que va les présidents ou <eos>
+Nous voulons savoir ce que va les animateurs ou <eos>
+Je me demande quand va les gouverneurs ou <eos>
+Tu ne sais pas ce que va les bébés ou <eos>
+Il ne sait pas à quel moment va mes frère ou <eos>
+Elle ignore quel jour va les médecins ou <eos>
+Nous avons noté quand va les agents ou <eos>
+Ils se demandent comment va les patrons ou <eos>
+Il attend de voir combien va les directeurs ou <eos>
+Elle verra comment va les techniciens ou <eos>
+Je veux savoir ce que va les parcs ou <eos>
+Je me demande pendant quelles semaines va les meetings ou <eos>
+Il ne sait pas quand va les avions ou <eos>
+Elle ignore combien va les loyers ou <eos>
+Nous voulons savoir quand va les villes ou <eos>
+Nous ne savons pas quand va les partis ou <eos>
+Il veut savoir que va les bus ou <eos>
+Il aimerait savoir ce que va les restaurants ou <eos>
+Je ne sais pas comment va les réponses ou <eos>
+Je me demande quand va les spectacles ou <eos>
+Nous attendons de voir ce que va les livres ou <eos>
+Il ignore dans quelles rues va les grèves ou <eos>
+Je me demande où vont les maires ou <eos>
+Elle ne sait plus à quelle heure vont les dirigeants ou <eos>
+Il aimerait savoir ce que vont les présidents ou <eos>
+Nous voulons savoir ce que vont les animateurs ou <eos>
+Je me demande quand vont les gouverneurs ou <eos>
+Tu ne sais pas ce que vont les bébés ou <eos>
+Il ne sait pas à quel moment vont mes frère ou <eos>
+Elle ignore quel jour vont les médecins ou <eos>
+Nous avons noté quand vont les agents ou <eos>
+Ils se demandent comment vont les patrons ou <eos>
+Il attend de voir combien vont les directeurs ou <eos>
+Elle verra comment vont les techniciens ou <eos>
+Je veux savoir ce que vont les parcs ou <eos>
+Je me demande pendant quelles semaines vont les meetings ou <eos>
+Il ne sait pas quand vont les avions ou <eos>
+Elle ignore combien vont les loyers ou <eos>
+Nous voulons savoir quand vont les villes ou <eos>
+Nous ne savons pas quand vont les partis ou <eos>
+Il veut savoir que vont les bus ou <eos>
+Il aimerait savoir ce que vont les restaurants ou <eos>
+Je ne sais pas comment vont les réponses ou <eos>
+Je me demande quand vont les spectacles ou <eos>
+Nous attendons de voir ce que vont les livres ou <eos>
+Il ignore dans quelles rues vont les grèves ou <eos>
