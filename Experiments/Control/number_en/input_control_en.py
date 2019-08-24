@@ -30,7 +30,7 @@ autocaps = True
 def rows(df):
     sent=[]
     for condition in conditions.keys():
-        sent.append(df[conditions[condition][0]].str.strip()+' '+df[conditions[condition][1]].str.strip()+' '+df[conditions[condition][2]].str.strip()+' '+'<eos>')
+        sent.append(df[conditions[condition][0]].str.strip()+' '+df[conditions[condition][1]].str.strip()+' '+df[conditions[condition][2]].str.strip())
     #.str.cat(df[conditions[condition][2]],sep=" ").str.cat(df[conditions[condition][3]],sep=" ").str.cat(df[conditions[condition][4]],sep=" ").str.cat(df[conditions[condition][5]],sep=" ").str.cat("<eos>", sep=None))
     return sent
 
