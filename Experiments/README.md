@@ -1,6 +1,6 @@
 
 
-This folder contains three experiments in the paper.
+This folder contains four experiments in the paper.
 
 In each experiment, there are three files: input.py, expand_items.py, experimental file, as well as a result folder.
 
