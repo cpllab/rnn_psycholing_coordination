@@ -1,0 +1,1777 @@
+	sent_index	word_index	word	region	condition
+0	0	0	What	prefix	Vsg-Nsg-and
+1	0	1	is	Vsg	Vsg-Nsg-and
+2	0	2	the	det1	Vsg-Nsg-and
+3	0	3	bull	np1sg	Vsg-Nsg-and
+4	0	4	and	and	Vsg-Nsg-and
+5	0	6	<eos>	Vsg-Nsg-and	
+6	1	0	What	prefix	Vsg-Nsg-and
+7	1	1	is	Vsg	Vsg-Nsg-and
+8	1	2	the	det1	Vsg-Nsg-and
+9	1	3	door	np1sg	Vsg-Nsg-and
+10	1	4	and	and	Vsg-Nsg-and
+11	1	6	<eos>	Vsg-Nsg-and	
+12	2	0	What	prefix	Vsg-Nsg-and
+13	2	1	is	Vsg	Vsg-Nsg-and
+14	2	2	the	det1	Vsg-Nsg-and
+15	2	3	toy	np1sg	Vsg-Nsg-and
+16	2	4	and	and	Vsg-Nsg-and
+17	2	6	<eos>	Vsg-Nsg-and	
+18	3	0	What	prefix	Vsg-Nsg-and
+19	3	1	is	Vsg	Vsg-Nsg-and
+20	3	2	the	det1	Vsg-Nsg-and
+21	3	3	headline	np1sg	Vsg-Nsg-and
+22	3	4	and	and	Vsg-Nsg-and
+23	3	6	<eos>	Vsg-Nsg-and	
+24	4	0	What	prefix	Vsg-Nsg-and
+25	4	1	is	Vsg	Vsg-Nsg-and
+26	4	2	the	det1	Vsg-Nsg-and
+27	4	3	leader	np1sg	Vsg-Nsg-and
+28	4	4	and	and	Vsg-Nsg-and
+29	4	6	<eos>	Vsg-Nsg-and	
+30	5	0	What	prefix	Vsg-Nsg-and
+31	5	1	is	Vsg	Vsg-Nsg-and
+32	5	2	the	det1	Vsg-Nsg-and
+33	5	3	physician	np1sg	Vsg-Nsg-and
+34	5	4	and	and	Vsg-Nsg-and
+35	5	6	<eos>	Vsg-Nsg-and	
+36	6	0	What	prefix	Vsg-Nsg-and
+37	6	1	is	Vsg	Vsg-Nsg-and
+38	6	2	the	det1	Vsg-Nsg-and
+39	6	3	expert	np1sg	Vsg-Nsg-and
+40	6	4	and	and	Vsg-Nsg-and
+41	6	6	<eos>	Vsg-Nsg-and	
+42	7	0	What	prefix	Vsg-Nsg-and
+43	7	1	is	Vsg	Vsg-Nsg-and
+44	7	2	the	det1	Vsg-Nsg-and
+45	7	3	stockbroker	np1sg	Vsg-Nsg-and
+46	7	4	and	and	Vsg-Nsg-and
+47	7	6	<eos>	Vsg-Nsg-and	
+48	8	0	What	prefix	Vsg-Nsg-and
+49	8	1	is	Vsg	Vsg-Nsg-and
+50	8	2	the	det1	Vsg-Nsg-and
+51	8	3	commander	np1sg	Vsg-Nsg-and
+52	8	4	and	and	Vsg-Nsg-and
+53	8	6	<eos>	Vsg-Nsg-and	
+54	9	0	What	prefix	Vsg-Nsg-and
+55	9	1	is	Vsg	Vsg-Nsg-and
+56	9	2	the	det1	Vsg-Nsg-and
+57	9	3	pilot	np1sg	Vsg-Nsg-and
+58	9	4	and	and	Vsg-Nsg-and
+59	9	6	<eos>	Vsg-Nsg-and	
+60	10	0	What	prefix	Vsg-Nsg-and
+61	10	1	is	Vsg	Vsg-Nsg-and
+62	10	2	the	det1	Vsg-Nsg-and
+63	10	3	knight	np1sg	Vsg-Nsg-and
+64	10	4	and	and	Vsg-Nsg-and
+65	10	6	<eos>	Vsg-Nsg-and	
+66	11	0	What	prefix	Vsg-Nsg-and
+67	11	1	is	Vsg	Vsg-Nsg-and
+68	11	2	the	det1	Vsg-Nsg-and
+69	11	3	key	np1sg	Vsg-Nsg-and
+70	11	4	and	and	Vsg-Nsg-and
+71	11	6	<eos>	Vsg-Nsg-and	
+72	12	0	What	prefix	Vsg-Nsg-and
+73	12	1	is	Vsg	Vsg-Nsg-and
+74	12	2	the	det1	Vsg-Nsg-and
+75	12	3	memo	np1sg	Vsg-Nsg-and
+76	12	4	and	and	Vsg-Nsg-and
+77	12	6	<eos>	Vsg-Nsg-and	
+78	13	0	What	prefix	Vsg-Nsg-and
+79	13	1	is	Vsg	Vsg-Nsg-and
+80	13	2	the	det1	Vsg-Nsg-and
+81	13	3	warning	np1sg	Vsg-Nsg-and
+82	13	4	and	and	Vsg-Nsg-and
+83	13	6	<eos>	Vsg-Nsg-and	
+84	14	0	What	prefix	Vsg-Nsg-and
+85	14	1	is	Vsg	Vsg-Nsg-and
+86	14	2	the	det1	Vsg-Nsg-and
+87	14	3	protest	np1sg	Vsg-Nsg-and
+88	14	4	and	and	Vsg-Nsg-and
+89	14	6	<eos>	Vsg-Nsg-and	
+90	15	0	What	prefix	Vsg-Nsg-and
+91	15	1	is	Vsg	Vsg-Nsg-and
+92	15	2	the	det1	Vsg-Nsg-and
+93	15	3	investigation	np1sg	Vsg-Nsg-and
+94	15	4	and	and	Vsg-Nsg-and
+95	15	6	<eos>	Vsg-Nsg-and	
+96	16	0	What	prefix	Vsg-Nsg-and
+97	16	1	is	Vsg	Vsg-Nsg-and
+98	16	2	the	det1	Vsg-Nsg-and
+99	16	3	driver	np1sg	Vsg-Nsg-and
+100	16	4	and	and	Vsg-Nsg-and
+101	16	6	<eos>	Vsg-Nsg-and	
+102	17	0	What	prefix	Vsg-Nsg-and
+103	17	1	is	Vsg	Vsg-Nsg-and
+104	17	2	the	det1	Vsg-Nsg-and
+105	17	3	wall	np1sg	Vsg-Nsg-and
+106	17	4	and	and	Vsg-Nsg-and
+107	17	6	<eos>	Vsg-Nsg-and	
+108	18	0	What	prefix	Vsg-Nsg-and
+109	18	1	is	Vsg	Vsg-Nsg-and
+110	18	2	the	det1	Vsg-Nsg-and
+111	18	3	apartment	np1sg	Vsg-Nsg-and
+112	18	4	and	and	Vsg-Nsg-and
+113	18	6	<eos>	Vsg-Nsg-and	
+114	19	0	What	prefix	Vsg-Nsg-and
+115	19	1	is	Vsg	Vsg-Nsg-and
+116	19	2	the	det1	Vsg-Nsg-and
+117	19	3	pedestrian	np1sg	Vsg-Nsg-and
+118	19	4	and	and	Vsg-Nsg-and
+119	19	6	<eos>	Vsg-Nsg-and	
+120	20	0	What	prefix	Vsg-Nsg-and
+121	20	1	is	Vsg	Vsg-Nsg-and
+122	20	2	the	det1	Vsg-Nsg-and
+123	20	3	coach	np1sg	Vsg-Nsg-and
+124	20	4	and	and	Vsg-Nsg-and
+125	20	6	<eos>	Vsg-Nsg-and	
+126	21	0	What	prefix	Vsg-Nsg-and
+127	21	1	is	Vsg	Vsg-Nsg-and
+128	21	2	the	det1	Vsg-Nsg-and
+129	21	3	episode	np1sg	Vsg-Nsg-and
+130	21	4	and	and	Vsg-Nsg-and
+131	21	6	<eos>	Vsg-Nsg-and	
+132	22	0	What	prefix	Vsg-Nsg-and
+133	22	1	is	Vsg	Vsg-Nsg-and
+134	22	2	the	det1	Vsg-Nsg-and
+135	22	3	program	np1sg	Vsg-Nsg-and
+136	22	4	and	and	Vsg-Nsg-and
+137	22	6	<eos>	Vsg-Nsg-and	
+138	23	0	What	prefix	Vsg-Nsg-and
+139	23	1	is	Vsg	Vsg-Nsg-and
+140	23	2	the	det1	Vsg-Nsg-and
+141	23	3	manager	np1sg	Vsg-Nsg-and
+142	23	4	and	and	Vsg-Nsg-and
+143	23	6	<eos>	Vsg-Nsg-and	
+144	24	0	What	prefix	Vsg-Nsg-and
+145	24	1	is	Vsg	Vsg-Nsg-and
+146	24	2	the	det1	Vsg-Nsg-and
+147	24	3	mayors	np1sg	Vsg-Nsg-and
+148	24	4	and	and	Vsg-Nsg-and
+149	24	6	<eos>	Vsg-Nsg-and	
+150	25	0	What	prefix	Vsg-Nsg-and
+151	25	1	is	Vsg	Vsg-Nsg-and
+152	25	2	the	det1	Vsg-Nsg-and
+153	25	3	culture	np1sg	Vsg-Nsg-and
+154	25	4	and	and	Vsg-Nsg-and
+155	25	6	<eos>	Vsg-Nsg-and	
+156	26	0	What	prefix	Vsg-Nsg-and
+157	26	1	is	Vsg	Vsg-Nsg-and
+158	26	2	the	det1	Vsg-Nsg-and
+159	26	3	activity	np1sg	Vsg-Nsg-and
+160	26	4	and	and	Vsg-Nsg-and
+161	26	6	<eos>	Vsg-Nsg-and	
+162	27	0	What	prefix	Vsg-Nsg-and
+163	27	1	is	Vsg	Vsg-Nsg-and
+164	27	2	the	det1	Vsg-Nsg-and
+165	27	3	argument	np1sg	Vsg-Nsg-and
+166	27	4	and	and	Vsg-Nsg-and
+167	27	6	<eos>	Vsg-Nsg-and	
+168	28	0	What	prefix	Vsg-Nsg-and
+169	28	1	is	Vsg	Vsg-Nsg-and
+170	28	2	the	det1	Vsg-Nsg-and
+171	28	3	defect	np1sg	Vsg-Nsg-and
+172	28	4	and	and	Vsg-Nsg-and
+173	28	6	<eos>	Vsg-Nsg-and	
+174	29	0	What	prefix	Vsg-Nsg-and
+175	29	1	is	Vsg	Vsg-Nsg-and
+176	29	2	the	det1	Vsg-Nsg-and
+177	29	3	assumption	np1sg	Vsg-Nsg-and
+178	29	4	and	and	Vsg-Nsg-and
+179	29	6	<eos>	Vsg-Nsg-and	
+180	30	0	What	prefix	Vsg-Nsg-and
+181	30	1	is	Vsg	Vsg-Nsg-and
+182	30	2	the	det1	Vsg-Nsg-and
+183	30	3	pool	np1sg	Vsg-Nsg-and
+184	30	4	and	and	Vsg-Nsg-and
+185	30	6	<eos>	Vsg-Nsg-and	
+186	31	0	What	prefix	Vsg-Nsg-and
+187	31	1	is	Vsg	Vsg-Nsg-and
+188	31	2	the	det1	Vsg-Nsg-and
+189	31	3	tire	np1sg	Vsg-Nsg-and
+190	31	4	and	and	Vsg-Nsg-and
+191	31	6	<eos>	Vsg-Nsg-and	
+192	32	0	What	prefix	Vsg-Nsg-and
+193	32	1	is	Vsg	Vsg-Nsg-and
+194	32	2	the	det1	Vsg-Nsg-and
+195	32	3	report	np1sg	Vsg-Nsg-and
+196	32	4	and	and	Vsg-Nsg-and
+197	32	6	<eos>	Vsg-Nsg-and	
+198	33	0	What	prefix	Vsg-Nsg-and
+199	33	1	is	Vsg	Vsg-Nsg-and
+200	33	2	the	det1	Vsg-Nsg-and
+201	33	3	warrant	np1sg	Vsg-Nsg-and
+202	33	4	and	and	Vsg-Nsg-and
+203	33	6	<eos>	Vsg-Nsg-and	
+204	34	0	What	prefix	Vsg-Nsg-and
+205	34	1	is	Vsg	Vsg-Nsg-and
+206	34	2	the	det1	Vsg-Nsg-and
+207	34	3	meeting	np1sg	Vsg-Nsg-and
+208	34	4	and	and	Vsg-Nsg-and
+209	34	6	<eos>	Vsg-Nsg-and	
+210	35	0	What	prefix	Vsg-Nsg-and
+211	35	1	is	Vsg	Vsg-Nsg-and
+212	35	2	the	det1	Vsg-Nsg-and
+213	35	3	sidewalk	np1sg	Vsg-Nsg-and
+214	35	4	and	and	Vsg-Nsg-and
+215	35	6	<eos>	Vsg-Nsg-and	
+216	36	0	What	prefix	Vsg-Nsg-and
+217	36	1	is	Vsg	Vsg-Nsg-and
+218	36	2	the	det1	Vsg-Nsg-and
+219	36	3	job	np1sg	Vsg-Nsg-and
+220	36	4	and	and	Vsg-Nsg-and
+221	36	6	<eos>	Vsg-Nsg-and	
+222	0	0	What	prefix	Vpl-Nsg-and
+223	0	1	are	Vpl	Vpl-Nsg-and
+224	0	2	the	det1	Vpl-Nsg-and
+225	0	3	bull	np1sg	Vpl-Nsg-and
+226	0	4	and	and	Vpl-Nsg-and
+227	0	6	<eos>	Vpl-Nsg-and	
+228	1	0	What	prefix	Vpl-Nsg-and
+229	1	1	are	Vpl	Vpl-Nsg-and
+230	1	2	the	det1	Vpl-Nsg-and
+231	1	3	door	np1sg	Vpl-Nsg-and
+232	1	4	and	and	Vpl-Nsg-and
+233	1	6	<eos>	Vpl-Nsg-and	
+234	2	0	What	prefix	Vpl-Nsg-and
+235	2	1	are	Vpl	Vpl-Nsg-and
+236	2	2	the	det1	Vpl-Nsg-and
+237	2	3	toy	np1sg	Vpl-Nsg-and
+238	2	4	and	and	Vpl-Nsg-and
+239	2	6	<eos>	Vpl-Nsg-and	
+240	3	0	What	prefix	Vpl-Nsg-and
+241	3	1	are	Vpl	Vpl-Nsg-and
+242	3	2	the	det1	Vpl-Nsg-and
+243	3	3	headline	np1sg	Vpl-Nsg-and
+244	3	4	and	and	Vpl-Nsg-and
+245	3	6	<eos>	Vpl-Nsg-and	
+246	4	0	What	prefix	Vpl-Nsg-and
+247	4	1	are	Vpl	Vpl-Nsg-and
+248	4	2	the	det1	Vpl-Nsg-and
+249	4	3	leader	np1sg	Vpl-Nsg-and
+250	4	4	and	and	Vpl-Nsg-and
+251	4	6	<eos>	Vpl-Nsg-and	
+252	5	0	What	prefix	Vpl-Nsg-and
+253	5	1	are	Vpl	Vpl-Nsg-and
+254	5	2	the	det1	Vpl-Nsg-and
+255	5	3	physician	np1sg	Vpl-Nsg-and
+256	5	4	and	and	Vpl-Nsg-and
+257	5	6	<eos>	Vpl-Nsg-and	
+258	6	0	What	prefix	Vpl-Nsg-and
+259	6	1	are	Vpl	Vpl-Nsg-and
+260	6	2	the	det1	Vpl-Nsg-and
+261	6	3	expert	np1sg	Vpl-Nsg-and
+262	6	4	and	and	Vpl-Nsg-and
+263	6	6	<eos>	Vpl-Nsg-and	
+264	7	0	What	prefix	Vpl-Nsg-and
+265	7	1	are	Vpl	Vpl-Nsg-and
+266	7	2	the	det1	Vpl-Nsg-and
+267	7	3	stockbroker	np1sg	Vpl-Nsg-and
+268	7	4	and	and	Vpl-Nsg-and
+269	7	6	<eos>	Vpl-Nsg-and	
+270	8	0	What	prefix	Vpl-Nsg-and
+271	8	1	are	Vpl	Vpl-Nsg-and
+272	8	2	the	det1	Vpl-Nsg-and
+273	8	3	commander	np1sg	Vpl-Nsg-and
+274	8	4	and	and	Vpl-Nsg-and
+275	8	6	<eos>	Vpl-Nsg-and	
+276	9	0	What	prefix	Vpl-Nsg-and
+277	9	1	are	Vpl	Vpl-Nsg-and
+278	9	2	the	det1	Vpl-Nsg-and
+279	9	3	pilot	np1sg	Vpl-Nsg-and
+280	9	4	and	and	Vpl-Nsg-and
+281	9	6	<eos>	Vpl-Nsg-and	
+282	10	0	What	prefix	Vpl-Nsg-and
+283	10	1	are	Vpl	Vpl-Nsg-and
+284	10	2	the	det1	Vpl-Nsg-and
+285	10	3	knight	np1sg	Vpl-Nsg-and
+286	10	4	and	and	Vpl-Nsg-and
+287	10	6	<eos>	Vpl-Nsg-and	
+288	11	0	What	prefix	Vpl-Nsg-and
+289	11	1	are	Vpl	Vpl-Nsg-and
+290	11	2	the	det1	Vpl-Nsg-and
+291	11	3	key	np1sg	Vpl-Nsg-and
+292	11	4	and	and	Vpl-Nsg-and
+293	11	6	<eos>	Vpl-Nsg-and	
+294	12	0	What	prefix	Vpl-Nsg-and
+295	12	1	are	Vpl	Vpl-Nsg-and
+296	12	2	the	det1	Vpl-Nsg-and
+297	12	3	memo	np1sg	Vpl-Nsg-and
+298	12	4	and	and	Vpl-Nsg-and
+299	12	6	<eos>	Vpl-Nsg-and	
+300	13	0	What	prefix	Vpl-Nsg-and
+301	13	1	are	Vpl	Vpl-Nsg-and
+302	13	2	the	det1	Vpl-Nsg-and
+303	13	3	warning	np1sg	Vpl-Nsg-and
+304	13	4	and	and	Vpl-Nsg-and
+305	13	6	<eos>	Vpl-Nsg-and	
+306	14	0	What	prefix	Vpl-Nsg-and
+307	14	1	are	Vpl	Vpl-Nsg-and
+308	14	2	the	det1	Vpl-Nsg-and
+309	14	3	protest	np1sg	Vpl-Nsg-and
+310	14	4	and	and	Vpl-Nsg-and
+311	14	6	<eos>	Vpl-Nsg-and	
+312	15	0	What	prefix	Vpl-Nsg-and
+313	15	1	are	Vpl	Vpl-Nsg-and
+314	15	2	the	det1	Vpl-Nsg-and
+315	15	3	investigation	np1sg	Vpl-Nsg-and
+316	15	4	and	and	Vpl-Nsg-and
+317	15	6	<eos>	Vpl-Nsg-and	
+318	16	0	What	prefix	Vpl-Nsg-and
+319	16	1	are	Vpl	Vpl-Nsg-and
+320	16	2	the	det1	Vpl-Nsg-and
+321	16	3	driver	np1sg	Vpl-Nsg-and
+322	16	4	and	and	Vpl-Nsg-and
+323	16	6	<eos>	Vpl-Nsg-and	
+324	17	0	What	prefix	Vpl-Nsg-and
+325	17	1	are	Vpl	Vpl-Nsg-and
+326	17	2	the	det1	Vpl-Nsg-and
+327	17	3	wall	np1sg	Vpl-Nsg-and
+328	17	4	and	and	Vpl-Nsg-and
+329	17	6	<eos>	Vpl-Nsg-and	
+330	18	0	What	prefix	Vpl-Nsg-and
+331	18	1	are	Vpl	Vpl-Nsg-and
+332	18	2	the	det1	Vpl-Nsg-and
+333	18	3	apartment	np1sg	Vpl-Nsg-and
+334	18	4	and	and	Vpl-Nsg-and
+335	18	6	<eos>	Vpl-Nsg-and	
+336	19	0	What	prefix	Vpl-Nsg-and
+337	19	1	are	Vpl	Vpl-Nsg-and
+338	19	2	the	det1	Vpl-Nsg-and
+339	19	3	pedestrian	np1sg	Vpl-Nsg-and
+340	19	4	and	and	Vpl-Nsg-and
+341	19	6	<eos>	Vpl-Nsg-and	
+342	20	0	What	prefix	Vpl-Nsg-and
+343	20	1	are	Vpl	Vpl-Nsg-and
+344	20	2	the	det1	Vpl-Nsg-and
+345	20	3	coach	np1sg	Vpl-Nsg-and
+346	20	4	and	and	Vpl-Nsg-and
+347	20	6	<eos>	Vpl-Nsg-and	
+348	21	0	What	prefix	Vpl-Nsg-and
+349	21	1	are	Vpl	Vpl-Nsg-and
+350	21	2	the	det1	Vpl-Nsg-and
+351	21	3	episode	np1sg	Vpl-Nsg-and
+352	21	4	and	and	Vpl-Nsg-and
+353	21	6	<eos>	Vpl-Nsg-and	
+354	22	0	What	prefix	Vpl-Nsg-and
+355	22	1	are	Vpl	Vpl-Nsg-and
+356	22	2	the	det1	Vpl-Nsg-and
+357	22	3	program	np1sg	Vpl-Nsg-and
+358	22	4	and	and	Vpl-Nsg-and
+359	22	6	<eos>	Vpl-Nsg-and	
+360	23	0	What	prefix	Vpl-Nsg-and
+361	23	1	are	Vpl	Vpl-Nsg-and
+362	23	2	the	det1	Vpl-Nsg-and
+363	23	3	manager	np1sg	Vpl-Nsg-and
+364	23	4	and	and	Vpl-Nsg-and
+365	23	6	<eos>	Vpl-Nsg-and	
+366	24	0	What	prefix	Vpl-Nsg-and
+367	24	1	are	Vpl	Vpl-Nsg-and
+368	24	2	the	det1	Vpl-Nsg-and
+369	24	3	mayors	np1sg	Vpl-Nsg-and
+370	24	4	and	and	Vpl-Nsg-and
+371	24	6	<eos>	Vpl-Nsg-and	
+372	25	0	What	prefix	Vpl-Nsg-and
+373	25	1	are	Vpl	Vpl-Nsg-and
+374	25	2	the	det1	Vpl-Nsg-and
+375	25	3	culture	np1sg	Vpl-Nsg-and
+376	25	4	and	and	Vpl-Nsg-and
+377	25	6	<eos>	Vpl-Nsg-and	
+378	26	0	What	prefix	Vpl-Nsg-and
+379	26	1	are	Vpl	Vpl-Nsg-and
+380	26	2	the	det1	Vpl-Nsg-and
+381	26	3	activity	np1sg	Vpl-Nsg-and
+382	26	4	and	and	Vpl-Nsg-and
+383	26	6	<eos>	Vpl-Nsg-and	
+384	27	0	What	prefix	Vpl-Nsg-and
+385	27	1	are	Vpl	Vpl-Nsg-and
+386	27	2	the	det1	Vpl-Nsg-and
+387	27	3	argument	np1sg	Vpl-Nsg-and
+388	27	4	and	and	Vpl-Nsg-and
+389	27	6	<eos>	Vpl-Nsg-and	
+390	28	0	What	prefix	Vpl-Nsg-and
+391	28	1	are	Vpl	Vpl-Nsg-and
+392	28	2	the	det1	Vpl-Nsg-and
+393	28	3	defect	np1sg	Vpl-Nsg-and
+394	28	4	and	and	Vpl-Nsg-and
+395	28	6	<eos>	Vpl-Nsg-and	
+396	29	0	What	prefix	Vpl-Nsg-and
+397	29	1	are	Vpl	Vpl-Nsg-and
+398	29	2	the	det1	Vpl-Nsg-and
+399	29	3	assumption	np1sg	Vpl-Nsg-and
+400	29	4	and	and	Vpl-Nsg-and
+401	29	6	<eos>	Vpl-Nsg-and	
+402	30	0	What	prefix	Vpl-Nsg-and
+403	30	1	are	Vpl	Vpl-Nsg-and
+404	30	2	the	det1	Vpl-Nsg-and
+405	30	3	pool	np1sg	Vpl-Nsg-and
+406	30	4	and	and	Vpl-Nsg-and
+407	30	6	<eos>	Vpl-Nsg-and	
+408	31	0	What	prefix	Vpl-Nsg-and
+409	31	1	are	Vpl	Vpl-Nsg-and
+410	31	2	the	det1	Vpl-Nsg-and
+411	31	3	tire	np1sg	Vpl-Nsg-and
+412	31	4	and	and	Vpl-Nsg-and
+413	31	6	<eos>	Vpl-Nsg-and	
+414	32	0	What	prefix	Vpl-Nsg-and
+415	32	1	are	Vpl	Vpl-Nsg-and
+416	32	2	the	det1	Vpl-Nsg-and
+417	32	3	report	np1sg	Vpl-Nsg-and
+418	32	4	and	and	Vpl-Nsg-and
+419	32	6	<eos>	Vpl-Nsg-and	
+420	33	0	What	prefix	Vpl-Nsg-and
+421	33	1	are	Vpl	Vpl-Nsg-and
+422	33	2	the	det1	Vpl-Nsg-and
+423	33	3	warrant	np1sg	Vpl-Nsg-and
+424	33	4	and	and	Vpl-Nsg-and
+425	33	6	<eos>	Vpl-Nsg-and	
+426	34	0	What	prefix	Vpl-Nsg-and
+427	34	1	are	Vpl	Vpl-Nsg-and
+428	34	2	the	det1	Vpl-Nsg-and
+429	34	3	meeting	np1sg	Vpl-Nsg-and
+430	34	4	and	and	Vpl-Nsg-and
+431	34	6	<eos>	Vpl-Nsg-and	
+432	35	0	What	prefix	Vpl-Nsg-and
+433	35	1	are	Vpl	Vpl-Nsg-and
+434	35	2	the	det1	Vpl-Nsg-and
+435	35	3	sidewalk	np1sg	Vpl-Nsg-and
+436	35	4	and	and	Vpl-Nsg-and
+437	35	6	<eos>	Vpl-Nsg-and	
+438	36	0	What	prefix	Vpl-Nsg-and
+439	36	1	are	Vpl	Vpl-Nsg-and
+440	36	2	the	det1	Vpl-Nsg-and
+441	36	3	job	np1sg	Vpl-Nsg-and
+442	36	4	and	and	Vpl-Nsg-and
+443	36	6	<eos>	Vpl-Nsg-and	
+444	0	0	What	prefix	Vsg-Npl-and
+445	0	1	is	Vsg	Vsg-Npl-and
+446	0	2	the	det1	Vsg-Npl-and
+447	0	3	bulls	np1pl	Vsg-Npl-and
+448	0	4	and	and	Vsg-Npl-and
+449	0	6	<eos>	Vsg-Npl-and	
+450	1	0	What	prefix	Vsg-Npl-and
+451	1	1	is	Vsg	Vsg-Npl-and
+452	1	2	the	det1	Vsg-Npl-and
+453	1	3	doors	np1pl	Vsg-Npl-and
+454	1	4	and	and	Vsg-Npl-and
+455	1	6	<eos>	Vsg-Npl-and	
+456	2	0	What	prefix	Vsg-Npl-and
+457	2	1	is	Vsg	Vsg-Npl-and
+458	2	2	the	det1	Vsg-Npl-and
+459	2	3	toys	np1pl	Vsg-Npl-and
+460	2	4	and	and	Vsg-Npl-and
+461	2	6	<eos>	Vsg-Npl-and	
+462	3	0	What	prefix	Vsg-Npl-and
+463	3	1	is	Vsg	Vsg-Npl-and
+464	3	2	the	det1	Vsg-Npl-and
+465	3	3	headlines	np1pl	Vsg-Npl-and
+466	3	4	and	and	Vsg-Npl-and
+467	3	6	<eos>	Vsg-Npl-and	
+468	4	0	What	prefix	Vsg-Npl-and
+469	4	1	is	Vsg	Vsg-Npl-and
+470	4	2	the	det1	Vsg-Npl-and
+471	4	3	leaders	np1pl	Vsg-Npl-and
+472	4	4	and	and	Vsg-Npl-and
+473	4	6	<eos>	Vsg-Npl-and	
+474	5	0	What	prefix	Vsg-Npl-and
+475	5	1	is	Vsg	Vsg-Npl-and
+476	5	2	the	det1	Vsg-Npl-and
+477	5	3	physicians	np1pl	Vsg-Npl-and
+478	5	4	and	and	Vsg-Npl-and
+479	5	6	<eos>	Vsg-Npl-and	
+480	6	0	What	prefix	Vsg-Npl-and
+481	6	1	is	Vsg	Vsg-Npl-and
+482	6	2	the	det1	Vsg-Npl-and
+483	6	3	experts	np1pl	Vsg-Npl-and
+484	6	4	and	and	Vsg-Npl-and
+485	6	6	<eos>	Vsg-Npl-and	
+486	7	0	What	prefix	Vsg-Npl-and
+487	7	1	is	Vsg	Vsg-Npl-and
+488	7	2	the	det1	Vsg-Npl-and
+489	7	3	stockbrokers	np1pl	Vsg-Npl-and
+490	7	4	and	and	Vsg-Npl-and
+491	7	6	<eos>	Vsg-Npl-and	
+492	8	0	What	prefix	Vsg-Npl-and
+493	8	1	is	Vsg	Vsg-Npl-and
+494	8	2	the	det1	Vsg-Npl-and
+495	8	3	commanders	np1pl	Vsg-Npl-and
+496	8	4	and	and	Vsg-Npl-and
+497	8	6	<eos>	Vsg-Npl-and	
+498	9	0	What	prefix	Vsg-Npl-and
+499	9	1	is	Vsg	Vsg-Npl-and
+500	9	2	the	det1	Vsg-Npl-and
+501	9	3	pilots	np1pl	Vsg-Npl-and
+502	9	4	and	and	Vsg-Npl-and
+503	9	6	<eos>	Vsg-Npl-and	
+504	10	0	What	prefix	Vsg-Npl-and
+505	10	1	is	Vsg	Vsg-Npl-and
+506	10	2	the	det1	Vsg-Npl-and
+507	10	3	knights	np1pl	Vsg-Npl-and
+508	10	4	and	and	Vsg-Npl-and
+509	10	6	<eos>	Vsg-Npl-and	
+510	11	0	What	prefix	Vsg-Npl-and
+511	11	1	is	Vsg	Vsg-Npl-and
+512	11	2	the	det1	Vsg-Npl-and
+513	11	3	keys	np1pl	Vsg-Npl-and
+514	11	4	and	and	Vsg-Npl-and
+515	11	6	<eos>	Vsg-Npl-and	
+516	12	0	What	prefix	Vsg-Npl-and
+517	12	1	is	Vsg	Vsg-Npl-and
+518	12	2	the	det1	Vsg-Npl-and
+519	12	3	memos	np1pl	Vsg-Npl-and
+520	12	4	and	and	Vsg-Npl-and
+521	12	6	<eos>	Vsg-Npl-and	
+522	13	0	What	prefix	Vsg-Npl-and
+523	13	1	is	Vsg	Vsg-Npl-and
+524	13	2	the	det1	Vsg-Npl-and
+525	13	3	warnings	np1pl	Vsg-Npl-and
+526	13	4	and	and	Vsg-Npl-and
+527	13	6	<eos>	Vsg-Npl-and	
+528	14	0	What	prefix	Vsg-Npl-and
+529	14	1	is	Vsg	Vsg-Npl-and
+530	14	2	the	det1	Vsg-Npl-and
+531	14	3	protests	np1pl	Vsg-Npl-and
+532	14	4	and	and	Vsg-Npl-and
+533	14	6	<eos>	Vsg-Npl-and	
+534	15	0	What	prefix	Vsg-Npl-and
+535	15	1	is	Vsg	Vsg-Npl-and
+536	15	2	the	det1	Vsg-Npl-and
+537	15	3	investigations	np1pl	Vsg-Npl-and
+538	15	4	and	and	Vsg-Npl-and
+539	15	6	<eos>	Vsg-Npl-and	
+540	16	0	What	prefix	Vsg-Npl-and
+541	16	1	is	Vsg	Vsg-Npl-and
+542	16	2	the	det1	Vsg-Npl-and
+543	16	3	drivers	np1pl	Vsg-Npl-and
+544	16	4	and	and	Vsg-Npl-and
+545	16	6	<eos>	Vsg-Npl-and	
+546	17	0	What	prefix	Vsg-Npl-and
+547	17	1	is	Vsg	Vsg-Npl-and
+548	17	2	the	det1	Vsg-Npl-and
+549	17	3	walls	np1pl	Vsg-Npl-and
+550	17	4	and	and	Vsg-Npl-and
+551	17	6	<eos>	Vsg-Npl-and	
+552	18	0	What	prefix	Vsg-Npl-and
+553	18	1	is	Vsg	Vsg-Npl-and
+554	18	2	the	det1	Vsg-Npl-and
+555	18	3	apartments	np1pl	Vsg-Npl-and
+556	18	4	and	and	Vsg-Npl-and
+557	18	6	<eos>	Vsg-Npl-and	
+558	19	0	What	prefix	Vsg-Npl-and
+559	19	1	is	Vsg	Vsg-Npl-and
+560	19	2	the	det1	Vsg-Npl-and
+561	19	3	pedestrians	np1pl	Vsg-Npl-and
+562	19	4	and	and	Vsg-Npl-and
+563	19	6	<eos>	Vsg-Npl-and	
+564	20	0	What	prefix	Vsg-Npl-and
+565	20	1	is	Vsg	Vsg-Npl-and
+566	20	2	the	det1	Vsg-Npl-and
+567	20	3	coaches	np1pl	Vsg-Npl-and
+568	20	4	and	and	Vsg-Npl-and
+569	20	6	<eos>	Vsg-Npl-and	
+570	21	0	What	prefix	Vsg-Npl-and
+571	21	1	is	Vsg	Vsg-Npl-and
+572	21	2	the	det1	Vsg-Npl-and
+573	21	3	episodes	np1pl	Vsg-Npl-and
+574	21	4	and	and	Vsg-Npl-and
+575	21	6	<eos>	Vsg-Npl-and	
+576	22	0	What	prefix	Vsg-Npl-and
+577	22	1	is	Vsg	Vsg-Npl-and
+578	22	2	the	det1	Vsg-Npl-and
+579	22	3	programs	np1pl	Vsg-Npl-and
+580	22	4	and	and	Vsg-Npl-and
+581	22	6	<eos>	Vsg-Npl-and	
+582	23	0	What	prefix	Vsg-Npl-and
+583	23	1	is	Vsg	Vsg-Npl-and
+584	23	2	the	det1	Vsg-Npl-and
+585	23	3	managers	np1pl	Vsg-Npl-and
+586	23	4	and	and	Vsg-Npl-and
+587	23	6	<eos>	Vsg-Npl-and	
+588	24	0	What	prefix	Vsg-Npl-and
+589	24	1	is	Vsg	Vsg-Npl-and
+590	24	2	the	det1	Vsg-Npl-and
+591	24	3	mayors	np1pl	Vsg-Npl-and
+592	24	4	and	and	Vsg-Npl-and
+593	24	6	<eos>	Vsg-Npl-and	
+594	25	0	What	prefix	Vsg-Npl-and
+595	25	1	is	Vsg	Vsg-Npl-and
+596	25	2	the	det1	Vsg-Npl-and
+597	25	3	cultures	np1pl	Vsg-Npl-and
+598	25	4	and	and	Vsg-Npl-and
+599	25	6	<eos>	Vsg-Npl-and	
+600	26	0	What	prefix	Vsg-Npl-and
+601	26	1	is	Vsg	Vsg-Npl-and
+602	26	2	the	det1	Vsg-Npl-and
+603	26	3	activities	np1pl	Vsg-Npl-and
+604	26	4	and	and	Vsg-Npl-and
+605	26	6	<eos>	Vsg-Npl-and	
+606	27	0	What	prefix	Vsg-Npl-and
+607	27	1	is	Vsg	Vsg-Npl-and
+608	27	2	the	det1	Vsg-Npl-and
+609	27	3	arguments	np1pl	Vsg-Npl-and
+610	27	4	and	and	Vsg-Npl-and
+611	27	6	<eos>	Vsg-Npl-and	
+612	28	0	What	prefix	Vsg-Npl-and
+613	28	1	is	Vsg	Vsg-Npl-and
+614	28	2	the	det1	Vsg-Npl-and
+615	28	3	defects	np1pl	Vsg-Npl-and
+616	28	4	and	and	Vsg-Npl-and
+617	28	6	<eos>	Vsg-Npl-and	
+618	29	0	What	prefix	Vsg-Npl-and
+619	29	1	is	Vsg	Vsg-Npl-and
+620	29	2	the	det1	Vsg-Npl-and
+621	29	3	assumptions	np1pl	Vsg-Npl-and
+622	29	4	and	and	Vsg-Npl-and
+623	29	6	<eos>	Vsg-Npl-and	
+624	30	0	What	prefix	Vsg-Npl-and
+625	30	1	is	Vsg	Vsg-Npl-and
+626	30	2	the	det1	Vsg-Npl-and
+627	30	3	pools	np1pl	Vsg-Npl-and
+628	30	4	and	and	Vsg-Npl-and
+629	30	6	<eos>	Vsg-Npl-and	
+630	31	0	What	prefix	Vsg-Npl-and
+631	31	1	is	Vsg	Vsg-Npl-and
+632	31	2	the	det1	Vsg-Npl-and
+633	31	3	tires	np1pl	Vsg-Npl-and
+634	31	4	and	and	Vsg-Npl-and
+635	31	6	<eos>	Vsg-Npl-and	
+636	32	0	What	prefix	Vsg-Npl-and
+637	32	1	is	Vsg	Vsg-Npl-and
+638	32	2	the	det1	Vsg-Npl-and
+639	32	3	reports	np1pl	Vsg-Npl-and
+640	32	4	and	and	Vsg-Npl-and
+641	32	6	<eos>	Vsg-Npl-and	
+642	33	0	What	prefix	Vsg-Npl-and
+643	33	1	is	Vsg	Vsg-Npl-and
+644	33	2	the	det1	Vsg-Npl-and
+645	33	3	warrants	np1pl	Vsg-Npl-and
+646	33	4	and	and	Vsg-Npl-and
+647	33	6	<eos>	Vsg-Npl-and	
+648	34	0	What	prefix	Vsg-Npl-and
+649	34	1	is	Vsg	Vsg-Npl-and
+650	34	2	the	det1	Vsg-Npl-and
+651	34	3	meetings	np1pl	Vsg-Npl-and
+652	34	4	and	and	Vsg-Npl-and
+653	34	6	<eos>	Vsg-Npl-and	
+654	35	0	What	prefix	Vsg-Npl-and
+655	35	1	is	Vsg	Vsg-Npl-and
+656	35	2	the	det1	Vsg-Npl-and
+657	35	3	sidewalks	np1pl	Vsg-Npl-and
+658	35	4	and	and	Vsg-Npl-and
+659	35	6	<eos>	Vsg-Npl-and	
+660	36	0	What	prefix	Vsg-Npl-and
+661	36	1	is	Vsg	Vsg-Npl-and
+662	36	2	the	det1	Vsg-Npl-and
+663	36	3	jobs	np1pl	Vsg-Npl-and
+664	36	4	and	and	Vsg-Npl-and
+665	36	6	<eos>	Vsg-Npl-and	
+666	0	0	What	prefix	Vpl-Npl-and
+667	0	1	are	Vpl	Vpl-Npl-and
+668	0	2	the	det1	Vpl-Npl-and
+669	0	3	bulls	np1pl	Vpl-Npl-and
+670	0	4	and	and	Vpl-Npl-and
+671	0	6	<eos>	Vpl-Npl-and	
+672	1	0	What	prefix	Vpl-Npl-and
+673	1	1	are	Vpl	Vpl-Npl-and
+674	1	2	the	det1	Vpl-Npl-and
+675	1	3	doors	np1pl	Vpl-Npl-and
+676	1	4	and	and	Vpl-Npl-and
+677	1	6	<eos>	Vpl-Npl-and	
+678	2	0	What	prefix	Vpl-Npl-and
+679	2	1	are	Vpl	Vpl-Npl-and
+680	2	2	the	det1	Vpl-Npl-and
+681	2	3	toys	np1pl	Vpl-Npl-and
+682	2	4	and	and	Vpl-Npl-and
+683	2	6	<eos>	Vpl-Npl-and	
+684	3	0	What	prefix	Vpl-Npl-and
+685	3	1	are	Vpl	Vpl-Npl-and
+686	3	2	the	det1	Vpl-Npl-and
+687	3	3	headlines	np1pl	Vpl-Npl-and
+688	3	4	and	and	Vpl-Npl-and
+689	3	6	<eos>	Vpl-Npl-and	
+690	4	0	What	prefix	Vpl-Npl-and
+691	4	1	are	Vpl	Vpl-Npl-and
+692	4	2	the	det1	Vpl-Npl-and
+693	4	3	leaders	np1pl	Vpl-Npl-and
+694	4	4	and	and	Vpl-Npl-and
+695	4	6	<eos>	Vpl-Npl-and	
+696	5	0	What	prefix	Vpl-Npl-and
+697	5	1	are	Vpl	Vpl-Npl-and
+698	5	2	the	det1	Vpl-Npl-and
+699	5	3	physicians	np1pl	Vpl-Npl-and
+700	5	4	and	and	Vpl-Npl-and
+701	5	6	<eos>	Vpl-Npl-and	
+702	6	0	What	prefix	Vpl-Npl-and
+703	6	1	are	Vpl	Vpl-Npl-and
+704	6	2	the	det1	Vpl-Npl-and
+705	6	3	experts	np1pl	Vpl-Npl-and
+706	6	4	and	and	Vpl-Npl-and
+707	6	6	<eos>	Vpl-Npl-and	
+708	7	0	What	prefix	Vpl-Npl-and
+709	7	1	are	Vpl	Vpl-Npl-and
+710	7	2	the	det1	Vpl-Npl-and
+711	7	3	stockbrokers	np1pl	Vpl-Npl-and
+712	7	4	and	and	Vpl-Npl-and
+713	7	6	<eos>	Vpl-Npl-and	
+714	8	0	What	prefix	Vpl-Npl-and
+715	8	1	are	Vpl	Vpl-Npl-and
+716	8	2	the	det1	Vpl-Npl-and
+717	8	3	commanders	np1pl	Vpl-Npl-and
+718	8	4	and	and	Vpl-Npl-and
+719	8	6	<eos>	Vpl-Npl-and	
+720	9	0	What	prefix	Vpl-Npl-and
+721	9	1	are	Vpl	Vpl-Npl-and
+722	9	2	the	det1	Vpl-Npl-and
+723	9	3	pilots	np1pl	Vpl-Npl-and
+724	9	4	and	and	Vpl-Npl-and
+725	9	6	<eos>	Vpl-Npl-and	
+726	10	0	What	prefix	Vpl-Npl-and
+727	10	1	are	Vpl	Vpl-Npl-and
+728	10	2	the	det1	Vpl-Npl-and
+729	10	3	knights	np1pl	Vpl-Npl-and
+730	10	4	and	and	Vpl-Npl-and
+731	10	6	<eos>	Vpl-Npl-and	
+732	11	0	What	prefix	Vpl-Npl-and
+733	11	1	are	Vpl	Vpl-Npl-and
+734	11	2	the	det1	Vpl-Npl-and
+735	11	3	keys	np1pl	Vpl-Npl-and
+736	11	4	and	and	Vpl-Npl-and
+737	11	6	<eos>	Vpl-Npl-and	
+738	12	0	What	prefix	Vpl-Npl-and
+739	12	1	are	Vpl	Vpl-Npl-and
+740	12	2	the	det1	Vpl-Npl-and
+741	12	3	memos	np1pl	Vpl-Npl-and
+742	12	4	and	and	Vpl-Npl-and
+743	12	6	<eos>	Vpl-Npl-and	
+744	13	0	What	prefix	Vpl-Npl-and
+745	13	1	are	Vpl	Vpl-Npl-and
+746	13	2	the	det1	Vpl-Npl-and
+747	13	3	warnings	np1pl	Vpl-Npl-and
+748	13	4	and	and	Vpl-Npl-and
+749	13	6	<eos>	Vpl-Npl-and	
+750	14	0	What	prefix	Vpl-Npl-and
+751	14	1	are	Vpl	Vpl-Npl-and
+752	14	2	the	det1	Vpl-Npl-and
+753	14	3	protests	np1pl	Vpl-Npl-and
+754	14	4	and	and	Vpl-Npl-and
+755	14	6	<eos>	Vpl-Npl-and	
+756	15	0	What	prefix	Vpl-Npl-and
+757	15	1	are	Vpl	Vpl-Npl-and
+758	15	2	the	det1	Vpl-Npl-and
+759	15	3	investigations	np1pl	Vpl-Npl-and
+760	15	4	and	and	Vpl-Npl-and
+761	15	6	<eos>	Vpl-Npl-and	
+762	16	0	What	prefix	Vpl-Npl-and
+763	16	1	are	Vpl	Vpl-Npl-and
+764	16	2	the	det1	Vpl-Npl-and
+765	16	3	drivers	np1pl	Vpl-Npl-and
+766	16	4	and	and	Vpl-Npl-and
+767	16	6	<eos>	Vpl-Npl-and	
+768	17	0	What	prefix	Vpl-Npl-and
+769	17	1	are	Vpl	Vpl-Npl-and
+770	17	2	the	det1	Vpl-Npl-and
+771	17	3	walls	np1pl	Vpl-Npl-and
+772	17	4	and	and	Vpl-Npl-and
+773	17	6	<eos>	Vpl-Npl-and	
+774	18	0	What	prefix	Vpl-Npl-and
+775	18	1	are	Vpl	Vpl-Npl-and
+776	18	2	the	det1	Vpl-Npl-and
+777	18	3	apartments	np1pl	Vpl-Npl-and
+778	18	4	and	and	Vpl-Npl-and
+779	18	6	<eos>	Vpl-Npl-and	
+780	19	0	What	prefix	Vpl-Npl-and
+781	19	1	are	Vpl	Vpl-Npl-and
+782	19	2	the	det1	Vpl-Npl-and
+783	19	3	pedestrians	np1pl	Vpl-Npl-and
+784	19	4	and	and	Vpl-Npl-and
+785	19	6	<eos>	Vpl-Npl-and	
+786	20	0	What	prefix	Vpl-Npl-and
+787	20	1	are	Vpl	Vpl-Npl-and
+788	20	2	the	det1	Vpl-Npl-and
+789	20	3	coaches	np1pl	Vpl-Npl-and
+790	20	4	and	and	Vpl-Npl-and
+791	20	6	<eos>	Vpl-Npl-and	
+792	21	0	What	prefix	Vpl-Npl-and
+793	21	1	are	Vpl	Vpl-Npl-and
+794	21	2	the	det1	Vpl-Npl-and
+795	21	3	episodes	np1pl	Vpl-Npl-and
+796	21	4	and	and	Vpl-Npl-and
+797	21	6	<eos>	Vpl-Npl-and	
+798	22	0	What	prefix	Vpl-Npl-and
+799	22	1	are	Vpl	Vpl-Npl-and
+800	22	2	the	det1	Vpl-Npl-and
+801	22	3	programs	np1pl	Vpl-Npl-and
+802	22	4	and	and	Vpl-Npl-and
+803	22	6	<eos>	Vpl-Npl-and	
+804	23	0	What	prefix	Vpl-Npl-and
+805	23	1	are	Vpl	Vpl-Npl-and
+806	23	2	the	det1	Vpl-Npl-and
+807	23	3	managers	np1pl	Vpl-Npl-and
+808	23	4	and	and	Vpl-Npl-and
+809	23	6	<eos>	Vpl-Npl-and	
+810	24	0	What	prefix	Vpl-Npl-and
+811	24	1	are	Vpl	Vpl-Npl-and
+812	24	2	the	det1	Vpl-Npl-and
+813	24	3	mayors	np1pl	Vpl-Npl-and
+814	24	4	and	and	Vpl-Npl-and
+815	24	6	<eos>	Vpl-Npl-and	
+816	25	0	What	prefix	Vpl-Npl-and
+817	25	1	are	Vpl	Vpl-Npl-and
+818	25	2	the	det1	Vpl-Npl-and
+819	25	3	cultures	np1pl	Vpl-Npl-and
+820	25	4	and	and	Vpl-Npl-and
+821	25	6	<eos>	Vpl-Npl-and	
+822	26	0	What	prefix	Vpl-Npl-and
+823	26	1	are	Vpl	Vpl-Npl-and
+824	26	2	the	det1	Vpl-Npl-and
+825	26	3	activities	np1pl	Vpl-Npl-and
+826	26	4	and	and	Vpl-Npl-and
+827	26	6	<eos>	Vpl-Npl-and	
+828	27	0	What	prefix	Vpl-Npl-and
+829	27	1	are	Vpl	Vpl-Npl-and
+830	27	2	the	det1	Vpl-Npl-and
+831	27	3	arguments	np1pl	Vpl-Npl-and
+832	27	4	and	and	Vpl-Npl-and
+833	27	6	<eos>	Vpl-Npl-and	
+834	28	0	What	prefix	Vpl-Npl-and
+835	28	1	are	Vpl	Vpl-Npl-and
+836	28	2	the	det1	Vpl-Npl-and
+837	28	3	defects	np1pl	Vpl-Npl-and
+838	28	4	and	and	Vpl-Npl-and
+839	28	6	<eos>	Vpl-Npl-and	
+840	29	0	What	prefix	Vpl-Npl-and
+841	29	1	are	Vpl	Vpl-Npl-and
+842	29	2	the	det1	Vpl-Npl-and
+843	29	3	assumptions	np1pl	Vpl-Npl-and
+844	29	4	and	and	Vpl-Npl-and
+845	29	6	<eos>	Vpl-Npl-and	
+846	30	0	What	prefix	Vpl-Npl-and
+847	30	1	are	Vpl	Vpl-Npl-and
+848	30	2	the	det1	Vpl-Npl-and
+849	30	3	pools	np1pl	Vpl-Npl-and
+850	30	4	and	and	Vpl-Npl-and
+851	30	6	<eos>	Vpl-Npl-and	
+852	31	0	What	prefix	Vpl-Npl-and
+853	31	1	are	Vpl	Vpl-Npl-and
+854	31	2	the	det1	Vpl-Npl-and
+855	31	3	tires	np1pl	Vpl-Npl-and
+856	31	4	and	and	Vpl-Npl-and
+857	31	6	<eos>	Vpl-Npl-and	
+858	32	0	What	prefix	Vpl-Npl-and
+859	32	1	are	Vpl	Vpl-Npl-and
+860	32	2	the	det1	Vpl-Npl-and
+861	32	3	reports	np1pl	Vpl-Npl-and
+862	32	4	and	and	Vpl-Npl-and
+863	32	6	<eos>	Vpl-Npl-and	
+864	33	0	What	prefix	Vpl-Npl-and
+865	33	1	are	Vpl	Vpl-Npl-and
+866	33	2	the	det1	Vpl-Npl-and
+867	33	3	warrants	np1pl	Vpl-Npl-and
+868	33	4	and	and	Vpl-Npl-and
+869	33	6	<eos>	Vpl-Npl-and	
+870	34	0	What	prefix	Vpl-Npl-and
+871	34	1	are	Vpl	Vpl-Npl-and
+872	34	2	the	det1	Vpl-Npl-and
+873	34	3	meetings	np1pl	Vpl-Npl-and
+874	34	4	and	and	Vpl-Npl-and
+875	34	6	<eos>	Vpl-Npl-and	
+876	35	0	What	prefix	Vpl-Npl-and
+877	35	1	are	Vpl	Vpl-Npl-and
+878	35	2	the	det1	Vpl-Npl-and
+879	35	3	sidewalks	np1pl	Vpl-Npl-and
+880	35	4	and	and	Vpl-Npl-and
+881	35	6	<eos>	Vpl-Npl-and	
+882	36	0	What	prefix	Vpl-Npl-and
+883	36	1	are	Vpl	Vpl-Npl-and
+884	36	2	the	det1	Vpl-Npl-and
+885	36	3	jobs	np1pl	Vpl-Npl-and
+886	36	4	and	and	Vpl-Npl-and
+887	36	6	<eos>	Vpl-Npl-and	
+888	0	0	What	prefix	Vsg-Nsg-or
+889	0	1	is	Vsg	Vsg-Nsg-or
+890	0	2	the	det1	Vsg-Nsg-or
+891	0	3	bull	np1sg	Vsg-Nsg-or
+892	0	4	or	or	Vsg-Nsg-or
+893	0	6	<eos>	Vsg-Nsg-or	
+894	1	0	What	prefix	Vsg-Nsg-or
+895	1	1	is	Vsg	Vsg-Nsg-or
+896	1	2	the	det1	Vsg-Nsg-or
+897	1	3	door	np1sg	Vsg-Nsg-or
+898	1	4	or	or	Vsg-Nsg-or
+899	1	6	<eos>	Vsg-Nsg-or	
+900	2	0	What	prefix	Vsg-Nsg-or
+901	2	1	is	Vsg	Vsg-Nsg-or
+902	2	2	the	det1	Vsg-Nsg-or
+903	2	3	toy	np1sg	Vsg-Nsg-or
+904	2	4	or	or	Vsg-Nsg-or
+905	2	6	<eos>	Vsg-Nsg-or	
+906	3	0	What	prefix	Vsg-Nsg-or
+907	3	1	is	Vsg	Vsg-Nsg-or
+908	3	2	the	det1	Vsg-Nsg-or
+909	3	3	headline	np1sg	Vsg-Nsg-or
+910	3	4	or	or	Vsg-Nsg-or
+911	3	6	<eos>	Vsg-Nsg-or	
+912	4	0	What	prefix	Vsg-Nsg-or
+913	4	1	is	Vsg	Vsg-Nsg-or
+914	4	2	the	det1	Vsg-Nsg-or
+915	4	3	leader	np1sg	Vsg-Nsg-or
+916	4	4	or	or	Vsg-Nsg-or
+917	4	6	<eos>	Vsg-Nsg-or	
+918	5	0	What	prefix	Vsg-Nsg-or
+919	5	1	is	Vsg	Vsg-Nsg-or
+920	5	2	the	det1	Vsg-Nsg-or
+921	5	3	physician	np1sg	Vsg-Nsg-or
+922	5	4	or	or	Vsg-Nsg-or
+923	5	6	<eos>	Vsg-Nsg-or	
+924	6	0	What	prefix	Vsg-Nsg-or
+925	6	1	is	Vsg	Vsg-Nsg-or
+926	6	2	the	det1	Vsg-Nsg-or
+927	6	3	expert	np1sg	Vsg-Nsg-or
+928	6	4	or	or	Vsg-Nsg-or
+929	6	6	<eos>	Vsg-Nsg-or	
+930	7	0	What	prefix	Vsg-Nsg-or
+931	7	1	is	Vsg	Vsg-Nsg-or
+932	7	2	the	det1	Vsg-Nsg-or
+933	7	3	stockbroker	np1sg	Vsg-Nsg-or
+934	7	4	or	or	Vsg-Nsg-or
+935	7	6	<eos>	Vsg-Nsg-or	
+936	8	0	What	prefix	Vsg-Nsg-or
+937	8	1	is	Vsg	Vsg-Nsg-or
+938	8	2	the	det1	Vsg-Nsg-or
+939	8	3	commander	np1sg	Vsg-Nsg-or
+940	8	4	or	or	Vsg-Nsg-or
+941	8	6	<eos>	Vsg-Nsg-or	
+942	9	0	What	prefix	Vsg-Nsg-or
+943	9	1	is	Vsg	Vsg-Nsg-or
+944	9	2	the	det1	Vsg-Nsg-or
+945	9	3	pilot	np1sg	Vsg-Nsg-or
+946	9	4	or	or	Vsg-Nsg-or
+947	9	6	<eos>	Vsg-Nsg-or	
+948	10	0	What	prefix	Vsg-Nsg-or
+949	10	1	is	Vsg	Vsg-Nsg-or
+950	10	2	the	det1	Vsg-Nsg-or
+951	10	3	knight	np1sg	Vsg-Nsg-or
+952	10	4	or	or	Vsg-Nsg-or
+953	10	6	<eos>	Vsg-Nsg-or	
+954	11	0	What	prefix	Vsg-Nsg-or
+955	11	1	is	Vsg	Vsg-Nsg-or
+956	11	2	the	det1	Vsg-Nsg-or
+957	11	3	key	np1sg	Vsg-Nsg-or
+958	11	4	or	or	Vsg-Nsg-or
+959	11	6	<eos>	Vsg-Nsg-or	
+960	12	0	What	prefix	Vsg-Nsg-or
+961	12	1	is	Vsg	Vsg-Nsg-or
+962	12	2	the	det1	Vsg-Nsg-or
+963	12	3	memo	np1sg	Vsg-Nsg-or
+964	12	4	or	or	Vsg-Nsg-or
+965	12	6	<eos>	Vsg-Nsg-or	
+966	13	0	What	prefix	Vsg-Nsg-or
+967	13	1	is	Vsg	Vsg-Nsg-or
+968	13	2	the	det1	Vsg-Nsg-or
+969	13	3	warning	np1sg	Vsg-Nsg-or
+970	13	4	or	or	Vsg-Nsg-or
+971	13	6	<eos>	Vsg-Nsg-or	
+972	14	0	What	prefix	Vsg-Nsg-or
+973	14	1	is	Vsg	Vsg-Nsg-or
+974	14	2	the	det1	Vsg-Nsg-or
+975	14	3	protest	np1sg	Vsg-Nsg-or
+976	14	4	or	or	Vsg-Nsg-or
+977	14	6	<eos>	Vsg-Nsg-or	
+978	15	0	What	prefix	Vsg-Nsg-or
+979	15	1	is	Vsg	Vsg-Nsg-or
+980	15	2	the	det1	Vsg-Nsg-or
+981	15	3	investigation	np1sg	Vsg-Nsg-or
+982	15	4	or	or	Vsg-Nsg-or
+983	15	6	<eos>	Vsg-Nsg-or	
+984	16	0	What	prefix	Vsg-Nsg-or
+985	16	1	is	Vsg	Vsg-Nsg-or
+986	16	2	the	det1	Vsg-Nsg-or
+987	16	3	driver	np1sg	Vsg-Nsg-or
+988	16	4	or	or	Vsg-Nsg-or
+989	16	6	<eos>	Vsg-Nsg-or	
+990	17	0	What	prefix	Vsg-Nsg-or
+991	17	1	is	Vsg	Vsg-Nsg-or
+992	17	2	the	det1	Vsg-Nsg-or
+993	17	3	wall	np1sg	Vsg-Nsg-or
+994	17	4	or	or	Vsg-Nsg-or
+995	17	6	<eos>	Vsg-Nsg-or	
+996	18	0	What	prefix	Vsg-Nsg-or
+997	18	1	is	Vsg	Vsg-Nsg-or
+998	18	2	the	det1	Vsg-Nsg-or
+999	18	3	apartment	np1sg	Vsg-Nsg-or
+1000	18	4	or	or	Vsg-Nsg-or
+1001	18	6	<eos>	Vsg-Nsg-or	
+1002	19	0	What	prefix	Vsg-Nsg-or
+1003	19	1	is	Vsg	Vsg-Nsg-or
+1004	19	2	the	det1	Vsg-Nsg-or
+1005	19	3	pedestrian	np1sg	Vsg-Nsg-or
+1006	19	4	or	or	Vsg-Nsg-or
+1007	19	6	<eos>	Vsg-Nsg-or	
+1008	20	0	What	prefix	Vsg-Nsg-or
+1009	20	1	is	Vsg	Vsg-Nsg-or
+1010	20	2	the	det1	Vsg-Nsg-or
+1011	20	3	coach	np1sg	Vsg-Nsg-or
+1012	20	4	or	or	Vsg-Nsg-or
+1013	20	6	<eos>	Vsg-Nsg-or	
+1014	21	0	What	prefix	Vsg-Nsg-or
+1015	21	1	is	Vsg	Vsg-Nsg-or
+1016	21	2	the	det1	Vsg-Nsg-or
+1017	21	3	episode	np1sg	Vsg-Nsg-or
+1018	21	4	or	or	Vsg-Nsg-or
+1019	21	6	<eos>	Vsg-Nsg-or	
+1020	22	0	What	prefix	Vsg-Nsg-or
+1021	22	1	is	Vsg	Vsg-Nsg-or
+1022	22	2	the	det1	Vsg-Nsg-or
+1023	22	3	program	np1sg	Vsg-Nsg-or
+1024	22	4	or	or	Vsg-Nsg-or
+1025	22	6	<eos>	Vsg-Nsg-or	
+1026	23	0	What	prefix	Vsg-Nsg-or
+1027	23	1	is	Vsg	Vsg-Nsg-or
+1028	23	2	the	det1	Vsg-Nsg-or
+1029	23	3	manager	np1sg	Vsg-Nsg-or
+1030	23	4	or	or	Vsg-Nsg-or
+1031	23	6	<eos>	Vsg-Nsg-or	
+1032	24	0	What	prefix	Vsg-Nsg-or
+1033	24	1	is	Vsg	Vsg-Nsg-or
+1034	24	2	the	det1	Vsg-Nsg-or
+1035	24	3	mayors	np1sg	Vsg-Nsg-or
+1036	24	4	or	or	Vsg-Nsg-or
+1037	24	6	<eos>	Vsg-Nsg-or	
+1038	25	0	What	prefix	Vsg-Nsg-or
+1039	25	1	is	Vsg	Vsg-Nsg-or
+1040	25	2	the	det1	Vsg-Nsg-or
+1041	25	3	culture	np1sg	Vsg-Nsg-or
+1042	25	4	or	or	Vsg-Nsg-or
+1043	25	6	<eos>	Vsg-Nsg-or	
+1044	26	0	What	prefix	Vsg-Nsg-or
+1045	26	1	is	Vsg	Vsg-Nsg-or
+1046	26	2	the	det1	Vsg-Nsg-or
+1047	26	3	activity	np1sg	Vsg-Nsg-or
+1048	26	4	or	or	Vsg-Nsg-or
+1049	26	6	<eos>	Vsg-Nsg-or	
+1050	27	0	What	prefix	Vsg-Nsg-or
+1051	27	1	is	Vsg	Vsg-Nsg-or
+1052	27	2	the	det1	Vsg-Nsg-or
+1053	27	3	argument	np1sg	Vsg-Nsg-or
+1054	27	4	or	or	Vsg-Nsg-or
+1055	27	6	<eos>	Vsg-Nsg-or	
+1056	28	0	What	prefix	Vsg-Nsg-or
+1057	28	1	is	Vsg	Vsg-Nsg-or
+1058	28	2	the	det1	Vsg-Nsg-or
+1059	28	3	defect	np1sg	Vsg-Nsg-or
+1060	28	4	or	or	Vsg-Nsg-or
+1061	28	6	<eos>	Vsg-Nsg-or	
+1062	29	0	What	prefix	Vsg-Nsg-or
+1063	29	1	is	Vsg	Vsg-Nsg-or
+1064	29	2	the	det1	Vsg-Nsg-or
+1065	29	3	assumption	np1sg	Vsg-Nsg-or
+1066	29	4	or	or	Vsg-Nsg-or
+1067	29	6	<eos>	Vsg-Nsg-or	
+1068	30	0	What	prefix	Vsg-Nsg-or
+1069	30	1	is	Vsg	Vsg-Nsg-or
+1070	30	2	the	det1	Vsg-Nsg-or
+1071	30	3	pool	np1sg	Vsg-Nsg-or
+1072	30	4	or	or	Vsg-Nsg-or
+1073	30	6	<eos>	Vsg-Nsg-or	
+1074	31	0	What	prefix	Vsg-Nsg-or
+1075	31	1	is	Vsg	Vsg-Nsg-or
+1076	31	2	the	det1	Vsg-Nsg-or
+1077	31	3	tire	np1sg	Vsg-Nsg-or
+1078	31	4	or	or	Vsg-Nsg-or
+1079	31	6	<eos>	Vsg-Nsg-or	
+1080	32	0	What	prefix	Vsg-Nsg-or
+1081	32	1	is	Vsg	Vsg-Nsg-or
+1082	32	2	the	det1	Vsg-Nsg-or
+1083	32	3	report	np1sg	Vsg-Nsg-or
+1084	32	4	or	or	Vsg-Nsg-or
+1085	32	6	<eos>	Vsg-Nsg-or	
+1086	33	0	What	prefix	Vsg-Nsg-or
+1087	33	1	is	Vsg	Vsg-Nsg-or
+1088	33	2	the	det1	Vsg-Nsg-or
+1089	33	3	warrant	np1sg	Vsg-Nsg-or
+1090	33	4	or	or	Vsg-Nsg-or
+1091	33	6	<eos>	Vsg-Nsg-or	
+1092	34	0	What	prefix	Vsg-Nsg-or
+1093	34	1	is	Vsg	Vsg-Nsg-or
+1094	34	2	the	det1	Vsg-Nsg-or
+1095	34	3	meeting	np1sg	Vsg-Nsg-or
+1096	34	4	or	or	Vsg-Nsg-or
+1097	34	6	<eos>	Vsg-Nsg-or	
+1098	35	0	What	prefix	Vsg-Nsg-or
+1099	35	1	is	Vsg	Vsg-Nsg-or
+1100	35	2	the	det1	Vsg-Nsg-or
+1101	35	3	sidewalk	np1sg	Vsg-Nsg-or
+1102	35	4	or	or	Vsg-Nsg-or
+1103	35	6	<eos>	Vsg-Nsg-or	
+1104	36	0	What	prefix	Vsg-Nsg-or
+1105	36	1	is	Vsg	Vsg-Nsg-or
+1106	36	2	the	det1	Vsg-Nsg-or
+1107	36	3	job	np1sg	Vsg-Nsg-or
+1108	36	4	or	or	Vsg-Nsg-or
+1109	36	6	<eos>	Vsg-Nsg-or	
+1110	0	0	What	prefix	Vpl-Nsg-or
+1111	0	1	are	Vpl	Vpl-Nsg-or
+1112	0	2	the	det1	Vpl-Nsg-or
+1113	0	3	bull	np1sg	Vpl-Nsg-or
+1114	0	4	or	or	Vpl-Nsg-or
+1115	0	6	<eos>	Vpl-Nsg-or	
+1116	1	0	What	prefix	Vpl-Nsg-or
+1117	1	1	are	Vpl	Vpl-Nsg-or
+1118	1	2	the	det1	Vpl-Nsg-or
+1119	1	3	door	np1sg	Vpl-Nsg-or
+1120	1	4	or	or	Vpl-Nsg-or
+1121	1	6	<eos>	Vpl-Nsg-or	
+1122	2	0	What	prefix	Vpl-Nsg-or
+1123	2	1	are	Vpl	Vpl-Nsg-or
+1124	2	2	the	det1	Vpl-Nsg-or
+1125	2	3	toy	np1sg	Vpl-Nsg-or
+1126	2	4	or	or	Vpl-Nsg-or
+1127	2	6	<eos>	Vpl-Nsg-or	
+1128	3	0	What	prefix	Vpl-Nsg-or
+1129	3	1	are	Vpl	Vpl-Nsg-or
+1130	3	2	the	det1	Vpl-Nsg-or
+1131	3	3	headline	np1sg	Vpl-Nsg-or
+1132	3	4	or	or	Vpl-Nsg-or
+1133	3	6	<eos>	Vpl-Nsg-or	
+1134	4	0	What	prefix	Vpl-Nsg-or
+1135	4	1	are	Vpl	Vpl-Nsg-or
+1136	4	2	the	det1	Vpl-Nsg-or
+1137	4	3	leader	np1sg	Vpl-Nsg-or
+1138	4	4	or	or	Vpl-Nsg-or
+1139	4	6	<eos>	Vpl-Nsg-or	
+1140	5	0	What	prefix	Vpl-Nsg-or
+1141	5	1	are	Vpl	Vpl-Nsg-or
+1142	5	2	the	det1	Vpl-Nsg-or
+1143	5	3	physician	np1sg	Vpl-Nsg-or
+1144	5	4	or	or	Vpl-Nsg-or
+1145	5	6	<eos>	Vpl-Nsg-or	
+1146	6	0	What	prefix	Vpl-Nsg-or
+1147	6	1	are	Vpl	Vpl-Nsg-or
+1148	6	2	the	det1	Vpl-Nsg-or
+1149	6	3	expert	np1sg	Vpl-Nsg-or
+1150	6	4	or	or	Vpl-Nsg-or
+1151	6	6	<eos>	Vpl-Nsg-or	
+1152	7	0	What	prefix	Vpl-Nsg-or
+1153	7	1	are	Vpl	Vpl-Nsg-or
+1154	7	2	the	det1	Vpl-Nsg-or
+1155	7	3	stockbroker	np1sg	Vpl-Nsg-or
+1156	7	4	or	or	Vpl-Nsg-or
+1157	7	6	<eos>	Vpl-Nsg-or	
+1158	8	0	What	prefix	Vpl-Nsg-or
+1159	8	1	are	Vpl	Vpl-Nsg-or
+1160	8	2	the	det1	Vpl-Nsg-or
+1161	8	3	commander	np1sg	Vpl-Nsg-or
+1162	8	4	or	or	Vpl-Nsg-or
+1163	8	6	<eos>	Vpl-Nsg-or	
+1164	9	0	What	prefix	Vpl-Nsg-or
+1165	9	1	are	Vpl	Vpl-Nsg-or
+1166	9	2	the	det1	Vpl-Nsg-or
+1167	9	3	pilot	np1sg	Vpl-Nsg-or
+1168	9	4	or	or	Vpl-Nsg-or
+1169	9	6	<eos>	Vpl-Nsg-or	
+1170	10	0	What	prefix	Vpl-Nsg-or
+1171	10	1	are	Vpl	Vpl-Nsg-or
+1172	10	2	the	det1	Vpl-Nsg-or
+1173	10	3	knight	np1sg	Vpl-Nsg-or
+1174	10	4	or	or	Vpl-Nsg-or
+1175	10	6	<eos>	Vpl-Nsg-or	
+1176	11	0	What	prefix	Vpl-Nsg-or
+1177	11	1	are	Vpl	Vpl-Nsg-or
+1178	11	2	the	det1	Vpl-Nsg-or
+1179	11	3	key	np1sg	Vpl-Nsg-or
+1180	11	4	or	or	Vpl-Nsg-or
+1181	11	6	<eos>	Vpl-Nsg-or	
+1182	12	0	What	prefix	Vpl-Nsg-or
+1183	12	1	are	Vpl	Vpl-Nsg-or
+1184	12	2	the	det1	Vpl-Nsg-or
+1185	12	3	memo	np1sg	Vpl-Nsg-or
+1186	12	4	or	or	Vpl-Nsg-or
+1187	12	6	<eos>	Vpl-Nsg-or	
+1188	13	0	What	prefix	Vpl-Nsg-or
+1189	13	1	are	Vpl	Vpl-Nsg-or
+1190	13	2	the	det1	Vpl-Nsg-or
+1191	13	3	warning	np1sg	Vpl-Nsg-or
+1192	13	4	or	or	Vpl-Nsg-or
+1193	13	6	<eos>	Vpl-Nsg-or	
+1194	14	0	What	prefix	Vpl-Nsg-or
+1195	14	1	are	Vpl	Vpl-Nsg-or
+1196	14	2	the	det1	Vpl-Nsg-or
+1197	14	3	protest	np1sg	Vpl-Nsg-or
+1198	14	4	or	or	Vpl-Nsg-or
+1199	14	6	<eos>	Vpl-Nsg-or	
+1200	15	0	What	prefix	Vpl-Nsg-or
+1201	15	1	are	Vpl	Vpl-Nsg-or
+1202	15	2	the	det1	Vpl-Nsg-or
+1203	15	3	investigation	np1sg	Vpl-Nsg-or
+1204	15	4	or	or	Vpl-Nsg-or
+1205	15	6	<eos>	Vpl-Nsg-or	
+1206	16	0	What	prefix	Vpl-Nsg-or
+1207	16	1	are	Vpl	Vpl-Nsg-or
+1208	16	2	the	det1	Vpl-Nsg-or
+1209	16	3	driver	np1sg	Vpl-Nsg-or
+1210	16	4	or	or	Vpl-Nsg-or
+1211	16	6	<eos>	Vpl-Nsg-or	
+1212	17	0	What	prefix	Vpl-Nsg-or
+1213	17	1	are	Vpl	Vpl-Nsg-or
+1214	17	2	the	det1	Vpl-Nsg-or
+1215	17	3	wall	np1sg	Vpl-Nsg-or
+1216	17	4	or	or	Vpl-Nsg-or
+1217	17	6	<eos>	Vpl-Nsg-or	
+1218	18	0	What	prefix	Vpl-Nsg-or
+1219	18	1	are	Vpl	Vpl-Nsg-or
+1220	18	2	the	det1	Vpl-Nsg-or
+1221	18	3	apartment	np1sg	Vpl-Nsg-or
+1222	18	4	or	or	Vpl-Nsg-or
+1223	18	6	<eos>	Vpl-Nsg-or	
+1224	19	0	What	prefix	Vpl-Nsg-or
+1225	19	1	are	Vpl	Vpl-Nsg-or
+1226	19	2	the	det1	Vpl-Nsg-or
+1227	19	3	pedestrian	np1sg	Vpl-Nsg-or
+1228	19	4	or	or	Vpl-Nsg-or
+1229	19	6	<eos>	Vpl-Nsg-or	
+1230	20	0	What	prefix	Vpl-Nsg-or
+1231	20	1	are	Vpl	Vpl-Nsg-or
+1232	20	2	the	det1	Vpl-Nsg-or
+1233	20	3	coach	np1sg	Vpl-Nsg-or
+1234	20	4	or	or	Vpl-Nsg-or
+1235	20	6	<eos>	Vpl-Nsg-or	
+1236	21	0	What	prefix	Vpl-Nsg-or
+1237	21	1	are	Vpl	Vpl-Nsg-or
+1238	21	2	the	det1	Vpl-Nsg-or
+1239	21	3	episode	np1sg	Vpl-Nsg-or
+1240	21	4	or	or	Vpl-Nsg-or
+1241	21	6	<eos>	Vpl-Nsg-or	
+1242	22	0	What	prefix	Vpl-Nsg-or
+1243	22	1	are	Vpl	Vpl-Nsg-or
+1244	22	2	the	det1	Vpl-Nsg-or
+1245	22	3	program	np1sg	Vpl-Nsg-or
+1246	22	4	or	or	Vpl-Nsg-or
+1247	22	6	<eos>	Vpl-Nsg-or	
+1248	23	0	What	prefix	Vpl-Nsg-or
+1249	23	1	are	Vpl	Vpl-Nsg-or
+1250	23	2	the	det1	Vpl-Nsg-or
+1251	23	3	manager	np1sg	Vpl-Nsg-or
+1252	23	4	or	or	Vpl-Nsg-or
+1253	23	6	<eos>	Vpl-Nsg-or	
+1254	24	0	What	prefix	Vpl-Nsg-or
+1255	24	1	are	Vpl	Vpl-Nsg-or
+1256	24	2	the	det1	Vpl-Nsg-or
+1257	24	3	mayors	np1sg	Vpl-Nsg-or
+1258	24	4	or	or	Vpl-Nsg-or
+1259	24	6	<eos>	Vpl-Nsg-or	
+1260	25	0	What	prefix	Vpl-Nsg-or
+1261	25	1	are	Vpl	Vpl-Nsg-or
+1262	25	2	the	det1	Vpl-Nsg-or
+1263	25	3	culture	np1sg	Vpl-Nsg-or
+1264	25	4	or	or	Vpl-Nsg-or
+1265	25	6	<eos>	Vpl-Nsg-or	
+1266	26	0	What	prefix	Vpl-Nsg-or
+1267	26	1	are	Vpl	Vpl-Nsg-or
+1268	26	2	the	det1	Vpl-Nsg-or
+1269	26	3	activity	np1sg	Vpl-Nsg-or
+1270	26	4	or	or	Vpl-Nsg-or
+1271	26	6	<eos>	Vpl-Nsg-or	
+1272	27	0	What	prefix	Vpl-Nsg-or
+1273	27	1	are	Vpl	Vpl-Nsg-or
+1274	27	2	the	det1	Vpl-Nsg-or
+1275	27	3	argument	np1sg	Vpl-Nsg-or
+1276	27	4	or	or	Vpl-Nsg-or
+1277	27	6	<eos>	Vpl-Nsg-or	
+1278	28	0	What	prefix	Vpl-Nsg-or
+1279	28	1	are	Vpl	Vpl-Nsg-or
+1280	28	2	the	det1	Vpl-Nsg-or
+1281	28	3	defect	np1sg	Vpl-Nsg-or
+1282	28	4	or	or	Vpl-Nsg-or
+1283	28	6	<eos>	Vpl-Nsg-or	
+1284	29	0	What	prefix	Vpl-Nsg-or
+1285	29	1	are	Vpl	Vpl-Nsg-or
+1286	29	2	the	det1	Vpl-Nsg-or
+1287	29	3	assumption	np1sg	Vpl-Nsg-or
+1288	29	4	or	or	Vpl-Nsg-or
+1289	29	6	<eos>	Vpl-Nsg-or	
+1290	30	0	What	prefix	Vpl-Nsg-or
+1291	30	1	are	Vpl	Vpl-Nsg-or
+1292	30	2	the	det1	Vpl-Nsg-or
+1293	30	3	pool	np1sg	Vpl-Nsg-or
+1294	30	4	or	or	Vpl-Nsg-or
+1295	30	6	<eos>	Vpl-Nsg-or	
+1296	31	0	What	prefix	Vpl-Nsg-or
+1297	31	1	are	Vpl	Vpl-Nsg-or
+1298	31	2	the	det1	Vpl-Nsg-or
+1299	31	3	tire	np1sg	Vpl-Nsg-or
+1300	31	4	or	or	Vpl-Nsg-or
+1301	31	6	<eos>	Vpl-Nsg-or	
+1302	32	0	What	prefix	Vpl-Nsg-or
+1303	32	1	are	Vpl	Vpl-Nsg-or
+1304	32	2	the	det1	Vpl-Nsg-or
+1305	32	3	report	np1sg	Vpl-Nsg-or
+1306	32	4	or	or	Vpl-Nsg-or
+1307	32	6	<eos>	Vpl-Nsg-or	
+1308	33	0	What	prefix	Vpl-Nsg-or
+1309	33	1	are	Vpl	Vpl-Nsg-or
+1310	33	2	the	det1	Vpl-Nsg-or
+1311	33	3	warrant	np1sg	Vpl-Nsg-or
+1312	33	4	or	or	Vpl-Nsg-or
+1313	33	6	<eos>	Vpl-Nsg-or	
+1314	34	0	What	prefix	Vpl-Nsg-or
+1315	34	1	are	Vpl	Vpl-Nsg-or
+1316	34	2	the	det1	Vpl-Nsg-or
+1317	34	3	meeting	np1sg	Vpl-Nsg-or
+1318	34	4	or	or	Vpl-Nsg-or
+1319	34	6	<eos>	Vpl-Nsg-or	
+1320	35	0	What	prefix	Vpl-Nsg-or
+1321	35	1	are	Vpl	Vpl-Nsg-or
+1322	35	2	the	det1	Vpl-Nsg-or
+1323	35	3	sidewalk	np1sg	Vpl-Nsg-or
+1324	35	4	or	or	Vpl-Nsg-or
+1325	35	6	<eos>	Vpl-Nsg-or	
+1326	36	0	What	prefix	Vpl-Nsg-or
+1327	36	1	are	Vpl	Vpl-Nsg-or
+1328	36	2	the	det1	Vpl-Nsg-or
+1329	36	3	job	np1sg	Vpl-Nsg-or
+1330	36	4	or	or	Vpl-Nsg-or
+1331	36	6	<eos>	Vpl-Nsg-or	
+1332	0	0	What	prefix	Vsg-Npl-or
+1333	0	1	is	Vsg	Vsg-Npl-or
+1334	0	2	the	det1	Vsg-Npl-or
+1335	0	3	bulls	np1pl	Vsg-Npl-or
+1336	0	4	or	or	Vsg-Npl-or
+1337	0	6	<eos>	Vsg-Npl-or	
+1338	1	0	What	prefix	Vsg-Npl-or
+1339	1	1	is	Vsg	Vsg-Npl-or
+1340	1	2	the	det1	Vsg-Npl-or
+1341	1	3	doors	np1pl	Vsg-Npl-or
+1342	1	4	or	or	Vsg-Npl-or
+1343	1	6	<eos>	Vsg-Npl-or	
+1344	2	0	What	prefix	Vsg-Npl-or
+1345	2	1	is	Vsg	Vsg-Npl-or
+1346	2	2	the	det1	Vsg-Npl-or
+1347	2	3	toys	np1pl	Vsg-Npl-or
+1348	2	4	or	or	Vsg-Npl-or
+1349	2	6	<eos>	Vsg-Npl-or	
+1350	3	0	What	prefix	Vsg-Npl-or
+1351	3	1	is	Vsg	Vsg-Npl-or
+1352	3	2	the	det1	Vsg-Npl-or
+1353	3	3	headlines	np1pl	Vsg-Npl-or
+1354	3	4	or	or	Vsg-Npl-or
+1355	3	6	<eos>	Vsg-Npl-or	
+1356	4	0	What	prefix	Vsg-Npl-or
+1357	4	1	is	Vsg	Vsg-Npl-or
+1358	4	2	the	det1	Vsg-Npl-or
+1359	4	3	leaders	np1pl	Vsg-Npl-or
+1360	4	4	or	or	Vsg-Npl-or
+1361	4	6	<eos>	Vsg-Npl-or	
+1362	5	0	What	prefix	Vsg-Npl-or
+1363	5	1	is	Vsg	Vsg-Npl-or
+1364	5	2	the	det1	Vsg-Npl-or
+1365	5	3	physicians	np1pl	Vsg-Npl-or
+1366	5	4	or	or	Vsg-Npl-or
+1367	5	6	<eos>	Vsg-Npl-or	
+1368	6	0	What	prefix	Vsg-Npl-or
+1369	6	1	is	Vsg	Vsg-Npl-or
+1370	6	2	the	det1	Vsg-Npl-or
+1371	6	3	experts	np1pl	Vsg-Npl-or
+1372	6	4	or	or	Vsg-Npl-or
+1373	6	6	<eos>	Vsg-Npl-or	
+1374	7	0	What	prefix	Vsg-Npl-or
+1375	7	1	is	Vsg	Vsg-Npl-or
+1376	7	2	the	det1	Vsg-Npl-or
+1377	7	3	stockbrokers	np1pl	Vsg-Npl-or
+1378	7	4	or	or	Vsg-Npl-or
+1379	7	6	<eos>	Vsg-Npl-or	
+1380	8	0	What	prefix	Vsg-Npl-or
+1381	8	1	is	Vsg	Vsg-Npl-or
+1382	8	2	the	det1	Vsg-Npl-or
+1383	8	3	commanders	np1pl	Vsg-Npl-or
+1384	8	4	or	or	Vsg-Npl-or
+1385	8	6	<eos>	Vsg-Npl-or	
+1386	9	0	What	prefix	Vsg-Npl-or
+1387	9	1	is	Vsg	Vsg-Npl-or
+1388	9	2	the	det1	Vsg-Npl-or
+1389	9	3	pilots	np1pl	Vsg-Npl-or
+1390	9	4	or	or	Vsg-Npl-or
+1391	9	6	<eos>	Vsg-Npl-or	
+1392	10	0	What	prefix	Vsg-Npl-or
+1393	10	1	is	Vsg	Vsg-Npl-or
+1394	10	2	the	det1	Vsg-Npl-or
+1395	10	3	knights	np1pl	Vsg-Npl-or
+1396	10	4	or	or	Vsg-Npl-or
+1397	10	6	<eos>	Vsg-Npl-or	
+1398	11	0	What	prefix	Vsg-Npl-or
+1399	11	1	is	Vsg	Vsg-Npl-or
+1400	11	2	the	det1	Vsg-Npl-or
+1401	11	3	keys	np1pl	Vsg-Npl-or
+1402	11	4	or	or	Vsg-Npl-or
+1403	11	6	<eos>	Vsg-Npl-or	
+1404	12	0	What	prefix	Vsg-Npl-or
+1405	12	1	is	Vsg	Vsg-Npl-or
+1406	12	2	the	det1	Vsg-Npl-or
+1407	12	3	memos	np1pl	Vsg-Npl-or
+1408	12	4	or	or	Vsg-Npl-or
+1409	12	6	<eos>	Vsg-Npl-or	
+1410	13	0	What	prefix	Vsg-Npl-or
+1411	13	1	is	Vsg	Vsg-Npl-or
+1412	13	2	the	det1	Vsg-Npl-or
+1413	13	3	warnings	np1pl	Vsg-Npl-or
+1414	13	4	or	or	Vsg-Npl-or
+1415	13	6	<eos>	Vsg-Npl-or	
+1416	14	0	What	prefix	Vsg-Npl-or
+1417	14	1	is	Vsg	Vsg-Npl-or
+1418	14	2	the	det1	Vsg-Npl-or
+1419	14	3	protests	np1pl	Vsg-Npl-or
+1420	14	4	or	or	Vsg-Npl-or
+1421	14	6	<eos>	Vsg-Npl-or	
+1422	15	0	What	prefix	Vsg-Npl-or
+1423	15	1	is	Vsg	Vsg-Npl-or
+1424	15	2	the	det1	Vsg-Npl-or
+1425	15	3	investigations	np1pl	Vsg-Npl-or
+1426	15	4	or	or	Vsg-Npl-or
+1427	15	6	<eos>	Vsg-Npl-or	
+1428	16	0	What	prefix	Vsg-Npl-or
+1429	16	1	is	Vsg	Vsg-Npl-or
+1430	16	2	the	det1	Vsg-Npl-or
+1431	16	3	drivers	np1pl	Vsg-Npl-or
+1432	16	4	or	or	Vsg-Npl-or
+1433	16	6	<eos>	Vsg-Npl-or	
+1434	17	0	What	prefix	Vsg-Npl-or
+1435	17	1	is	Vsg	Vsg-Npl-or
+1436	17	2	the	det1	Vsg-Npl-or
+1437	17	3	walls	np1pl	Vsg-Npl-or
+1438	17	4	or	or	Vsg-Npl-or
+1439	17	6	<eos>	Vsg-Npl-or	
+1440	18	0	What	prefix	Vsg-Npl-or
+1441	18	1	is	Vsg	Vsg-Npl-or
+1442	18	2	the	det1	Vsg-Npl-or
+1443	18	3	apartments	np1pl	Vsg-Npl-or
+1444	18	4	or	or	Vsg-Npl-or
+1445	18	6	<eos>	Vsg-Npl-or	
+1446	19	0	What	prefix	Vsg-Npl-or
+1447	19	1	is	Vsg	Vsg-Npl-or
+1448	19	2	the	det1	Vsg-Npl-or
+1449	19	3	pedestrians	np1pl	Vsg-Npl-or
+1450	19	4	or	or	Vsg-Npl-or
+1451	19	6	<eos>	Vsg-Npl-or	
+1452	20	0	What	prefix	Vsg-Npl-or
+1453	20	1	is	Vsg	Vsg-Npl-or
+1454	20	2	the	det1	Vsg-Npl-or
+1455	20	3	coaches	np1pl	Vsg-Npl-or
+1456	20	4	or	or	Vsg-Npl-or
+1457	20	6	<eos>	Vsg-Npl-or	
+1458	21	0	What	prefix	Vsg-Npl-or
+1459	21	1	is	Vsg	Vsg-Npl-or
+1460	21	2	the	det1	Vsg-Npl-or
+1461	21	3	episodes	np1pl	Vsg-Npl-or
+1462	21	4	or	or	Vsg-Npl-or
+1463	21	6	<eos>	Vsg-Npl-or	
+1464	22	0	What	prefix	Vsg-Npl-or
+1465	22	1	is	Vsg	Vsg-Npl-or
+1466	22	2	the	det1	Vsg-Npl-or
+1467	22	3	programs	np1pl	Vsg-Npl-or
+1468	22	4	or	or	Vsg-Npl-or
+1469	22	6	<eos>	Vsg-Npl-or	
+1470	23	0	What	prefix	Vsg-Npl-or
+1471	23	1	is	Vsg	Vsg-Npl-or
+1472	23	2	the	det1	Vsg-Npl-or
+1473	23	3	managers	np1pl	Vsg-Npl-or
+1474	23	4	or	or	Vsg-Npl-or
+1475	23	6	<eos>	Vsg-Npl-or	
+1476	24	0	What	prefix	Vsg-Npl-or
+1477	24	1	is	Vsg	Vsg-Npl-or
+1478	24	2	the	det1	Vsg-Npl-or
+1479	24	3	mayors	np1pl	Vsg-Npl-or
+1480	24	4	or	or	Vsg-Npl-or
+1481	24	6	<eos>	Vsg-Npl-or	
+1482	25	0	What	prefix	Vsg-Npl-or
+1483	25	1	is	Vsg	Vsg-Npl-or
+1484	25	2	the	det1	Vsg-Npl-or
+1485	25	3	cultures	np1pl	Vsg-Npl-or
+1486	25	4	or	or	Vsg-Npl-or
+1487	25	6	<eos>	Vsg-Npl-or	
+1488	26	0	What	prefix	Vsg-Npl-or
+1489	26	1	is	Vsg	Vsg-Npl-or
+1490	26	2	the	det1	Vsg-Npl-or
+1491	26	3	activities	np1pl	Vsg-Npl-or
+1492	26	4	or	or	Vsg-Npl-or
+1493	26	6	<eos>	Vsg-Npl-or	
+1494	27	0	What	prefix	Vsg-Npl-or
+1495	27	1	is	Vsg	Vsg-Npl-or
+1496	27	2	the	det1	Vsg-Npl-or
+1497	27	3	arguments	np1pl	Vsg-Npl-or
+1498	27	4	or	or	Vsg-Npl-or
+1499	27	6	<eos>	Vsg-Npl-or	
+1500	28	0	What	prefix	Vsg-Npl-or
+1501	28	1	is	Vsg	Vsg-Npl-or
+1502	28	2	the	det1	Vsg-Npl-or
+1503	28	3	defects	np1pl	Vsg-Npl-or
+1504	28	4	or	or	Vsg-Npl-or
+1505	28	6	<eos>	Vsg-Npl-or	
+1506	29	0	What	prefix	Vsg-Npl-or
+1507	29	1	is	Vsg	Vsg-Npl-or
+1508	29	2	the	det1	Vsg-Npl-or
+1509	29	3	assumptions	np1pl	Vsg-Npl-or
+1510	29	4	or	or	Vsg-Npl-or
+1511	29	6	<eos>	Vsg-Npl-or	
+1512	30	0	What	prefix	Vsg-Npl-or
+1513	30	1	is	Vsg	Vsg-Npl-or
+1514	30	2	the	det1	Vsg-Npl-or
+1515	30	3	pools	np1pl	Vsg-Npl-or
+1516	30	4	or	or	Vsg-Npl-or
+1517	30	6	<eos>	Vsg-Npl-or	
+1518	31	0	What	prefix	Vsg-Npl-or
+1519	31	1	is	Vsg	Vsg-Npl-or
+1520	31	2	the	det1	Vsg-Npl-or
+1521	31	3	tires	np1pl	Vsg-Npl-or
+1522	31	4	or	or	Vsg-Npl-or
+1523	31	6	<eos>	Vsg-Npl-or	
+1524	32	0	What	prefix	Vsg-Npl-or
+1525	32	1	is	Vsg	Vsg-Npl-or
+1526	32	2	the	det1	Vsg-Npl-or
+1527	32	3	reports	np1pl	Vsg-Npl-or
+1528	32	4	or	or	Vsg-Npl-or
+1529	32	6	<eos>	Vsg-Npl-or	
+1530	33	0	What	prefix	Vsg-Npl-or
+1531	33	1	is	Vsg	Vsg-Npl-or
+1532	33	2	the	det1	Vsg-Npl-or
+1533	33	3	warrants	np1pl	Vsg-Npl-or
+1534	33	4	or	or	Vsg-Npl-or
+1535	33	6	<eos>	Vsg-Npl-or	
+1536	34	0	What	prefix	Vsg-Npl-or
+1537	34	1	is	Vsg	Vsg-Npl-or
+1538	34	2	the	det1	Vsg-Npl-or
+1539	34	3	meetings	np1pl	Vsg-Npl-or
+1540	34	4	or	or	Vsg-Npl-or
+1541	34	6	<eos>	Vsg-Npl-or	
+1542	35	0	What	prefix	Vsg-Npl-or
+1543	35	1	is	Vsg	Vsg-Npl-or
+1544	35	2	the	det1	Vsg-Npl-or
+1545	35	3	sidewalks	np1pl	Vsg-Npl-or
+1546	35	4	or	or	Vsg-Npl-or
+1547	35	6	<eos>	Vsg-Npl-or	
+1548	36	0	What	prefix	Vsg-Npl-or
+1549	36	1	is	Vsg	Vsg-Npl-or
+1550	36	2	the	det1	Vsg-Npl-or
+1551	36	3	jobs	np1pl	Vsg-Npl-or
+1552	36	4	or	or	Vsg-Npl-or
+1553	36	6	<eos>	Vsg-Npl-or	
+1554	0	0	What	prefix	Vpl-Npl-or
+1555	0	1	are	Vpl	Vpl-Npl-or
+1556	0	2	the	det1	Vpl-Npl-or
+1557	0	3	bulls	np1pl	Vpl-Npl-or
+1558	0	4	or	or	Vpl-Npl-or
+1559	0	6	<eos>	Vpl-Npl-or	
+1560	1	0	What	prefix	Vpl-Npl-or
+1561	1	1	are	Vpl	Vpl-Npl-or
+1562	1	2	the	det1	Vpl-Npl-or
+1563	1	3	doors	np1pl	Vpl-Npl-or
+1564	1	4	or	or	Vpl-Npl-or
+1565	1	6	<eos>	Vpl-Npl-or	
+1566	2	0	What	prefix	Vpl-Npl-or
+1567	2	1	are	Vpl	Vpl-Npl-or
+1568	2	2	the	det1	Vpl-Npl-or
+1569	2	3	toys	np1pl	Vpl-Npl-or
+1570	2	4	or	or	Vpl-Npl-or
+1571	2	6	<eos>	Vpl-Npl-or	
+1572	3	0	What	prefix	Vpl-Npl-or
+1573	3	1	are	Vpl	Vpl-Npl-or
+1574	3	2	the	det1	Vpl-Npl-or
+1575	3	3	headlines	np1pl	Vpl-Npl-or
+1576	3	4	or	or	Vpl-Npl-or
+1577	3	6	<eos>	Vpl-Npl-or	
+1578	4	0	What	prefix	Vpl-Npl-or
+1579	4	1	are	Vpl	Vpl-Npl-or
+1580	4	2	the	det1	Vpl-Npl-or
+1581	4	3	leaders	np1pl	Vpl-Npl-or
+1582	4	4	or	or	Vpl-Npl-or
+1583	4	6	<eos>	Vpl-Npl-or	
+1584	5	0	What	prefix	Vpl-Npl-or
+1585	5	1	are	Vpl	Vpl-Npl-or
+1586	5	2	the	det1	Vpl-Npl-or
+1587	5	3	physicians	np1pl	Vpl-Npl-or
+1588	5	4	or	or	Vpl-Npl-or
+1589	5	6	<eos>	Vpl-Npl-or	
+1590	6	0	What	prefix	Vpl-Npl-or
+1591	6	1	are	Vpl	Vpl-Npl-or
+1592	6	2	the	det1	Vpl-Npl-or
+1593	6	3	experts	np1pl	Vpl-Npl-or
+1594	6	4	or	or	Vpl-Npl-or
+1595	6	6	<eos>	Vpl-Npl-or	
+1596	7	0	What	prefix	Vpl-Npl-or
+1597	7	1	are	Vpl	Vpl-Npl-or
+1598	7	2	the	det1	Vpl-Npl-or
+1599	7	3	stockbrokers	np1pl	Vpl-Npl-or
+1600	7	4	or	or	Vpl-Npl-or
+1601	7	6	<eos>	Vpl-Npl-or	
+1602	8	0	What	prefix	Vpl-Npl-or
+1603	8	1	are	Vpl	Vpl-Npl-or
+1604	8	2	the	det1	Vpl-Npl-or
+1605	8	3	commanders	np1pl	Vpl-Npl-or
+1606	8	4	or	or	Vpl-Npl-or
+1607	8	6	<eos>	Vpl-Npl-or	
+1608	9	0	What	prefix	Vpl-Npl-or
+1609	9	1	are	Vpl	Vpl-Npl-or
+1610	9	2	the	det1	Vpl-Npl-or
+1611	9	3	pilots	np1pl	Vpl-Npl-or
+1612	9	4	or	or	Vpl-Npl-or
+1613	9	6	<eos>	Vpl-Npl-or	
+1614	10	0	What	prefix	Vpl-Npl-or
+1615	10	1	are	Vpl	Vpl-Npl-or
+1616	10	2	the	det1	Vpl-Npl-or
+1617	10	3	knights	np1pl	Vpl-Npl-or
+1618	10	4	or	or	Vpl-Npl-or
+1619	10	6	<eos>	Vpl-Npl-or	
+1620	11	0	What	prefix	Vpl-Npl-or
+1621	11	1	are	Vpl	Vpl-Npl-or
+1622	11	2	the	det1	Vpl-Npl-or
+1623	11	3	keys	np1pl	Vpl-Npl-or
+1624	11	4	or	or	Vpl-Npl-or
+1625	11	6	<eos>	Vpl-Npl-or	
+1626	12	0	What	prefix	Vpl-Npl-or
+1627	12	1	are	Vpl	Vpl-Npl-or
+1628	12	2	the	det1	Vpl-Npl-or
+1629	12	3	memos	np1pl	Vpl-Npl-or
+1630	12	4	or	or	Vpl-Npl-or
+1631	12	6	<eos>	Vpl-Npl-or	
+1632	13	0	What	prefix	Vpl-Npl-or
+1633	13	1	are	Vpl	Vpl-Npl-or
+1634	13	2	the	det1	Vpl-Npl-or
+1635	13	3	warnings	np1pl	Vpl-Npl-or
+1636	13	4	or	or	Vpl-Npl-or
+1637	13	6	<eos>	Vpl-Npl-or	
+1638	14	0	What	prefix	Vpl-Npl-or
+1639	14	1	are	Vpl	Vpl-Npl-or
+1640	14	2	the	det1	Vpl-Npl-or
+1641	14	3	protests	np1pl	Vpl-Npl-or
+1642	14	4	or	or	Vpl-Npl-or
+1643	14	6	<eos>	Vpl-Npl-or	
+1644	15	0	What	prefix	Vpl-Npl-or
+1645	15	1	are	Vpl	Vpl-Npl-or
+1646	15	2	the	det1	Vpl-Npl-or
+1647	15	3	investigations	np1pl	Vpl-Npl-or
+1648	15	4	or	or	Vpl-Npl-or
+1649	15	6	<eos>	Vpl-Npl-or	
+1650	16	0	What	prefix	Vpl-Npl-or
+1651	16	1	are	Vpl	Vpl-Npl-or
+1652	16	2	the	det1	Vpl-Npl-or
+1653	16	3	drivers	np1pl	Vpl-Npl-or
+1654	16	4	or	or	Vpl-Npl-or
+1655	16	6	<eos>	Vpl-Npl-or	
+1656	17	0	What	prefix	Vpl-Npl-or
+1657	17	1	are	Vpl	Vpl-Npl-or
+1658	17	2	the	det1	Vpl-Npl-or
+1659	17	3	walls	np1pl	Vpl-Npl-or
+1660	17	4	or	or	Vpl-Npl-or
+1661	17	6	<eos>	Vpl-Npl-or	
+1662	18	0	What	prefix	Vpl-Npl-or
+1663	18	1	are	Vpl	Vpl-Npl-or
+1664	18	2	the	det1	Vpl-Npl-or
+1665	18	3	apartments	np1pl	Vpl-Npl-or
+1666	18	4	or	or	Vpl-Npl-or
+1667	18	6	<eos>	Vpl-Npl-or	
+1668	19	0	What	prefix	Vpl-Npl-or
+1669	19	1	are	Vpl	Vpl-Npl-or
+1670	19	2	the	det1	Vpl-Npl-or
+1671	19	3	pedestrians	np1pl	Vpl-Npl-or
+1672	19	4	or	or	Vpl-Npl-or
+1673	19	6	<eos>	Vpl-Npl-or	
+1674	20	0	What	prefix	Vpl-Npl-or
+1675	20	1	are	Vpl	Vpl-Npl-or
+1676	20	2	the	det1	Vpl-Npl-or
+1677	20	3	coaches	np1pl	Vpl-Npl-or
+1678	20	4	or	or	Vpl-Npl-or
+1679	20	6	<eos>	Vpl-Npl-or	
+1680	21	0	What	prefix	Vpl-Npl-or
+1681	21	1	are	Vpl	Vpl-Npl-or
+1682	21	2	the	det1	Vpl-Npl-or
+1683	21	3	episodes	np1pl	Vpl-Npl-or
+1684	21	4	or	or	Vpl-Npl-or
+1685	21	6	<eos>	Vpl-Npl-or	
+1686	22	0	What	prefix	Vpl-Npl-or
+1687	22	1	are	Vpl	Vpl-Npl-or
+1688	22	2	the	det1	Vpl-Npl-or
+1689	22	3	programs	np1pl	Vpl-Npl-or
+1690	22	4	or	or	Vpl-Npl-or
+1691	22	6	<eos>	Vpl-Npl-or	
+1692	23	0	What	prefix	Vpl-Npl-or
+1693	23	1	are	Vpl	Vpl-Npl-or
+1694	23	2	the	det1	Vpl-Npl-or
+1695	23	3	managers	np1pl	Vpl-Npl-or
+1696	23	4	or	or	Vpl-Npl-or
+1697	23	6	<eos>	Vpl-Npl-or	
+1698	24	0	What	prefix	Vpl-Npl-or
+1699	24	1	are	Vpl	Vpl-Npl-or
+1700	24	2	the	det1	Vpl-Npl-or
+1701	24	3	mayors	np1pl	Vpl-Npl-or
+1702	24	4	or	or	Vpl-Npl-or
+1703	24	6	<eos>	Vpl-Npl-or	
+1704	25	0	What	prefix	Vpl-Npl-or
+1705	25	1	are	Vpl	Vpl-Npl-or
+1706	25	2	the	det1	Vpl-Npl-or
+1707	25	3	cultures	np1pl	Vpl-Npl-or
+1708	25	4	or	or	Vpl-Npl-or
+1709	25	6	<eos>	Vpl-Npl-or	
+1710	26	0	What	prefix	Vpl-Npl-or
+1711	26	1	are	Vpl	Vpl-Npl-or
+1712	26	2	the	det1	Vpl-Npl-or
+1713	26	3	activities	np1pl	Vpl-Npl-or
+1714	26	4	or	or	Vpl-Npl-or
+1715	26	6	<eos>	Vpl-Npl-or	
+1716	27	0	What	prefix	Vpl-Npl-or
+1717	27	1	are	Vpl	Vpl-Npl-or
+1718	27	2	the	det1	Vpl-Npl-or
+1719	27	3	arguments	np1pl	Vpl-Npl-or
+1720	27	4	or	or	Vpl-Npl-or
+1721	27	6	<eos>	Vpl-Npl-or	
+1722	28	0	What	prefix	Vpl-Npl-or
+1723	28	1	are	Vpl	Vpl-Npl-or
+1724	28	2	the	det1	Vpl-Npl-or
+1725	28	3	defects	np1pl	Vpl-Npl-or
+1726	28	4	or	or	Vpl-Npl-or
+1727	28	6	<eos>	Vpl-Npl-or	
+1728	29	0	What	prefix	Vpl-Npl-or
+1729	29	1	are	Vpl	Vpl-Npl-or
+1730	29	2	the	det1	Vpl-Npl-or
+1731	29	3	assumptions	np1pl	Vpl-Npl-or
+1732	29	4	or	or	Vpl-Npl-or
+1733	29	6	<eos>	Vpl-Npl-or	
+1734	30	0	What	prefix	Vpl-Npl-or
+1735	30	1	are	Vpl	Vpl-Npl-or
+1736	30	2	the	det1	Vpl-Npl-or
+1737	30	3	pools	np1pl	Vpl-Npl-or
+1738	30	4	or	or	Vpl-Npl-or
+1739	30	6	<eos>	Vpl-Npl-or	
+1740	31	0	What	prefix	Vpl-Npl-or
+1741	31	1	are	Vpl	Vpl-Npl-or
+1742	31	2	the	det1	Vpl-Npl-or
+1743	31	3	tires	np1pl	Vpl-Npl-or
+1744	31	4	or	or	Vpl-Npl-or
+1745	31	6	<eos>	Vpl-Npl-or	
+1746	32	0	What	prefix	Vpl-Npl-or
+1747	32	1	are	Vpl	Vpl-Npl-or
+1748	32	2	the	det1	Vpl-Npl-or
+1749	32	3	reports	np1pl	Vpl-Npl-or
+1750	32	4	or	or	Vpl-Npl-or
+1751	32	6	<eos>	Vpl-Npl-or	
+1752	33	0	What	prefix	Vpl-Npl-or
+1753	33	1	are	Vpl	Vpl-Npl-or
+1754	33	2	the	det1	Vpl-Npl-or
+1755	33	3	warrants	np1pl	Vpl-Npl-or
+1756	33	4	or	or	Vpl-Npl-or
+1757	33	6	<eos>	Vpl-Npl-or	
+1758	34	0	What	prefix	Vpl-Npl-or
+1759	34	1	are	Vpl	Vpl-Npl-or
+1760	34	2	the	det1	Vpl-Npl-or
+1761	34	3	meetings	np1pl	Vpl-Npl-or
+1762	34	4	or	or	Vpl-Npl-or
+1763	34	6	<eos>	Vpl-Npl-or	
+1764	35	0	What	prefix	Vpl-Npl-or
+1765	35	1	are	Vpl	Vpl-Npl-or
+1766	35	2	the	det1	Vpl-Npl-or
+1767	35	3	sidewalks	np1pl	Vpl-Npl-or
+1768	35	4	or	or	Vpl-Npl-or
+1769	35	6	<eos>	Vpl-Npl-or	
+1770	36	0	What	prefix	Vpl-Npl-or
+1771	36	1	are	Vpl	Vpl-Npl-or
+1772	36	2	the	det1	Vpl-Npl-or
+1773	36	3	jobs	np1pl	Vpl-Npl-or
+1774	36	4	or	or	Vpl-Npl-or
+1775	36	6	<eos>	Vpl-Npl-or	
