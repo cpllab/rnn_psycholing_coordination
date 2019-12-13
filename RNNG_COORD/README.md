@@ -1,3 +1,5 @@
+Simplify the set of tags in  Ficler and Goldberg (2016)
+
 to run the script simplify_tag.py: 
 
 ```
